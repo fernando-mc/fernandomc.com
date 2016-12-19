@@ -1,0 +1,23 @@
+baseurl = "https://www.fernandomc.com"
+languageCode = "en-US"
+title = "Fernando Medina Corey"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "fernandomc"
+copyright = "© Fernando Medina Corey"
+GoogleAnalytics = "UA-88768773-1"
+
+[params]
+    # favicon = "favicon.ico"
+    subtitle = "Data Engineer at Curalate. Pluralsight Author. Tech Pun Connoisseur."
+	[params.author]
+		name = "Fernando Medina Corey"
+		avatar = "/images/Fernando Medina Corey bw.jpg"
+		bio = "Hi, I'm Fernando, I'm a Data Engineer at Curalate in Philadelphia. I'm also a Pluralsight Author, an organizer of Serverless PHL meetup group and an avid punster. You've been forewarned."
+		github = "fernando-mc"
+        twitter = "fmc_sea"
+        linkedin = "fmc-sea"
+	[params.image]
+	  feature = "/images/philly.jpg"
