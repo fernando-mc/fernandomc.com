@@ -1,11 +1,11 @@
 +++
 menu = "main"
-date = "2016-1-18T00:50:09-05:00"
+date = "2016-01-18T00:50:09-05:00"
 title = "Good, Bad or Ugly? – Theoretical Security in Password Creation Systems"
 Description = ""
 Tags = [
   "Passwords",
-  "Diceware",
+  "Diceware"
 ]
 Categories = [
   "Security"

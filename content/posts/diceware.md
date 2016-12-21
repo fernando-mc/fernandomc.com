@@ -1,11 +1,11 @@
 +++
 menu = "main"
-date = "2016-4-15T00:50:09-05:00"
+date = "2016-04-15T00:50:09-05:00"
 title = "A Tool for Diceware Master Passwords"
 Description = ""
 Tags = [
   "Passwords",
-  "Diceware",
+  "Diceware"
 ]
 Categories = [
   "Security"

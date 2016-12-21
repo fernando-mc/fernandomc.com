@@ -1,6 +1,6 @@
 +++
 menu = "main"
-date = "2015-2-23T00:50:09-05:00"
+date = "2015-02-23T00:50:09-05:00"
 title = "Superfishy - How Lenovo Fails to Put User Security First"
 Description = ""
 Tags = [
