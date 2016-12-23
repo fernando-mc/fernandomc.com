@@ -1,6 +1,6 @@
 +++
 menu = "main"
-date = "2016-06-15T00:50:09-05:00"
+date = "2016-03-25T00:50:09-05:00"
 title = "Thanks Python User Group!"
 Description = ""
 Tags = [
