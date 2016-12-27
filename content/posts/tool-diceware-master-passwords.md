@@ -1,5 +1,6 @@
 +++
 menu = "main"
+layout = "post"
 date = "2016-04-15T00:50:09-05:00"
 title = "A Tool for Diceware Master Passwords"
 Description = ""
@@ -10,12 +11,12 @@ Tags = [
 Categories = [
   "Security"
 ]
+[image] 
+feature = "/images/diceware-new.png"
 
 +++
 
 I'm announcing my first attempt at a tool to help with Diceware master password adoption. I've created a single-page HTML file to quickly generate Diceware passwords from dice rolls. Here is a link to the [source](https://github.com/fernando-mc/EasyDice). And here is the [live project](https://rawgit.com/fernando-mc/EasyDice/master/index.html). You can [tweet](https://twitter.com/fmc_sea) at me if you have suggestions, improvements, or requests. 
-
-![Easy Diceware](/images/diceware-new.png)
 
 Here are the goals I had in mind:
 * This should be simple and intuitive for the end user
