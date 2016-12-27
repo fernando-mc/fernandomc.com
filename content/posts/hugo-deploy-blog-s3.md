@@ -21,9 +21,7 @@ Here's a few easy aliases to deploy your static hugo blog to AWS
 
 ```bash
 alias myblog="cd ~/Documents/myblogfolder"
-alias deployblog="myblog && hugo && aws s3 sync ./public s3://your-aws-website-bucket"
+alias deployblog="myblog && hugo && aws s3 sync ./public s3://your-aws-website-bucketn && rm -r ./public"
 ```
 
-This also assumes you've got that bucket configured to use your website. 
-
-
+This also assumes you've got that bucket configured to use your website.
