@@ -10,7 +10,7 @@ Categories = [
   "Deployment",
 ]
 menu = "main"
-date = "2016-12-26T22:48:49-05:00"
+date = "2016-12-24T22:48:49-05:00"
 title = "Hugo - Deploy Blog to s3"
 
 +++
