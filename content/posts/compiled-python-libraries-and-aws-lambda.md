@@ -15,7 +15,7 @@ Categories = [
 ]
 menu = "main"
 date = "2017-01-09T14:08:12-05:00"
-
+publishdate = "2017-01-09T14:08:12-05:00"
 +++
 
 Recently I was trying to use the psycopg2 libraries for Python in combination with AWS Lambda. My first hint that this was probably overkill was that the function package, when zipped, started exceeding 50MB. AWS console errors quickly reminded me that 50MB is the size limit for Lambda packages.
