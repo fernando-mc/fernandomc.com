@@ -15,6 +15,7 @@ Categories = [
 +++
 
 I'm announcing my first attempt at a tool to help with Diceware master password adoption. I've created a single-page HTML file to quickly generate Diceware passwords from dice rolls. Here is a link to the [source](https://github.com/fernando-mc/EasyDice). And here is the [live project](https://rawgit.com/fernando-mc/EasyDice/master/index.html). You can [tweet](https://twitter.com/fmc_sea) at me if you have suggestions, improvements, or requests. 
+<!--more-->
 
 ![Newer Version of Easy Dice](/images/diceware-new.png)
 

@@ -15,6 +15,6 @@ title = "My First Pluralsight Course"
 
 +++
 
-My Pluralsight Course is here! After a lengthy Winter vacation of recording and a few weekends of editing I present to you my [Pluralsight AWS Developer Course - An Introudction to Lambda](https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda)
+My Pluralsight Course is here! After a lengthy Winter vacation of recording and a few weekends of editing I present to you my [Pluralsight AWS Developer Course - An Introudction to Lambda](https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda)<!--more-->
 
 I hope you like it! As always, if you have questions feel free to [contact me](https://www.fernandomc.com/contact)!

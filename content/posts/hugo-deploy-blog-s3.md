@@ -19,9 +19,10 @@ Howdy! I've moved my site to [Hugo](https://gohugo.io)! I've also deployed it us
 
 Here's a few easy aliases to deploy your static hugo blog to AWS
 
+
 ```bash
 alias myblog="cd ~/Documents/myblogfolder"
 alias deployblog="myblog && hugo && aws s3 sync ./public s3://your-aws-website-bucketn && rm -r ./public"
 ```
-
+<!--more-->
 This also assumes you've got that bucket configured to use your website.
