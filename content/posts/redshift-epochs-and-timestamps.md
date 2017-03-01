@@ -2,7 +2,7 @@
 publishdate = "2017-02-19T14:02:54-05:00"
 date = "2017-02-19T14:02:54-05:00"
 title = "Redshift Epochs and Timestamps"
-draft = false
+draft = true
 Description = "A look at a few common AWS Redshift time conversion operations"
 Tags = [
   "PostgreSQL",
