@@ -1,7 +1,7 @@
 +++
 menu = "main"
-publishdate = "2017-03-01T23:04:33-05:00"
-date = "2017-03-01T23:04:33-05:00"
+publishdate = "2017-02-28T23:04:33-05:00"
+date = "2017-02-28T23:04:33-05:00"
 title = "Managing Data Pipeline Workflows in AWS Lambda"
 draft = false
 Description = ""
@@ -26,7 +26,7 @@ Categories = [
 
 This post was originally published for the [Pluralsight Blog](https://www.pluralsight.com/blog/software-development/data-aws-lambda). Be sure to check out my Pluralsight course that can introduce you to [AWS Lambda](https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda)!
 
-Maintaining data warehouses can be a difficult undertaking for any organization. Not only do you have to establish processes and procedures for regularly loading flowing data, you also have to ensure you’re doing it in a way that’s resistant to failure and future errors. In this post, we’ll take a quick look at some of the biggest challenges of maintaining large scale data warehouses, and how AWS Lambda can help.
+Maintaining data warehouses can be a difficult undertaking for any organization. Not only do you have to establish processes and procedures for regularly loading flowing data, you also have to ensure you’re doing it in a way that’s resistant to failure and future errors. In this post, we’ll take a quick look at some of the biggest challenges of maintaining large scale data warehouses, and how AWS Lambda can help.<!--more-->
 
 *Building and maintaining a data warehouse*
 Let’s say you work at an organization that wants to bring organizational data to bear in management decisions. To support the effort of data analysts, your team is tasked with building and maintaining a data warehouse that will serve as the primary source of data used by analysts to provide guidance to management. 
