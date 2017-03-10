@@ -11,7 +11,9 @@ draft: false
 **Currently Reading**
 
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765350386/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765350386&linkCode=as2&tag=fernando01-20&linkId=7d2e25fa410012426a86c13cac9fee71">Mistborn: The Final Empire (Book No. 1)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765350386" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-- <a target="_blank" href="https://www.amazon.com/gp/product/1476762090/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1476762090&linkCode=as2&tag=fernando01-20&linkId=f7fecc3cb6fda30aa0ebf28f847b3948">Come as You Are</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1476762090" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+- <a target="_blank" href="https://www.amazon.com/gp/product/0441478123/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441478123&linkCode=as2&tag=fernando01-20&linkId=c770330e1957a1d689ca4c6948c4d58a">The Left Hand of Darkness</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0441478123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
 - <a target="_blank" href="https://www.amazon.com/gp/product/1616960922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616960922&linkCode=as2&tag=fernando01-20&linkId=9ad17792f615c74497ec7b937ac01592">The Emperor's Soul (Hugo Award Winner - Best Novella)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1616960922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **2017**
