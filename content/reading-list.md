@@ -11,10 +11,9 @@ So I have a long commute.
 
 **Currently Reading**
 
-- <a target="_blank" href="https://www.amazon.com/gp/product/0451526341/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451526341&linkCode=as2&tag=fernando01-20&linkId=ea046f15679de81f40bdce1860a9b932">Animal farm</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0451526341" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/1328869334/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1328869334&linkCode=as2&tag=fernando01-20&linkId=a85a4352cbc33e58d64dc95b9be028b0">1984</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1328869334" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
-**Other things I want to read**
+**Other things I want to read next**
 
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765368544/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765368544&linkCode=as2&tag=fernando01-20&linkId=9998cd932573ccd48ed50b0dd421e0fd">The Alloy of Law: A Mistborn Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765368544" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765378566/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765378566&linkCode=as2&tag=fernando01-20&linkId=218da163a1cba0ecdf3a92f30de87a8f">Shadows of Self: A Mistborn Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765378566" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -33,6 +32,7 @@ So I have a long commute.
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765350386/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765350386&linkCode=as2&tag=fernando01-20&linkId=7d2e25fa410012426a86c13cac9fee71">Mistborn: The Final Empire (Mistborn, Book 1)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765350386" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765356139/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765356139&linkCode=as2&tag=fernando01-20&linkId=dbaf9ee9955ff2dc5e4c3c43c12c0b32">The Well of Ascension (Mistborn, Book 2)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765356139" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765356147/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765356147&linkCode=as2&tag=fernando01-20&linkId=461beeb71b85d7458973d12eeebdc2bf">The Hero of Ages (Mistborn, Book 3)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765356147" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="https://www.amazon.com/gp/product/0451526341/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0451526341&linkCode=as2&tag=fernando01-20&linkId=ea046f15679de81f40bdce1860a9b932">Animal farm</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0451526341" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 
 **2016**
