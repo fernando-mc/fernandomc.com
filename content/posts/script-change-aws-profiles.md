@@ -13,7 +13,7 @@ Categories = [
   "Python",
 ]
 menu = "main"
-publishdate = ""
+publishdate = "2017-04-02T20:51:04-07:00"
 date = "2017-04-02T20:51:04-07:00"
 title = "Python Script to Change AWS Profiles"
 
