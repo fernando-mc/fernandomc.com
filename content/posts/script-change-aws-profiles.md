@@ -14,7 +14,7 @@ Categories = [
 ]
 menu = "main"
 publishdate = ""
-date = "2017-03-30T20:51:04-07:00"
+date = "2017-04-02T20:51:04-07:00"
 title = "Python Script to Change AWS Profiles"
 
 +++
