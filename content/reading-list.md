@@ -7,11 +7,12 @@ draft: false
 
 **My Reading List:**
 
-So I have a long commute.
+I have a long commute...
 
 **Currently Reading**
 
 - <a target="_blank" href="https://www.amazon.com/gp/product/1328869334/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1328869334&linkCode=as2&tag=fernando01-20&linkId=a85a4352cbc33e58d64dc95b9be028b0">1984</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1328869334" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="https://www.amazon.com/gp/product/1616960922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616960922&linkCode=as2&tag=fernando01-20&linkId=9ad17792f615c74497ec7b937ac01592">The Emperor's Soul</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1616960922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Other things I want to read next**
 
@@ -19,7 +20,6 @@ So I have a long commute.
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765378566/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765378566&linkCode=as2&tag=fernando01-20&linkId=218da163a1cba0ecdf3a92f30de87a8f">Shadows of Self: A Mistborn Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765378566" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0765378582/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765378582&linkCode=as2&tag=fernando01-20&linkId=4d717a1f97db01b103cf5aa64a5f77b8">The Bands of Mourning: A Mistborn Novel</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765378582" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0441478123/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441478123&linkCode=as2&tag=fernando01-20&linkId=c770330e1957a1d689ca4c6948c4d58a">The Left Hand of Darkness</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0441478123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-- <a target="_blank" href="https://www.amazon.com/gp/product/1616960922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616960922&linkCode=as2&tag=fernando01-20&linkId=9ad17792f615c74497ec7b937ac01592">The Emperor's Soul</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1616960922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - The Doors of Stone (Whenever it comes out!)
 
 **2017**
