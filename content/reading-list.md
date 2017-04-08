@@ -11,8 +11,7 @@ I have a long commute...
 
 **Currently Reading/Rereading/Listening to:**
 
-- [Martin Luther King - Beyond Vietnam](http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_beyond_vietnam/)
-- <a target="_blank" href="https://www.amazon.com/gp/product/0786939532/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786939532&linkCode=as2&tag=fernando01-20&linkId=4e80bd8811520aa1417959537456b180">Homeland: The Legend of Drizzt</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0786939532" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="https://www.amazon.com/gp/product/1442482559/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442482559&linkCode=as2&tag=fernando01-20&linkId=9e68737ff8ca9811ab5fd439d1a54eb3">The Lord of Opium</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1442482559" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Other things I want to read next**
 
@@ -26,6 +25,8 @@ I have a long commute...
 
 **2017**
 
+- [Martin Luther King - Beyond Vietnam](http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_beyond_vietnam/)
+- <a target="_blank" href="https://www.amazon.com/gp/product/0786939532/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0786939532&linkCode=as2&tag=fernando01-20&linkId=4e80bd8811520aa1417959537456b180">Homeland: The Legend of Drizzt</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0786939532" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/1328869334/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1328869334&linkCode=as2&tag=fernando01-20&linkId=a85a4352cbc33e58d64dc95b9be028b0">1984</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1328869334" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/1616960922/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1616960922&linkCode=as2&tag=fernando01-20&linkId=9ad17792f615c74497ec7b937ac01592">The Emperor's Soul</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1616960922" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/1599869772/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1599869772&linkCode=as2&tag=fernando01-20&linkId=70a988cde59bf5592b20ece42819eacf">The Art Of War</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1599869772" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
