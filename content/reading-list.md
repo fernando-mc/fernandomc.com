@@ -11,7 +11,7 @@ I have a long commute...
 
 **Currently Reading/Rereading/Listening to:**
 
-- <a target="_blank" href="https://www.amazon.com/gp/product/1442482559/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1442482559&linkCode=as2&tag=fernando01-20&linkId=9e68737ff8ca9811ab5fd439d1a54eb3">The Lord of Opium</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=1442482559" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="https://www.amazon.com/gp/product/B005745I4C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005745I4C&linkCode=as2&tag=fernando01-20&linkId=0387d6c07677c629e7c49e05e2a0ef9c">American Gods</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=B005745I4C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Other things I want to read next**
 
