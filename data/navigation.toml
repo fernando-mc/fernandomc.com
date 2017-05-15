@@ -3,5 +3,9 @@ title = "Contact"
 url = "/contact/"
 
 [[links]]
+title = "Mailing List"
+url = "/mailing-list/"
+
+[[links]]
 title = "Reading List"
 url = "/reading-list/"
