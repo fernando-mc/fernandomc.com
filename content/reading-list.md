@@ -11,7 +11,7 @@ I have a long commute...
 
 **Currently Reading:**
 
-- <a href="https://www.packtpub.com/mapt/book/application_development/9781783280971"Mastering Object-oriented Python - By Steven F. Lott
+- <a href="https://www.packtpub.com/mapt/book/application_development/9781783280971">Mastering Object-oriented Python - By Steven F. Lott</a>
 
 **Other things I want to read next**
 
