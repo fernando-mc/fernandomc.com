@@ -18,7 +18,7 @@ menu = "main"
 
 +++
 
-I've noticed that I end up looking for the same small subset of Redshift time-related conversion operations when I need to do things like change epochs to timestamps, deal with timezones or manage time ranges. To save myself some time I decided to throw them all into one post that I can reference later - I'm also hoping these will 
+I've noticed that I end up looking for the same small subset of Redshift time-related conversion operations when I need to do things like change epochs to timestamps, deal with timezones or manage time ranges. To save myself some time I decided to throw them all into one post that I can reference later - I'm also hoping these will be useful to others who find themseleves interacting with Redshift.
 <!--more-->
 
 Here are some basic examples for the following cases:
@@ -49,7 +49,7 @@ select
 4. Lastly we cast the resulting extracted value to a bigint to allow us to multiply it into a milisecond timestamp without causing an integer overflow error.
 
 
-    - Specific TZ Timestamp --> Epoch (Always in UTC)
+- Specific TZ Timestamp --> Epoch (Always in UTC)
 - Timestamp --> Epoch
 
 - Epoch --> Timestamp
@@ -61,11 +61,3 @@ select
 2. Write Post
 4. Check publish date and date
 6. Check summary
-
-
-
-
-
-aws events put-targets --rule daily_tasks --targets = '{"Id"
- : "1", "Arn": "arn:aws:lambda:us-east-1:345638589857:function:woof_garden_cucko
-o"}'
