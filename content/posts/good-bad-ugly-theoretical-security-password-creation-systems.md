@@ -150,4 +150,4 @@ _Results:_
 
 I like easy, crisp math so I’m a little biased towards Diceware from the outset because I can easily verify my calculations about its security. The ‘Schneier’ Method might have a reasonable amount of security too, but given the difficulties verifying its strength and the proven strength of Diceware, why take the risk?
 
-Do you have a password ‘scheme’ you think holds up better than Diceware? Well then feel free to describe it to me in [140 characters or less](https://www.twitter.com/fmc_sea) and I’ll be happy to take a crack at calculating its theoretical security! I’ll only try if you aren’t asking me to remember anything that looks like this: “HurwB-V3XS`,=:{pR.i1cLlMIg”
+Do you have a password ‘scheme’ you think holds up better than Diceware? Well then feel free to describe it to me in [140 characters or less]({{% my_twitter %}}) and I’ll be happy to take a crack at calculating its theoretical security! I’ll only try if you aren’t asking me to remember anything that looks like this: “HurwB-V3XS`,=:{pR.i1cLlMIg”

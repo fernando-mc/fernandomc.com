@@ -51,7 +51,7 @@ git clone https://github.com/fernando-mc/pigeon.git
 First is the client side HTML form that handles the input
 ![Pigeon HTML](/images/pigeon_html_form.png)
 
-Any questions? Feel free to use my (you guessed it!) serverless contact form! You can also say hi to me on Twitter. If you’re interested in learning more about AWS Lambda check out my course on Pluralsight.com https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda
+Any questions? Feel free to use my (you guessed it!) serverless contact form! You can also say hi to me on [Twitter]({{% my_twitter %}}). If you’re interested in learning more about AWS Lambda check out my course on Pluralsight.com https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda
 
 
 

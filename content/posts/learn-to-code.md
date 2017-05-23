@@ -26,7 +26,7 @@ Good luck!
 
 **Tools & Resources**
 
-I try to pick either free and open source tools or freemium tools with good reputations. However, I don't check old posts so if you notice a tool has any issues with it at any point in the future please [tell me](https://www.twitter.com/fmc_sea/) so I can remove links to that tool.
+I try to pick either free and open source tools or freemium tools with good reputations. However, I don't check old posts so if you notice a tool has any issues with it at any point in the future please [tell me]({{% my_twitter %}}) so I can remove links to that tool.
 
 The parenthesis below show suggested applications but there are plenty others to choose from. By default they are suggestions in order of the operating system they run on like this: (Linux/Mac/Windows) or if only one suggestionis in the () it is a suggestion for any of the three main operating systems together.
 
@@ -87,7 +87,7 @@ Regardless of what tech path you take in web development, learning these fundame
 
 <span style="text-decoration: underline;">The end goal:</span>
 
-Putting together a live (anyone can view via the internet) multi-page HTML Website with CSS Styling, and a few pieces of JavaScript/jQuerey. If you get stuck or confused go back to the Codecademy tutorials, the W3 schools explanations and demos or to your new [best friend](http://www.google.com). If you still can't figure it out feel free to reach out to me on [Twitter](https://www.twitter.com/fmc_sea).
+Putting together a live (anyone can view via the internet) multi-page HTML Website with CSS Styling, and a few pieces of JavaScript/jQuerey. If you get stuck or confused go back to the Codecademy tutorials, the W3 schools explanations and demos or to your new [best friend](http://www.google.com). If you still can't figure it out feel free to reach out to me on [Twitter]({{% my_twitter %}}).
 
 Sub Goals:
 

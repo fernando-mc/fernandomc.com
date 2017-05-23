@@ -1,8 +1,7 @@
 +++
-date = "2017-05-22T16:22:18-07:00"
+date = "2017-05-23T11:22:18-07:00"
 title = "Serverless Domain Forwarding with AWS"
-publishdate = "2017-05-22T16:22:18-07:00"
-draft = false
+publishdate = "2017-05-23T11:22:18-07:00"
 Description = ""
 Tags = [
   "AWS",
@@ -24,9 +23,9 @@ I recently splurged on a vanity domain that I realized I didn't have time or int
 
 The problem is that I'm too cheap and lazy to pay for and manage a small server running Apache or Nginx. This can be a perfectly good option, but the last thing I want is to waste time on server management/config just to forward a vanity domain.
 
-Instead of paying for a dedicated server for this task I opted to use AWS S3, and Route 53 to forward my domain for me. These cost me a fraction of the price of the smallest rentable EC2 instance. It also means that after I get it setup I never have to deal with the pains of configuration or server management.
+Instead of paying for a dedicated server for this task I opted to use AWS S3 and Route 53 to forward my domain for me. These cost me a fraction of the price of the smallest rentable EC2 instance. It also means that after I get it setup I never have to deal with the pains of configuration or server management.
 
-Here's how you can setup your own vanity or typo domain forwarding without paying for a webserver.
+Here's how you can setup your own vanity or typo domain forwarding without paying for a web server.
 <!--more-->
 
 **Outline:** 
@@ -53,7 +52,7 @@ If you run into any issues with the registration process on AWS, [this guide](ht
 
 ![Pending domain registration](/images/serverless_domain_forwarding/pending_domain_registration.png)
 
-While you're waiting for the email confirmation you can scoot along to the next step.
+While you're waiting for the email confirmation you can move on to the next step.
 
 **Creating an AWS Hosted Zone**
 
@@ -67,7 +66,7 @@ Regardless of which way the Hosted Zone was created, you should see an initial S
 
 **Create S3 Buckets**
 
-Next, we'll need to create the S3 buckets we'll be using to forward traffic from our newly-create domain to the location we'd like our users to end up.
+Next, we'll need to create the S3 buckets we'll be using to forward traffic from our newly-created domain to the location we'd like our users to end up.
 
 In order for this process to work we need to create S3 buckets that exactly match our domain name and our optional www subdomain. You'll need to create the buckets from the AWS [S3 console](https://console.aws.amazon.com/s3/):
 
@@ -83,7 +82,7 @@ There should be a 'Static website hosting' option. Click that and select 'Redire
 
 You'll need to set the domain to forward to and the protocol to forward on. In the above case I was forwarding to this site and sending traffic to https. Enter "https" if the destination site has it otherwise enter "http".
 
-Once both your www and non www buckets are setup you can test that they're redirecting properly by opening up the window in the above screenshot again and clicking on the S3 urls themselves to make sure they forward to your site as expected.
+Once both your www and non-www buckets are setup you can test that they're redirecting properly by opening up the window in the above screenshot again and clicking on the S3 urls themselves to make sure they forward to your site as expected.
 
 For example, my S3 urls for techpunster.com and www.techpunster.com look like these respectively:
 
@@ -114,7 +113,7 @@ If you registered your domain elsewhere there's one more step you'll need to fin
 
 **Configuring Name Servers**
 
-Assuming you're using a alternate domain registrar, you can configure DNS settings on your registrar to point to AWS's DNS.
+Assuming you're using an alternate domain registrar, you can configure DNS settings on your registrar to point to AWS's DNS.
 
 To do this check the NS entry of your hosted zone (shown above under Configure Your Hosted Zone) and look at the DNS nameserver values that AWS provides. You should see four values that look something like this:
 
@@ -125,11 +124,11 @@ ns-976.awsdns-58.net.
 ns-1194.awsdns-21.org.
 ```
 
-Copy down each of these values and open up the account where you registered the domain youd like to forward from. Do **not** mess with the DNS of the website you are forwarding **to**, you're changing the DNS on the domain you're forwarding **from**. 
+Copy down each of these values and open up the account where you registered the domain you'd like to forward from. Do **not** mess with the DNS of the website you are forwarding **to**, you're changing the DNS on the domain you're forwarding **from**. 
 
 In your registrar's account you should be able to find a section of the dashboard called "DNS" or "Manage Nameservers" or something similar that allows you to enter in DNS records. This should be similar to what we did earlier with the A records in AWS. If you can't find it, reach out to your provider and ask them how to change the Nameservers for your domain.
 
-Once you find that section, you'll change whatever nameservers are currently setup to the AWS Nameservers you copied down from above. After you save these changes you'll have to wait for the DNS record changes to propogate, but you should start to see your domain forward as expected!
+Once you find that section, you'll change whatever nameservers are currently setup to the AWS Nameservers you copied down from above. After you save these changes you'll have to wait for the DNS record changes to propagate, but you should start to see your domain forward as expected!
 
 **Debugging DNS**
 
@@ -137,19 +136,23 @@ All kinds of issues can come up when dealing with DNS changes. So here's a few q
 
 1) _Make sure your domain registrar has only one place to set nameservers_
 
-When I registered serverless.ly I used http://register.ly/. This in iteself was not ideal because:
+When I registered serverless.ly I used http://register.ly/. This in itself was not ideal because:
 
 - I had to use something outside of AWS infrastructure
 - The registrar itself had internal issues and threw 500 errors when I tried to change my DNS
-- I later found out they had two separate places to set nameservers. One was in the DNS entries NS/A/CNAME Etc. and the other was a specialized page for setting nameservers.
+- I later found out they had two separate places to set nameservers. One was in the DNS entries NS/A/CNAME Etc. and the other was a specialized page for setting nameservers
 - I eventually sent a support request out and they told me how to change the settings I needed
 
-The point of this story is: if you can't figure out how to change Name Servers, ask your registrar/host!
+The point of this story is: if you can't figure out how to change nameservers, ask your registrar/host!
 
 2) _Use some common utilities to test your DNS changes_
 
-If you're not sure if you're DNS settings are taking on your forwarding domain try using `dig +trace domain.com` and replacing `domain.com` with the domain you're forwarding from. That should check what DNS are currently configured for the domain and can be useful tracking down what some of the issues are. Similarly, if you need to test availability or routing `ping` and `traceroute` can also be helpful.
+If you're not sure if you're DNS settings are taking on your forwarding domain try using `dig +trace domain.com` and replacing `domain.com` with the domain you're forwarding from. That should check what DNS are currently configured for the domain and can be useful for tracking down what some of the issues are. Similarly, if you need to test availability or routing, `ping` and `traceroute` can also be helpful.
 
 3) _Make sure you can create the S3 bucket you need_
 
-Technically, to forward the domain in this way you **need** to have an S3 bucket that matches your forwarding domain exactly. While you _might_ be able to get around this by using CloudFront, it isn't reccomended and would be much more difficult.
+Technically, to forward the domain in this way you **need** to have an S3 bucket that matches your forwarding domain exactly. While you _might_ be able to get around this by using CloudFront, it isn't recommended and would be much more difficult.
+
+<hr>
+
+If you're having any issues getting setup feel free to leave a comment below or reach out to me on [Twitter]({{% my_twitter %}}).
