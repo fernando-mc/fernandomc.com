@@ -13,7 +13,6 @@ I have a long commute...
 
 - <a href="https://www.packtpub.com/mapt/book/application_development/9781783280971">Mastering Object-oriented Python - By Steven F. Lott</a>
 - <a target="_blank" href="https://www.amazon.com/gp/product/0441569595/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0441569595&linkCode=as2&tag=fernando01-20&linkId=919c79ccd4879ff823646a5a423eb8fd">Neuromancer</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0441569595" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-- <a target="_blank" href="https://www.amazon.com/gp/product/0765368544/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765368544&linkCode=as2&tag=fernando01-20&linkId=9998cd932573ccd48ed50b0dd421e0fd">The Alloy of Law</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765368544" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 **Other things I want to read next**
 
@@ -24,6 +23,7 @@ I have a long commute...
 
 **2017**
 
+- <a target="_blank" href="https://www.amazon.com/gp/product/0765368544/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0765368544&linkCode=as2&tag=fernando01-20&linkId=9998cd932573ccd48ed50b0dd421e0fd">The Alloy of Law</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0765368544" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/0553380958/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0553380958&linkCode=as2&tag=fernando01-20&linkId=20aceb0bde05d1f19025398d80d9eeed">Snow Crash</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=0553380958" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - <a target="_blank" href="https://www.amazon.com/gp/product/B005745I4C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B005745I4C&linkCode=as2&tag=fernando01-20&linkId=0387d6c07677c629e7c49e05e2a0ef9c">American Gods</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=fernando01-20&l=am2&o=1&a=B005745I4C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - [Martin Luther King - Beyond Vietnam](http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_beyond_vietnam/)
