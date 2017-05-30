@@ -6,7 +6,7 @@ pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 disqusShortname = "fernandomc"
-copyright = "© Fernando Medina Corey"
+copyright = "© Fernando Medina Corey | "
 GoogleAnalytics = "UA-88768773-1"
 
 [params]
@@ -21,4 +21,5 @@ GoogleAnalytics = "UA-88768773-1"
         twitter = "fmc_sea"
         linkedin = "fmc-sea"
 	[params.image]
-	  feature = "/images/philly.jpg"
+	  feature = "/images/colombia.png"
+      credit = "Isabella Medina | ismedina.com"

@@ -2,7 +2,7 @@
 menu = "main"
 date = "2017-05-24T16:18:20-07:00"
 title = "Why Use a Local Password Manager"
-publishdate = ""
+publishdate = "2017-05-24T16:18:20-07:00"
 draft = true
 Description = ""
 Tags = [
