@@ -92,7 +92,9 @@ select '1970-01-01'::date + 1496275200000/1000 * interval '1 second'
 
 If we're calculating a millisecond epoch from a date we're basically going to do the same operation we did earlier with a small modification. We will need to cast our result from an int to a bigint or we'll see an error something like this:
 
-`ERROR:  integer multiplication between (arg1: 1496275200, arg2: 1000) result out of range (1626580992)`
+```
+ERROR:  integer multiplication between (arg1: 1496275200, arg2: 1000) result out of range (1626580992)
+```
 
 We can still use either of the methods we used above either with extract or date_part, as long as we cast the resut to bigint with `::bigint`.
 
