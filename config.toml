@@ -20,6 +20,7 @@ GoogleAnalytics = "UA-88768773-1"
 		github = "fernando-mc"
         twitter = "fmc_sea"
         linkedin = "fmc-sea"
+        email = "fernandomc.sea@gmail.com"
 	[params.image]
 	  feature = "/images/colombia.png"
       credit = "Isabella Medina | ismedina.com"

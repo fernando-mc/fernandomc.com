@@ -1,6 +1,6 @@
 Thanks for your interest! 
 
-I usually send infrequent updates about new courses, blog posts and events. If you ever want less mail (or more!) feel free to [send me a message](https://www.fernandomc.com/contact/).
+I usually send infrequent updates about new courses, blog posts and events. If you ever want less mail (or more!) feel free to [send me a message]({{% contact_page %}}).
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">

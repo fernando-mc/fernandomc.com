@@ -4,30 +4,31 @@ comments: false
 type: page
 ---
 
-To get in touch with me you can:
+To get in touch you can:
 
-- Email me - [fernandomc.sea@gmail.com](mailto:fernandomc.sea@gmail.com)
-- Tweet to me - [https://www.twitter.com/fmc_sea](https://www.twitter.com/fmc_sea)
-- Contact me on [LinkedIn](www.linkedin.com/in/fmc-sea/)
+- [Email me]({{% contact_email %}})
+- [Tweet to me]({{% my_twitter %}})
+- [Connect with me on LinkedIn]({{% my_linkedin %}})
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
 <div id='#form-div'>
   <p>Or fill out this form:</p>
-  <div class="g-recaptcha" data-sitekey="6LcXNhAUAAAAAD5LX_MTjJC7cNDuDPesw2NKljjH"></div>
-  <br>
   <form id="contact-form">
     <label for="name">Name:</label>
+    <br>
     <input type="text" id="name" placeholder="Your name" />
-    <br><br>
+    <br>
     <label for="email">Email:</label>
+    <br>
     <input type="email" id="email" placeholder="Your email"/>
-    <br><br>
+    <br>
     <label for="message">Message:</label>
-    <textarea id="message" rows="3" placeholder="Your message"></textarea>
-    <br><br>
-    <button type="submit">Submit</button>
+    <br>
+    <textarea style="margin-bottom: 20px" id="message" rows="3" placeholder="Your message"></textarea>
+    <div class="g-recaptcha" data-sitekey="6LcXNhAUAAAAAD5LX_MTjJC7cNDuDPesw2NKljjH"></div>
+    <button style="margin-top: 20px" type="submit">Submit</button>
   </form>
 </div>
 
