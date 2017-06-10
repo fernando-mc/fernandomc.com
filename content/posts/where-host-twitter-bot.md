@@ -1,6 +1,6 @@
 +++
 menu = "main"
-publishdate = "2017-07-20T20:41:59-07:00"
+publishdate = "2017-07-10T20:41:59-07:00"
 Description = "A review of different IaaS offerings to host a simple Twitter bot."
 Tags = [
   "Bots",
@@ -14,7 +14,7 @@ Tags = [
 Categories = [
   "Infrastructure",
 ]
-date = "2017-07-20T20:41:59-07:00"
+date = "2017-07-10T20:41:59-07:00"
 title = "Where to Host A Twitter Bot"
 
 +++
