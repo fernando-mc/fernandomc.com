@@ -1,8 +1,8 @@
 +++
 menu = "main"
-date = "2017-06-10T16:18:20-07:00"
+date = "2017-06-10T12:18:20-07:00"
 title = "Why Use a Local Password Manager"
-publishdate = "2017-06-10T16:18:20-07:00"
+publishdate = "2017-06-10T12:18:20-07:00"
 Description = ""
 Tags = [
   "Security",
