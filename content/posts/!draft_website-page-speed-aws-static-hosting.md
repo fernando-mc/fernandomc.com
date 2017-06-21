@@ -1,8 +1,8 @@
 +++
 menu = "main"
-publishdate = ""
+publishdate = "2017-06-30T23:03:08-07:00"
 draft = true
-date = "2017-06-13T23:03:08-07:00"
+date = "2017-06-30T23:03:08-07:00"
 title = "website page speed aws static hosting"
 Description = ""
 Tags = [
