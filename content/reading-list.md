@@ -12,7 +12,6 @@ I have a long commute...
 **Currently Reading:**
 
 - <a href="https://www.packtpub.com/mapt/book/application_development/9781783280971">Mastering Object-oriented Python - By Steven F. Lott</a>
-- Neuromancer
 
 **Other things I want to read next**
 
@@ -23,6 +22,7 @@ I have a long commute...
 
 **2017**
 
+- Neuromancer - 1/2 read and then left in Canada 😿
 - The Alloy of Law
 - Snow Crash
 - American Gods
