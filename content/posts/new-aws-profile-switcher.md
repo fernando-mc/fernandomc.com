@@ -15,6 +15,8 @@ title = "New AWS Profile Switcher"
 
 +++
 
+![Example of AWSPS in action](/images/awsps/awsps_demo.png)
+
 I [recently wrote](https://www.fernandomc.com/posts/script-change-aws-profiles/) a script that switches your AWS default profile. After coming back to it a few weeks later I realized I could make it more elegant by relying directly on the ConfigParser library to modify the configuration instead of doing a line by line search and edit.
 
 <!--more-->
