@@ -17,6 +17,8 @@ menu = "main"
 
 +++
 
+![Redshift Epochs from Dates](/images/redshift_epochs_timestamps/sql_rocks.png)
+
 I've noticed that I end up looking for the same small subset of Redshift time-related conversion operations when I need to do things like change epochs to timestamps, deal with timezones or manage time ranges. To save myself some time I decided to throw them all into one post that I can reference later - I'm also hoping these will be useful to others who find themseleves interacting with Redshift.
 
 <!--more-->
@@ -80,7 +82,7 @@ Now it should make a bit more sense why we add `1496275200 * interval '1 second'
 
 **3. Dealing with Millisecond Epochs**
 
-If we're dealing with milisecond epochs we're going to either divide or multiple the epoch value by 1000 whenever we do conversions on it.
+If we're dealing with millisecond epochs we're going to either divide or multiple the epoch value by 1000 whenever we do conversions on it.
 
 If we're getting a date from a millisecond epoch we would divide by 1000 before we add the seconds to the 1970 date.
 
@@ -130,7 +132,7 @@ So let's break this down.
 - The `extract()` fuction allows us to extract a epoch.
 - We then specify that we're extracting `from timestamp with time zone` to indicate our timestamp will have a zone - in this case `US/Eastern`. 
 - In this case we assuming that we're selecting a string that we cast to a timestamp with TZ value. 
-- Lastly we cast the resulting extracted value to a bigint to allow us to multiply it into a milisecond timestamp without causing an integer overflow error mentioned above.
+- Lastly we cast the resulting extracted value to a bigint to allow us to multiply it into a millisecond timestamp without causing an integer overflow error mentioned above.
 
 If our data table was setup with an entire column containing timestamps with TZ information we could modify our query to:
 

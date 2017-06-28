@@ -3,11 +3,11 @@ Categories = [
   "AWS",
 ]
 menu = "main"
-publishdate = ""
+publishdate = "2017-06-26T16:49:15-07:00"
 draft = true
 date = "2017-06-26T16:49:15-07:00"
 title = "public transit game theory"
-Description = ""
+Description = "something"
 Tags = [
   "",
   "Serverless",
@@ -15,7 +15,7 @@ Tags = [
   "AWS",
   "AWS Workspaces",
   "Windows 10",
-  "Testing",
+  "Testing"
 ]
 
 +++
@@ -33,9 +33,6 @@ Chazz asks me a series of questions
 Exactly three times in x rides
 
 The first question 
-
-
-
 
 1. Outline post
 2. Write Post
