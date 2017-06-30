@@ -32,7 +32,3 @@ I thought about using a virtual machine on AWS, Azure, or somewhere else, but th
 
 Because my website is a Static Site build with [Hugo](http://gohugo.io/) I really didn't need anything too fancy. The main things that I wanted were performance and cost-savings.
 
-Some content for a post
-
-
-The rest of the content

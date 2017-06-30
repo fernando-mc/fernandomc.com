@@ -26,17 +26,21 @@ But I started to wonder, if I were a perfectly rational decision maker and didn'
 
 <!--more-->
 
-Let's imagine someone in the office next door just started and will be taking the same route as I do and rides the same train. Let's call him Chazz. Chazz doesn't care about public transportation at all. He just wants to know if he should bother to pay for his ticket from a perspective of purely rationale self-interest.
+Let's imagine someone in the office next door just started and will be taking the same route as I do and rides the same train. Let's call him Chazz. Chazz doesn't care about public transportation at all. He just wants to know if he should bother to pay for his ticket from a perspective of purely rational self-interest.
 
-Chazz asks me a series of questions
+Because of this Chazz asks me a few basic questions.
 
-Exactly three times in x rides
+1. How frequently do I see ticket enforcement? 
+2. What's the penalty for getting caught riding the train without a ticket?
 
-The first question 
+He also tables the discussion of timing and location that ticket enforcement targets because we happen to ride the same stops consistently. 
 
-1. Outline post
-2. Write Post
-3. Upload and add tags and categories
-4. Check publish date and date
-5. Add all the other front matter
-6. Check summary
+The answer to the first question is simple:
+
+INCLUDE IMAGE OF ALL MY PASSES HERE
+
+Because I've kept every pass I've ever purchased I know I've ridden the train to and from work exactly 37 times since I moved to Seattle. 
+
+I also know that over the course of all those rides I've been checked by ticket enforcement exactly three times.
+
+Because
