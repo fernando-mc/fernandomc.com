@@ -9,13 +9,13 @@ Categories = [
   "Security",
 ]
 menu = "main"
-publishdate = "2017-06-30T09:07:54-07:00"
-date = "2017-06-30T09:07:54-07:00"
+publishdate = "2017-07-08T09:07:54-07:00"
+date = "2017-07-08T09:07:54-07:00"
 title = "Voicemail Spam and My 'Federal Criminal Offence'"
 
 +++ 
 
-A while ago I received this voicemail on my personal cellphone:
+A while ago I received this voicemail on my personal cell phone:
 
 ```
 Executed by the US treasury - Intending[ed?] your serious attention. Ignoring this will be an intentional second attempt to avoid initial appearance before a magistrate, judge or a grand jury for a federal criminal offence. This is the final attempt to reach you. To resolve this issue immediately and to speak to a federal agent call back number 7162269750. I repeat 7162269750. Thank you.
@@ -39,4 +39,4 @@ The automated scam calls are easy lead generation and while I have no idea what 
 
 So what can we do about this? Well for starters we can remind our grandparents that if the IRS or anyone else calls them asking for money they can always be skeptical and phone a friend first. Usually the folks demanding your money **now or else** are trying to get it from you before you realize who really they are.
 
-Other than that it might be worthwhile reducing the attack vectors of potential scammers. Spammy services that offer bulk voicemails and robocalls for a small fee must be goldmines to these sorts of scam 'businesses'. Because of that it might be wortwhile seeing how these services can help prevent abuses like these and protect the folks they are being paid to contact.
+Other than that it might be worthwhile reducing the attack vectors of potential scammers. Spammy services that offer bulk voicemails and robocalls for a small fee must be goldmines to these sorts of scam 'businesses'. Because of that it might be worthwhile seeing how these services can help prevent abuses like these and protect the folks they are being paid to contact.
