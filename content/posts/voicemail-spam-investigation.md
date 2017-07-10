@@ -17,9 +17,7 @@ title = "Voicemail Spam and My 'Federal Criminal Offence'"
 
 A while ago I received this voicemail on my personal cell phone:
 
-```
-Executed by the US treasury - Intending[ed?] your serious attention. Ignoring this will be an intentional second attempt to avoid initial appearance before a magistrate, judge or a grand jury for a federal criminal offence. This is the final attempt to reach you. To resolve this issue immediately and to speak to a federal agent call back number 7162269750. I repeat 7162269750. Thank you.
-```
+> Executed by the US treasury - Intending[ed?] your serious attention. Ignoring this will be an intentional second attempt to avoid initial appearance before a magistrate, judge or a grand jury for a federal criminal offence. This is the final attempt to reach you. To resolve this issue immediately and to speak to a federal agent call back number 7162269750. I repeat 7162269750. Thank you.
 
 Rather than call back immediately (the feds can wait a few hours right?) I did a little digging.
 
