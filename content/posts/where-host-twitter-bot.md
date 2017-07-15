@@ -15,7 +15,7 @@ Categories = [
   "Infrastructure",
 ]
 date = "2017-07-15T10:41:59-07:00"
-title = "Where to Host A Twitter Bot"
+title = "Where to Host a Twitter Bot"
 
 +++
 
