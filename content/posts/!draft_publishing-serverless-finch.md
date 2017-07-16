@@ -1,5 +1,4 @@
 +++
-draft = true
 Description = ""
 Tags = [
   "",
@@ -15,10 +14,14 @@ Categories = [
 ]
 menu = "main"
 publishdate = ""
+draft = true
+date = "2017-07-15T23:55:49-07:00"
+title = "publishing serverless finch"
 
 +++
 
-0. GET SOME IMAGES in (Feedly, RSS, etc use them and need em in there at first publish)
+https://www.npmjs.com/package/serverless-finch
+
 1. Outline post
 2. Write Post
 3. Upload and add tags and categories
