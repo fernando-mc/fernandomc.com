@@ -11,18 +11,19 @@ I have a long commute...
 
 **Currently Reading:**
 
+- Shadows of Self
+- The Bands of Mourning
 - <a href="https://www.packtpub.com/mapt/book/application_development/9781783280971">Mastering Object-oriented Python - By Steven F. Lott</a>
 
 **Other things I want to read next**
 
-- Shadows of Self
-- The Bands of Mourning
+- Warbreaker
 - The Left Hand of Darkness
 - The Doors of Stone (Whenever it comes out!)
 
 **2017**
 
-- Neuromancer - 1/2 read and then left in Canada 😿
+- Neuromancer - 1/2 read and then left in Canada 😿 Then bought again & finished!
 - The Alloy of Law
 - Snow Crash
 - American Gods
