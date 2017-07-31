@@ -13,7 +13,7 @@ Categories = [
   "AWS",
 ]
 menu = "main"
-publishdate = ""
+publishdate = "2017-07-15T23:55:49-07:00"
 draft = true
 date = "2017-07-15T23:55:49-07:00"
 title = "publishing serverless finch"
