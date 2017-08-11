@@ -1,0 +1,63 @@
+{{ partial "head.html" . }}
+<body id="post-index" {{ if isset ($.Scratch.Get "Params") "image" }}class="feature"{{ end }}>
+{{ partial "navigation.html" . }}
+<div class="entry-header">
+  {{ if isset ($.Scratch.Get "Params") "image" }}
+{{ $imageparams := index ($.Scratch.Get "Params") "image" }}
+	{{ if $imageparams.credit }}<div class="image-credit">Image credit: <a href="{{ $imageparams.creditlink }}">{{ $imageparams.credit }}</a></div><!-- /.image-credit -->{{ end }}
+    <div class="entry-image">
+      <img src="{{ $imageparams.feature | relURL }}" alt="{{ .Title }}">
+    </div><!-- /.entry-image -->
+  {{ end }}
+  <div class="header-title">
+    <div class="header-title-wrap">
+		<h1><a href="/" title="Go to the homepage">{{ .Site.Title }}</a></h1>
+	  <h2>{{ if .IsHome }}
+            {{ .Site.Params.subtitle }}
+          {{ else if .IsNode }}
+            {{ $pagename := (index .Site.Data.sections (lower .Title)) }}
+            {{ if $pagename }}
+              {{  index $pagename "title"  }}
+            {{ else }}
+              {{ .Title }}
+            {{ end }}
+          {{ else if .IsPage }}
+            {{ .Title }}
+          {{ end }}</h2>
+    </div><!-- /.header-title-wrap -->
+  </div><!-- /.header-title -->
+</div><!-- /.entry-header -->
+
+<div id="main" role="main">
+{{ range where .Paginator.Pages "Type" "!=" "page" }}
+<article class="hentry">
+  <header>
+    {{ if .Params.image.feature }}
+      <div class="entry-image-index">
+		  <a href="{{ .RelPermalink }}" title="{{ .Title }}"><img src="{{ .Params.image.feature | relURL }}" alt="{{ .Title }}"></a>
+      </div><!-- /.entry-image -->
+    {{ end }}
+    <div class="entry-meta">
+        {{ if gt .Date 0001 }} <!-- If Date is set (greater than year 0001) -->
+		<span class="entry-date date published updated"><time datetime="{{ .Date }}"><a href="{{ .RelPermalink }}">{{ .Date.Format "Jan 2, 2006" }}</a></time></span>
+        {{ end }}
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~{{ if le .ReadingTime 1 }}1 minute{{ else }}{{ .ReadingTime }} minutes{{ end }}
+      </span><!-- /.entry-reading-time -->
+    </div><!-- /.entry-meta -->
+    {{ if .Params.link }}
+      <h1 class="entry-title"><a href="{{ .RelPermalink }}" class="permalink" rel="bookmark" title="{{ .Title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ .Params.link }}">{{ .Title }}</a></h1>
+    {{ else }}
+	<h1 class="entry-title"><a href="{{ .RelPermalink }}" rel="bookmark" title="{{ .Title }}" itemprop="url">{{ .Title }}</a></h1>
+    {{ end }}
+  </header>
+  <div class="entry-content">
+    {{ .Content }}
+  </div><!-- /.entry-content -->
+</article><!-- /.hentry -->
+{{ end }}
+
+{{ partial "pagination.html" . }}
+</div><!-- /#main -->
+{{ partial "foot.html" . }}

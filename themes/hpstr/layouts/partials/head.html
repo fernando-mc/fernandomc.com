@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+{{ `<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->` | safeHTML }}
+<head>
+<meta charset="utf-8">
+<title>{{ if eq .IsHome false }}{{ .Title }} &#8211; {{ end }}{{ .Site.Title }}</title>
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+{{ if .IsHome }}
+    {{ $.Scratch.Set "Params" .Site.Params }}
+{{ else if .IsNode }}
+    {{ $.Scratch.Set "Params" (index .Site.Data.sections (lower .Title)) }}
+{{ else }}
+    {{ $.Scratch.Set "Params" .Params }}
+{{ end }}
+{{ if .Params.tags }}<meta name="keywords" content="{{ delimit .Params.tags ", " }}">{{ end }}
+
+<!-- Open Graph and Twitter cards -->
+{{ partial "twitter_og_cards.html" . }}
+
+{{ with .Site.Params.google_verify }}<meta name="google-site-verification" content="{{ . }}">{{ end }}
+{{ with .Site.Params.bing_verify }}<meta name="msvalidate.01" content="{{ . }}">{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+{{ if .RSSLink }}
+  <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
+  <link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />
+{{ end }}
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ "/css/main.css" | relURL }}">
+<!-- Webfonts -->
+<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic" rel="stylesheet" type="text/css">
+
+<meta http-equiv="cleartype" content="on">
+<!-- Hugo version -->
+{{ .Hugo.Generator }}
+<!-- Load Modernizr -->
+<script src="{{ "/js/vendor/modernizr-2.6.2.custom.min.js" | relURL }}"></script>
+
+<!-- Icons -->
+<link rel="shortcut icon" href="{{ "/favicon.png" | relURL }}">
+
+{{ with $.Param "background" }}
+<style type="text/css">body {background-image:url({{ . }});}</style>
+{{ end }}
+</head>

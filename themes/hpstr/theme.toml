@@ -1,0 +1,17 @@
+name = "Hpstr"
+license = "MIT"
+licenselink = "https://github.com/dldx/hpstr-hugo-theme/blob/master/LICENSE.md"
+description = "A Hugo port of the HPSTR theme by Michael Rose (mmistakes)"
+homepage = "https://dldx.github.io/hpstr-hugo-theme/"
+tags = ["responsive", "blog"]
+features = ["comments", "scss", "menu"]
+
+[author]
+  name = "Durand D'souza"
+  homepage = ""
+
+# If porting an existing theme
+[original]
+  name = "Michael Rose"
+  homepage = "ihttps://mademistakes.com/"
+  repo = "https://github.com/mmistakes/hpstr-jekyll-theme"

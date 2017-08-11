@@ -1,0 +1,39 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<div class="pagination">
+  <ul class="inline-list">
+	  <!-- Link for previous page -->
+    {{ if $pag.HasPrev }}
+        <li><a href="{{ $pag.Prev.URL }}" class="btn">Previous</a></li>
+    {{ end }}
+
+	<!-- First page
+    {{ if eq $pag.PageNumber 1 }}
+      <li><strong class="current-page">1</strong></li>
+    {{ else }}
+	<li><a href="{{ $pag.First.URL }}">1</a></li>
+    {{ end }} -->
+
+	<!-- Middle pages -->
+	{{ range $pag.Pagers }}
+    {{ if eq $pag.PageNumber .PageNumber }}
+	<li><strong class="current-page">{{ .PageNumber }}</strong></li>
+    {{ else }}
+	<li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
+    {{ end }}
+	{{ end }}
+
+	<!-- Last page
+    {{ if eq $pag.PageNumber $pag.TotalPages }}
+	<li><strong class="current-page">{{ $pag.Last.PageNumber }}</strong></li>
+    {{ else }}
+	<li><a href="{{ $pag.Last.URL }}">{{ $pag.Last.PageNumber }}</a></li>
+    {{ end }} -->
+
+	<!-- Next page button -->
+    {{ if $pag.HasNext }}
+      <li><a href="{{ $pag.Next.URL }}" class="btn">Next</a></li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
