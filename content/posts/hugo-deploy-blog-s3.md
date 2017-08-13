@@ -6,7 +6,7 @@ Tags = [
 ]
 Categories = [
   "AWS",
-  "Severless",
+  "Serverless",
   "Deployment",
 ]
 menu = "main"
