@@ -22,7 +22,7 @@ publishdate = "2017-08-12T19:26:58-07:00"
 
 <center>![A sample landscape used by the Chameleon color API](/images/chameleon_announcement/landscape.png)</center>
 
-One of the newest additions to my project portfolio site [(serverlessfoo.com)](serverlessfoo.com) is the [Chameleon color scheme API](https://www.serverlessfoo.com/projects/chameleon/index.html). The API returns a random color scheme of dominant and auxiliary colors in rgb form to be applied to a website. Here's how I built the API for less than a penny.
+One of the newest additions to my project portfolio site [(serverlessfoo.com)](https://www.serverlessfoo.com) is the [Chameleon color scheme API](https://www.serverlessfoo.com/projects/chameleon/index.html). The API returns a random color scheme of dominant and auxiliary colors in rgb form to be applied to a website. Here's how I built the API for less than a penny.
 
 <!--more-->
 
