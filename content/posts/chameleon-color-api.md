@@ -1,6 +1,6 @@
 +++
 title = "Chameleon Color Scheme API"
-date = 2017-08-12T19:26:58-07:00
+date = "2017-08-12T19:26:58-07:00"
 Description = "A first look at the Chameleon Color Scheme Micro API."
 Tags = [
   "Serverless",
