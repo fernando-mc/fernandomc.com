@@ -7,23 +7,25 @@ draft: false
 
 **My Reading List:**
 
-I have a long commute...
-
 **Currently Reading:**
 
-- Shadows of Self
+- Warbreaker
+- The Book of the New Sun
+- The Adventures of Oliver Twist
 
 **Other things I want to read next**
 
-- Warbreaker
-- The Bands of Mourning
+- The Sunrise Lands
 - The Left Hand of Darkness
 - The Doors of Stone (Whenever it comes out!)
 
-**2017**
+**Read in 2017**
 
+- The Autobiography of Benjamin Franklin
 - Neuromancer
 - The Alloy of Law
+- Shadows of Self
+- The Bands of Mourning
 - Snow Crash
 - American Gods
 - [Martin Luther King - Beyond Vietnam](http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_beyond_vietnam/)
@@ -40,6 +42,8 @@ I have a long commute...
 - The Hero of Ages
 - Animal farm
 
-**2016**
+**Read in 2016**
 
 - A series of listicles and blog posts that shamed me into reading more and making this.
+
+
