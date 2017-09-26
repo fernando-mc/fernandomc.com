@@ -9,6 +9,7 @@ draft: false
 
 **Currently Reading:**
 
+- An Inquiry into the Nature and Causes of the Wealth of Nations
 - Warbreaker
 - The Book of the New Sun
 - The Adventures of Oliver Twist

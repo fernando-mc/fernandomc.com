@@ -11,12 +11,12 @@ GoogleAnalytics = "UA-88768773-1"
 
 [params]
     # favicon = "favicon.ico"
-    subtitle = "Curalate Data Engineer. Pluralsight Author. Tech Pun Connoisseur."
-    description = "I'm Fernando Medina Corey, a Data Enginer at Curalate, Pluralsight Author, Serverless Development Enthusiast and an avid punster. You've been forewarned."
+    subtitle = "Data Engineer, Published Course Author and Tech Pun Connoisseur."
+    description = "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
 	[params.author]
 		name = "Fernando Medina Corey"
 		avatar = "/images/Fernando Medina Corey bw.jpg"
-		bio = "Hi, I'm Fernando, I'm a Data Engineer at Curalate. I'm also a Pluralsight Author, Serverless Development Enthusiast and an avid punster. You've been forewarned."
+		bio = "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
 		github = "fernando-mc"
         twitter = "fmc_sea"
         linkedin = "fmc-sea"
