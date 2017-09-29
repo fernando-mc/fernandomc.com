@@ -78,10 +78,7 @@
 		_initEvents : function() {
 
 			var self = this;
-			var submenu_anim_position = "absolute";
- 			var submenu_anim_top = "50px";
- 			var submenu_anim_width = "100%"
-  		  
+
 			this.$trigger.on( 'click.dlmenu', function() {
 				
 				if( self.open ) {
@@ -106,9 +103,6 @@
 					var $flyin = $submenu.clone().css({
 						opacity: 0,
 						margin: 0
-						position: submenu_anim_position,
-						top: submenu_anim_top,
-						width: submenu_anim_width
 					}).insertAfter( self.$menu ),
 						onAnimationEndFn = function() {
 							self.$menu.off( self.animEndEventName ).removeClass( self.options.animationClasses.classout ).addClass( 'dl-subview' );
@@ -144,11 +138,7 @@
 					$submenu = $this.parents( 'ul.dl-submenu:first' ),
 					$item = $submenu.parent(),
 
-					$flyin = $submenu.clone().css({
-						position: submenu_anim_position,
-						top: submenu_anim_top,
-						width: submenu_anim_width
-					}).insertAfter( self.$menu );
+					$flyin = $submenu.clone().insertAfter( self.$menu );
 
 				var onAnimationEndFn = function() {
 					self.$menu.off( self.animEndEventName ).removeClass( self.options.animationClasses.classin );
