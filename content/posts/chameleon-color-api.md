@@ -34,9 +34,9 @@ This project had a few initial steps:
 2. Process all these landscape images and generated a color scheme using the Python [ColorThief](https://github.com/fengsp/color-thief-py) library. This returns results in the format `rgb(#, #, #)`.
 3. Take the resulting dominant color and palette values and structure them uniformly into JSON.
 4. Load the JSON into an AWS DynamoDB table.
-5. Develop the API itself using the [Serverless Framework](serverless.com).
+5. Develop the API itself using the [Serverless Framework](https://serverless.com/).
 6. Test, test, test. 
-7. Deploy the v1 api to AWS and create a [microsite]((https://www.serverlessfoo.com/projects/chameleon/index.html)) on serverlessfoo.com to demonstrate the functionality.
+7. Deploy the v1 api to AWS and create a [microsite](https://www.serverlessfoo.com/projects/chameleon/index.html) on serverlessfoo.com to demonstrate the functionality.
 
 All of these setup steps are free to run locally and AWS services cost a fraction of a cent to keep this API running. This does assume I don't start getting a massive influx of traffic, but I can add rate-limiting if I ever reach that point to cap my costs.
 
