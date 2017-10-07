@@ -23,6 +23,7 @@ draft: false
 
 **Read in 2017**
 
+- What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
 - The Dark Tower: The Gunslinger
 - The Autobiography of Benjamin Franklin
 - Neuromancer
