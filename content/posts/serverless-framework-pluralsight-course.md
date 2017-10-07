@@ -24,7 +24,7 @@ date = "2017-10-06T12:22:18-07:00"
 
 I'm thrilled to announce that my latest Pluralsight course is here! 
 
-![A photo of a course slide with the title and my headshot](/images/serverless_framework_pluralsight_course/serverless-framework.png)
+[![A photo of a course slide with the title and my headshot](/images/serverless_framework_pluralsight_course/serverless-framework.png)](https://www.fernandomc.com/posts/serverless-framework-pluralsight-course/)
 
 In my new course, [Using the Serverless Framework on AWS with Node.js](https://app.pluralsight.com/library/courses/aws-nodejs-serverless-framework-using/table-of-contents), I've put together an introduction to the [Serverless Framework](https://www.serverless.com) that should be suited to anyone interested in learning more about serverless tools and technologies.
 
