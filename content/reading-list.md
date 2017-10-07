@@ -13,6 +13,7 @@ draft: false
 - Warbreaker
 - The Book of the New Sun
 - The Adventures of Oliver Twist
+- Slaughterhouse-Five
 
 **Other things I want to read next**
 
@@ -22,6 +23,7 @@ draft: false
 
 **Read in 2017**
 
+- The Dark Tower: The Gunslinger
 - The Autobiography of Benjamin Franklin
 - Neuromancer
 - The Alloy of Law
