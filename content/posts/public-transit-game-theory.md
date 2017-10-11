@@ -1,9 +1,9 @@
 +++
 menu = "main"
-publishdate = "2017-10-06T16:49:15-07:00"
-date = "2017-10-06T16:49:15-07:00"
+publishdate = "2017-10-18T16:34:15-07:00"
+date = "2017-10-18T16:34:15-07:00"
 title = "Public Transit Game Theory"
-Description = "A Commuter Train Thought Experiement"
+Description = "A Commuter Train Thought Experiment"
 Tags = [
   "Game Theory",
   "Trains"
@@ -15,7 +15,7 @@ Categories = [
 +++
 
 
-When I moved back to the Seattle area from Philadelphia I started riding a prominent Seattle commuter train several times a week. After the first few weeks of commutting I was surprised by how infrequently I saw Seattle ticket enforcement officers. I've always paid my fare (and plan to continue doing so because trains are awesome and I support public transit), but I started to wonder, if I were a perfectly rational, amoral decision maker and didn't care about public transit would I still pay?
+When I moved back to the Seattle area from Philadelphia I started riding a prominent Seattle commuter train several times a week. After the first few weeks of commuting I was surprised by how infrequently I saw Seattle ticket enforcement officers. I've always paid my fare (and plan to continue doing so because trains are awesome and I support public transit), but I started to wonder, if I were a perfectly rational, amoral decision maker and didn't care about public transit would I still pay?
 
 ![Photo of Seattle Light Rail](/images/public_transit_game_theory/light-rail-train.jpg)
 
@@ -48,8 +48,18 @@ Now for the consequences, according to an almost [decade-old article](https://ww
 
 Well, 12 days of rides only costs me about $78 so it's starting to look like fare-dodging is probably a bad idea.
 
-But, Charles says, that's just because I occassionally rode at non-standard commute times - Around happy hours when drunk folks are probably thinking they can get away without paying for the light rail (and fare enforcement knows that). I was only ever asked once during my normal commute. What do the odds look like when you split this out?
+But, Charles says, that's just because I occasionally rode at non-standard commute times - Around happy hours when drunk folks are probably thinking they can get away without paying for the light rail (and fare enforcement knows that). I was only ever asked once during my normal commute. What do the odds look like when you split this out?
 
-Well, my standard commute was probably about 30 days out of all of that and my non-standard days were about 7 
+Well, my non-standard commute was probably only four evenings after happy hours. The fact that I was stopped twice on those rides is probably just coincidence. While it certainly *seems* like two of four times is a pretty aggressive ratio - given the sample size let's just ignore this. 
 
-I've since moved somewhere else within the greater Seattle area and left Charles to fend for himself. From having to ride the bus into town occasionally I've also re-realized that trains are by far the better form of transit. The one thing I will admit is that buses are much better at fare collection.
+I must have commuted during standard hours 33 times. During those times I was checked only once. So now we have a model which Charles seems more interested in. In this model he can assume that for about every 33 tickets he would have purchased he will probably get caught. 
+
+33 tickets * $3.25 = $107.25
+
+So in this optimistic case it seems like for every $107.25 we could save we'd probably end up getting caught and paying an $124 fee. Unfortunately for Charles it doesn't seem like this would be a logical way to save a few bucks. 
+
+Obviously our sample is a little bit warped here, but overall this makes sense. The light has to maintain this sort of equilibrium in order to make sure people do not start doing this. 
+
+There is a lot of interesting information on [interesting analysis](http://www.kiro7.com/news/local/sound-transit-loses-more-than-550k-annually-to-fare-jumpers/460804029) that comes up when trying to determine how many fare enforcement officers to employ to maintain a beneficial equilibrium. As it stands I think commuters far prefer this sort of enforcement because it speeds up wait times significantly when compared to turnstyle enforcement and is safer at stops where turnstyles might prompt fare-dodgers to walk into the street to get to the train platform.
+
+I've since moved somewhere else within the greater Seattle area and left Charles to fend for himself. From having to ride the bus into town occasionally I've also re-realized that trains are by far the better form of transit - so please, please, don't be a fare-dodger.
