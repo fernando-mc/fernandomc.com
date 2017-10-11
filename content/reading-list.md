@@ -13,7 +13,6 @@ draft: false
 - Warbreaker
 - The Book of the New Sun
 - The Adventures of Oliver Twist
-- Slaughterhouse-Five
 
 **Other things I want to read next**
 
@@ -23,6 +22,7 @@ draft: false
 
 **Read in 2017**
 
+- Slaughterhouse-Five
 - What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
 - The Dark Tower: The Gunslinger
 - The Autobiography of Benjamin Franklin
