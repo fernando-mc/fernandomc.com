@@ -17,6 +17,7 @@ Categories = [
   "Pluralsight",
   "Courses"
 ]
+title= "My Newest Pluralsight Course - Using the Serverless Framework on AWS with Node.js"
 menu = "main"
 publishdate = "2017-10-06T12:22:18-07:00"
 date = "2017-10-06T12:22:18-07:00"

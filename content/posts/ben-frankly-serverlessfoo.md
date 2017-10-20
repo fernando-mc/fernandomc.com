@@ -13,6 +13,7 @@ Categories = [
   "Serverless",
   "Projects"
 ]
+title="Ben Frankly: Benjamin Franklin’s Frank Opinions of You."
 publishdate = "2017-10-10T10:51:05-07:00"
 date = "2017-10-10T10:51:05-07:00"
 +++

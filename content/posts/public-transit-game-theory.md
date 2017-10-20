@@ -1,7 +1,7 @@
 +++
 menu = "main"
-publishdate = "2017-10-18T16:34:15-07:00"
-date = "2017-10-18T16:34:15-07:00"
+publishdate = "2017-10-19T16:34:15-07:00"
+date = "2017-10-19T16:34:15-07:00"
 title = "Public Transit Game Theory"
 Description = "A Commuter Train Thought Experiment"
 Tags = [
