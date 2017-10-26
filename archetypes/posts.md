@@ -13,8 +13,10 @@ Tags = [
 Categories = [
   "AWS",
 ]
+title = ""
 menu = "main"
 publishdate = ""
+date = ""
 
 +++
 
