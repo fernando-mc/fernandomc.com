@@ -24,11 +24,11 @@ A little while ago I was working on a [Serverless Framework](serverless.com) pro
 
 <!--more-->
 
-Serverless finch wasn't my plugin initially. I found a serverless [plugin](https://github.com/serverless/serverless-client-s3) for this purpose that Serverless Inc. hadn't updated in a while. I tried to use it but ran into a few errors. After reading over a few resolved issues it looked like the problems were fixed on the Github repo but never pushed to npm. So I checked in with the Serverless team:
+Serverless finch wasn't my plugin initially. I found a serverless [plugin](https://github.com/serverless/serverless-client-s3) for this purpose that Serverless Inc. hadn't updated in awhile. I tried to use it but ran into a few errors. After reading over a few resolved issues it looked like the problems were fixed on the Github repo but never pushed to npm. So I checked in with the Serverless team:
 
 ![Discussion with serverless maintainers](/images/serverless_finch/serverless-finch-was-born.png)
 
-And eventually I decided to publish a new package myself. Turns out they wanted to update but apaprently lost the npm credentials to do so. So, through absolutely no credit of my own you can now use Serverless Finch.
+And eventually I decided to publish a new package myself. Turns out they wanted to update but apparently lost the npm credentials to do so. So, through absolutely no credit of my own you can now use Serverless Finch.
 
 `npm install serverless-finch`
 
