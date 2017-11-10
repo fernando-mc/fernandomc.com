@@ -24,19 +24,17 @@ date = "2017-11-01T00:50:09-05:00"
 
 Over the last few months I've tried to reach someone at Wave G about concerns I have regarding their password storage practices. Namely, that they store them in a form that makes them vulnerable to being exposed in the case of a data breach.
 
-After calling, emailing and speaking with Wave G folks multiple times and repeatedly making myself available to describe my concerns to anyone on their development or security teams I recieved an email essentially telling me they're not concerned with the issue. I think that's a problem and here's why.
+After calling, emailing and speaking with Wave G folks multiple times and repeatedly making myself available to describe my concerns to anyone on their development or security teams I received an email essentially telling me they're not concerned with the issue. I think that's a problem and here's why.
 
 **What's the Problem?**
 
 When I signed up for a Wave G account I was looking forward to a smaller more regional provider that was an alternative to Comcast. But my concerns with them quickly started when I went to create an online account through the Wave G customer portal. The first red flag was that they disabled pasting in password fields during the account creation process. Other folks have [written about this](https://www.troyhunt.com/the-cobra-effect-that-is-disabling/) before and why it's such a bad idea. Essentially, it prevents people from using password managers to securely create and store passwords that are unique from any other service they use. Disabling paste on sign up forms means that users are more likely to use the same password as another service they already use because it is easier to remember.
 
-Now this alone is enough to make me [complain to Wave G on Twitter](https://twitter.com/fmc_sea/status/894696342349422592). But I went ahead and completed the sign up process by stubbornly hand-typing in my 25-character randomized password that I stored in a password manager.
+Now this alone is enough to make me [complain to Wave G on Twitter](https://twitter.com/fmc_sea/status/894696342349422592). But I went ahead and completed the signup process by stubbornly hand-typing in my 25-character randomized password that I stored in a password manager.
 
 I thought that this would be the end of it. I would basically set up an auto-pay for my account and never think about internet again unless the service went out or I had to move.
 
-Unfortunately, Wave G had more fun surprises in store for me. After creating my account I received a "protected PDF" via email. The email instructed me to use the same password I had provided during signup to access the PDF.
-
-Now this initially might not seem like a big deal to some folks. 
+However, after creating my account I received a "protected PDF" via email. The email instructed me to use the same password I had provided during signup to access the PDF. Now this initially might not seem like a big deal to some folks.
 
 "So what? They sent you a more secure statement by adding PDF protection. Great for them!"
 
@@ -48,7 +46,7 @@ Because of this, developers don't even want to store your passwords at all! A co
 
 These hashing algorithms use some clever math and programming to make this process non-reversible but consistently reproducible. In other words:
 
-- I cant feasibly take `$2a$10$NUmYqTAyqpIY/SptQ9Y8yuFhs2fqAPVH1F9qDqu3tUghQz.hvuvtq` and turn it back into "Ilikejuice" 
+- I can’t feasibly take `$2a$10$NUmYqTAyqpIY/SptQ9Y8yuFhs2fqAPVH1F9qDqu3tUghQz.hvuvtq` and turn it back into "Ilikejuice" 
 - I can guarantee that "Ilikejuice" will always have a hash of "$2a$10$NUmYqTAyqpIY/SptQ9Y8yuFhs2fqAPVH1F9qDqu3tUghQz.hvuvtq"  
 
 This allows the developer to do two things:
@@ -65,7 +63,7 @@ Now there's other precautions like [adding a 'salt'](https://en.wikipedia.org/wi
 Ok. Ok. I'll slow down here. You might be asking one of two questions now.
 
 1. What the heck does this guy know compared to an ISP?
-2. Or maybe I convinced on the best practices and you're asking how I _know_ they aren't doing this.
+2. Or maybe I convinced you on the best practices and you're asking how I _know_ they aren't doing this.
 
 The best help I can give you on the first part is to point you to [experts](https://www.troyhunt.com/our-password-hashing-has-no-clothes/) and [government agencies](https://pages.nist.gov/800-63-3/sp800-63b.html) who will tell you the same thing.
 
@@ -79,8 +77,9 @@ They're actually pretty up-front with the fact that they store my password not _
 
 **"What's the big deal Fernando? 'Encrypted' Sounds pretty safe to me!"**
 
-Sure, encryption is a great security tool to use - in the right scenarios it helps protect a variety of data. Unfortunately, the 'encrypt' in the 'encrypted  passwords' means 'you can see what this says if you have the right key'. Now for data that needs to be viewed in it's original form like social security numbers, financial records and health information encryption is great. This is because you can't hash it - the data itself needs to be viewed and used in a way that is usable and `$2a$10$NUmYqTAyqpIY/SptQ9Y8yuFhs2fqAPVH1F9qDqu3tUghQz.hvuvtq` looks as much like your social security number as it does mine.
+Sure, encryption is a great security tool to use - in the right scenarios it helps protect a variety of data. Unfortunately, the 'encrypt' in the 'encrypted  passwords' means 'you can see what this says if you have the right key'. Now for data that needs to be viewed in its original form like social security numbers, financial records and health information, encryption is great. This is because you can't hash it - the data itself needs to be viewed and used in a way that is usable and `$2a$10$NUmYqTAyqpIY/SptQ9Y8yuFhs2fqAPVH1F9qDqu3tUghQz.hvuvtq` looks as much like your social security number as it does mine.
 
 Passwords are different. *Passwords should only ever be stored as a hash*. Every time that there is a password data breach it is a big deal. It means that all the people who didn't use a unique enough password are at risk of having their _other_ accounts breached. 
 
-It's frustrating to spend so much time trying to help Wave G understand my concerns and address the issue and see no real movement towards a fix. My most recent interaction with Wave G before they linked me to the article about how they handled passwords was speaking with a Wave G representative on the phone who knew what password hashing was and why it was important. He said he would to bring it to the attention of relevant people internally. But unfortunately someone higher up must have said "nah, the security of our customers isn't a priority."  
+It's frustrating to spend so much time trying to help Wave G understand my concerns and address the issue and see no real movement towards a fix. My most recent interaction with Wave G (before they linked me to the article about how they handled passwords) was speaking with a Wave G representative on the phone who knew what password hashing was and the reasons for it. So there must be people at Wave G who understand the importance of the issues I brought up, and hopefully they’ll be able to make improvements to these practices in the future.
+
