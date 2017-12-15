@@ -11,25 +11,20 @@ Tags = [
   "serverless finch"
 ]
 Categories = [
-  "Devops"
+  "Devops",
 ]
 title = "Automatically Deploying New Versions of NPM Packages with Travis CI and GitHub"
 menu = "main"
-date = "2017-11-01T00:50:09-05:00"
-publishdate = "2017-11-01T00:50:09-05:00"
+date = "2017-12-16T00:50:09-05:00"
+publishdate = "2017-11-16T00:50:09-05:00"
 
 +++
 
 0. GET SOME IMAGES in (Feedly, RSS, etc use them and need em in there at first publish)
-1. Outline post
-2. Write Post
-3. Upload and add tags and categories
-4. Check publish date and date
-5. Add all the other front matter
 6. Check summary
 
 
-Let's say you've already [created](https://docs.npmjs.com/getting-started/creating-node-modules) and [published](https://docs.npmjs.com/getting-started/publishing-npm-packages) your first npm package (Yay!). But now you have to maintain it and maybe add new functionality. You can do all this and [manually publish](https://docs.npmjs.com/getting-started/publishing-npm-packages) new versions of the package, or you can use a tool like Travis CI to automate the deployment process to npm automatically when you push new versions of the package to GitHub. Here's how to get started.
+Let's say you've already [created](https://docs.npmjs.com/getting-started/creating-node-modules) and [published](https://docs.npmjs.com/getting-started/publishing-npm-packages) your first npm package (Congrats!). But now you have to maintain it and maybe add new functionality. You can do all this and [manually publish](https://docs.npmjs.com/getting-started/publishing-npm-packages) new versions of the package, or you can use a tool like Travis CI to automate the deployment process to npm automatically when you push new versions of the package to GitHub. Here's how to get started.
 
 <!--more-->
 
@@ -39,15 +34,15 @@ For this example we'll be looking at the `serverless-finch` package which is a [
 
 The first thing you'll need to do is visit the [Travis CI](https://travis-ci.org) website and connect whatever GitHub account has the repo of the package you're working with.
 
-After you connect your GitHub account you will also need to enable Travis to make builds from the specific repository you're trying to setup. 
+After you connect your GitHub account you will also need to enable Travis to make builds from the specific repository you're trying to setup.
 
 PICTURE OF THE REPO ON/OFF Button slider and MULTIPLE REPOS
 
-After you tell Travis to pay attention to your repo by flipping this on Travis will probably tell you you're still missing something
+After you tell Travis to pay attention to your repo by flipping this on you'll still be missing something:
 
-SCREENSHOT MISSING TRAVISYML
+MISSINGTRAVISYAML
 
-You'll need to create your own `.travis.ylm` configuration file in order to tell Travis what to do with your repo when it sees that changes have been made. Here's what my configuration file looks like for serverless finch.
+You'll need to create your own `.travis.ylm` configuration file in order to tell Travis what to do with your repo when it sees that changes have been made. Here's approximately what my configuration file looks like for serverless finch.
 
 ```
 language: node_js
@@ -63,16 +58,17 @@ deploy:
 
 Let's break this down.
 
-CHECK THIS PART
+CHECK THIS PART:
 - The `language: node_js` just tells Travis what language to expect the code to be written in.  
 - `node_js: lts/*` means "Use the latest long time stability version of node"
-CHECK THIS PART
+CHECK THIS PART CHECK THIS PART CHECK THIS PARTCHECK THIS PART ^^  I think it isn't needed actually?
+
 
 - The `deploy` section gives Travis all the information it needs to deploy the node package for us.
 - It uses the provider of `npm` to know we're deploying this to (surprise!) npm.
 - The `email` it uses the the email address I have associated with my personal npm account.
 - the `api_key` section uses an encrypted value under `secure` that is ddecrypted by Travis at runtime in order to deploy to npm. (More on this in a moment!)
-- The `on:` section determines when it should actually deploy the package. Do we want it to deploy on every commit to a specific branch? What specific conditions need to be met to trigger a deploy? In this case I use `tags: true` to make sure travis only ep
+- The `on:` section determines when it should actually deploy the package. Do we want it to deploy on every commit to a specific branch? What specific conditions need to be met to trigger a deploy? In this case I use `tags: true` to make sure travis only deploys when I push a new version that includes git tags indicating I've bumped the package version.
 
 **Changes and Versioning**
 
@@ -89,7 +85,10 @@ In order to increment the version of the package from v1.1.1 I used `npm version
 
 Now, before you do this make sure you're using the correct type of [semver version update](https://docs.npmjs.com/getting-started/semantic-versioning). Your command might end up being `npm version patch -m "just a quick patch"` or even `npm version major -m "new breaking changes yo"`. 
 
-After you've done this **wait for just a minute and don't push these changes**. 
+After you've done this **wait for just a minute and don't push these changes yet**. 
+
+The next step for us is to 
+
 
 **Push and Autopublish!**
 

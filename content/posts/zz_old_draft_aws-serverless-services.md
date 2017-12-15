@@ -20,14 +20,17 @@ date = "2017-10-24T10:55:49-07:00"
 
 +++
 
-So AWS is getting on the serverless bangwagon in a pretty big way. They also have [a lot]() of different services. But which of the services they offer are serverless? Let's take a look.
+So AWS is getting on the serverless bangwagon in a pretty big way. They also have [a lot](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) of different services. But which of the services they offer are serverless? Let's take a look.
 
 First off, I'll be looking at all the services listed on [this page](https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/) as of publication. I'll look at if AWS claims the services is serverless and then I'll evaluate it myself to see if I agree with AWS's assessment.
 
 Let's get down to it.
 
+<!--more-->
 
-First off, I'll cut out all the obvius services that aren't serverless or are aren't really relevant to serverless applications. The obvious things here are AWS EC2 and related services and tools like VPC and EFS. 
+First off, I'll cut out all the obvius services that aren't serverless or are aren't really relevant to serverless applications. The obvious not-serverless services are things like AWS EC2. I'll also throw out other tools like VPC which relate directly to something non-serverless. And I won't bother evaluating anything that AWS isn't already claiming is serverless.
+
+**The Easy Wins - Yeah, these are serverless**
 
 |Service|AWS Says|Fernando Says|
 |:-----|:-----:|:-----:|
@@ -137,9 +140,3 @@ First off, I'll cut out all the obvius services that aren't serverless or are ar
 4. Check publish date and date
 5. Add all the other front matter
 6. Check summary
-
-
-Some content for a post
-<!--more-->
-
-The rest of the content
