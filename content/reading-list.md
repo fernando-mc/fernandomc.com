@@ -10,18 +10,21 @@ draft: false
 **Currently Reading:**
 
 - An Inquiry into the Nature and Causes of the Wealth of Nations
-- Warbreaker
-- The Book of the New Sun
 - The Adventures of Oliver Twist
 
 **Other things I want to read next**
 
-- The Sunrise Lands
 - The Left Hand of Darkness
 - The Doors of Stone (Whenever it comes out!)
 
 **Read in 2017**
 
+- The Shadow of the Torturer
+- The Claw of the Conciliator
+- The Sunrise Lands
+- The Scourge of God
+- The Sword of the Lady
+- Warbreaker
 - Slaughterhouse-Five
 - What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
 - The Dark Tower: The Gunslinger
