@@ -19,11 +19,11 @@ draft: false
 
 **Read in 2017**
 
-- The Shadow of the Torturer
-- The Claw of the Conciliator
 - The Sunrise Lands
 - The Scourge of God
 - The Sword of the Lady
+- The Shadow of the Torturer
+- The Claw of the Conciliator
 - Warbreaker
 - Slaughterhouse-Five
 - What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
