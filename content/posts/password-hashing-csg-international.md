@@ -84,7 +84,7 @@ Passwords are different. *Passwords should only ever be stored as a hash*. Every
 
 Initially, I thought this was just a mistake made by my ISP. I brought this up with their security team and they told me that they were working with a vendor that managed their user accounts for them. But, citing confidentiality, they wouldn't tell me the name of the vendor.
 
-Fortunately, it wasn't hard to find out. I started by looking at my ISP's billing portal itself - [wave.convergentcare.com](wave.convergentcare.com). The base domain of convergentcare.com pointed towards CSGI. I also reviewed the code of the convergentcare.com billing portal and a few other ISP billing portals with the [same root domain](https://www.google.com/search?q=convergentcare.com) and I found code like this in them:
+Fortunately, it wasn't hard to find out. I started by looking at my ISP's billing portal itself - [https://wave.convergentcare.com/wave/goToLogin.action?subClientId=4302#Application/onReady](wave.convergentcare.com). The base domain of convergentcare.com pointed towards CSGI. I also reviewed the code of the convergentcare.com billing portal and a few other ISP billing portals with the [same root domain](https://www.google.com/search?q=convergentcare.com) and I found code like this in them:
 
 ![Code showing copyright to CSGI](/images/password_hashing_csgi/csg-copyright.png)
 
