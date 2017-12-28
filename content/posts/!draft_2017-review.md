@@ -14,7 +14,7 @@ publishdate = "2018-01-01T14:08:12-05:00"
 date = "2018-01-01T14:08:12-05:00"
 +++
 
-2017 is now over and I want to take a moment and review how it went. A few things I did this year:
+2017 is now over and I want to take a moment and review how I think it went. A few things I did this year:
 
 - Published 3 courses
 
