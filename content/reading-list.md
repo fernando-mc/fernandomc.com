@@ -11,46 +11,44 @@ draft: false
 
 - An Inquiry into the Nature and Causes of the Wealth of Nations
 - The Adventures of Oliver Twist
+- A Wizard of Earthsea
+- The High King of Montival
 
-**Other things I want to read next**
+**Read in 2018**
 
-- The Left Hand of Darkness
-- The Doors of Stone (Whenever it comes out!)
+1. The Way of Kings
 
 **Read in 2017**
 
-- The Sunrise Lands
-- The Scourge of God
-- The Sword of the Lady
-- The Shadow of the Torturer
-- The Claw of the Conciliator
-- Warbreaker
-- Slaughterhouse-Five
-- What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
-- The Dark Tower: The Gunslinger
-- The Autobiography of Benjamin Franklin
-- Neuromancer
-- The Alloy of Law
-- Shadows of Self
-- The Bands of Mourning
-- Snow Crash
-- American Gods
-- [Martin Luther King - Beyond Vietnam](http://kingencyclopedia.stanford.edu/encyclopedia/documentsentry/doc_beyond_vietnam/)
-- Homeland: The Legend of Drizzt
-- 1984
-- The Emperor's Soul
-- The Art Of War
-- The Name of the Wind
-- The Wise Man's Fear
-- The Slow Regard of Silent Things
-- Elantris
-- Mistborn: The Final Empire
-- The Well of Ascension
-- The Hero of Ages
-- Animal farm
+1. Animal farm
+2. The Hero of Ages
+3. The Well of Ascension
+5. Elantris
+6. The Slow Regard of Silent Things
+7. The Wise Man's Fear
+8. The Name of the Wind
+9. The Art Of War
+10. The Emperor's Soul
+11. 1984
+12. Homeland: The Legend of Drizzt
+13. Martin Luther King - Beyond Vietnam
+14. American Gods
+15. Snow Crash
+16. The Bands of Mourning
+17. Shadows of Self
+18. The Alloy of Law
+19. Neuromancer
+20. The Autobiography of Benjamin Franklin
+21. The Dark Tower: The Gunslinger
+22. What Is Serverless? Understanding the Latest Advances in Cloud and Service-Based Architecture
+23. Slaughterhouse-Five
+24. Warbreaker
+25. The Claw of the Conciliator
+26. The Shadow of the Torturer
+27. The Sword of the Lady
+28. The Scourge of God
+29. The Sunrise Lands
 
 **Read in 2016**
 
 - A series of listicles and blog posts that shamed me into reading more and making this.
-
-
