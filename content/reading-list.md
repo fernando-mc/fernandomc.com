@@ -12,11 +12,14 @@ draft: false
 - An Inquiry into the Nature and Causes of the Wealth of Nations
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
-- The High King of Montival
+- Words of Radiance
+- Ready Player One
+- Norse Mythology
 
 **Read in 2018**
 
 1. The Way of Kings
+2. The High King of Montival
 
 **Read in 2017**
 
