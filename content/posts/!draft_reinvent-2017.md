@@ -38,12 +38,12 @@ If the worst happens you can try walking up to less popular sessions for open se
 
 **Be Realistic Picking Sessions**
 
-Some sessions at re:Invent 2017 are far away from one another and are likely to remain that way. You'll be lucky to get from one session to another in the same venue yet alone across the re:Invent campus. You *absolutely cannot* get from one session in one venue to a different venue in less than 30 minutes. I had a shuttle ride that lasted 45 minutes - that's not uncommon so plan accordingly!
+Some sessions at re:Invent 2017 were far away from one another and it is likely to remain that way this year. You'll be lucky to get from one session to another in the same venue yet alone across the re:Invent campus. You *absolutely cannot* get from one session in one venue to a different venue in less than 30 minutes. I had a shuttle ride that lasted 45 minutes - that's not uncommon so plan accordingly!
 
-Here are two strategies I think might work when planning and reserving sessions for each day.
+Here are two strategies I think might work when planning and reserving sessions for each day:
 
 1. Pick a building you'll start at each day and reserve as many relevant sessions as you can in that building. This way you'll probably be able to go to a few sessions that are close to each other and maybe fit into one you aren't able to reserve in the same building.
-2. Pick a few of your absolute favorite sessions and plan some significant travel time in between them. This way you get to see the cool stuff you want, but you'll also have to be on the shuttle, or walking around a lot.
+2. Pick a few of your absolute favorite sessions and plan some significant travel time in between them. This way you get to see the cool stuff you want, but remember that you'll also have to be on the shuttle or walking around a lot.
 
 **Missing Sessions Is OK**
 
