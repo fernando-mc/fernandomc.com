@@ -1,5 +1,4 @@
 +++
-draft=true
 Description = "Some thoughts after my first AWS re:Invent"
 Tags = [
   "re:Invent",
@@ -75,4 +74,4 @@ Now I'd be doing a horrible job if I didn't let you know a few AWS re:Invent ess
 
 Have other suggestions for new folks or other thoughts on your first re:Invent experience that you'd like to share? Leave a comment below!
 
-Hopefully I'll see some of you next year at re:Invent 2018. If you want to get in touch with me to meet up then say hello on [Twitter]({{% my_twitter %}}) or [LinkedIn](({{% my_linkedin %}}))!
+Hopefully I'll see some of you next year at re:Invent 2018. If you want to get in touch with me to meet up then say hello on [Twitter]({{% my_twitter %}}) or [LinkedIn]({{% my_linkedin %}})!
