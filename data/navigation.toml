@@ -7,5 +7,9 @@ title = "Mailing List"
 url = "/mailing-list/"
 
 [[links]]
+title = "Publications"
+url = "/publications/"
+
+[[links]]
 title = "Reading List"
 url = "/reading-list/"
