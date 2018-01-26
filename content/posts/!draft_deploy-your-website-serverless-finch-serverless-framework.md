@@ -56,31 +56,33 @@ custom:
     distributionFolder: client/dist # (Optional) The location of your website. This defaults to client/dist
 ```
 
-I'll go through each part of this for you:
+I'll go through each part of the above configuration for you:
 
 - First, you'll add the plugin under the plugins section.
 - Next you'll add a 'client' value under custom. This is the configuration details for your web client (what we're deploying)
 - The bucketName value should be an S3 bucket that doesn't exist yet. **WORD OF WARNING** When deploying your static site serverless-finch will delete everything in the bucket. So do NOT use this with a bucket you store other things in. This S3 bucket should exclusively be for your static website.
 - Then you can optionally include the distributionFolder configuration value. This specifies where your website files are located. By default, Serverless finch will look for them in `./client/dist` and will expect to see an index file at `./client/dist/index.html`  and an error file at `./client/dist/error.html`. You can set the distribution folder to something like `mySite` and then Serverless Finch will expect your website to be in `./mySite` with the corresponding index and error files at `./mySite/index.html` and `./mySite/error.html`. 
 
+**Preparing Your Website**
 
 Now that you have that done, either create the `./client/dist` folder or if you added a custom configuration for distributionFolder then create that folder. If you _already_ have your website files ready to go just make sure you have them in the same top level directory all in that folder.
 
-If you _don't_ have any website files yet you can pretty easily make a site with these commands:
+If you _don't_ have any website files yet you can easily make a site with these commands:
 
 ```bash
 mkdir -p client/dist
 touch client/dist/index.html
 touch client/dist/error.html
 echo "Go Serverless" >> client/dist/index.html
-echo "error page" >> client/dist/error.html```
+echo "error page" >> client/dist/error.html
+```
 
 With your website created or properly moved to the folder we're working in you can deploy your site! Just run `serverless client deploy` and Serverless Finch should take care of the rest.
 
-You can also specify the region you want to dpeloy your website to with the --region flag. For example, if I wanted my site deployed to the us-west-2 Oregon region I could run:
+You can also specify the region you want to deploy your website to with the --region flag. For example, if you wanted your site deployed to the us-west-2 Oregon region you could run:
 
 `serverless client deploy --region us-west-2`
 
-And let's say I get tired of my website altogether, I can tear it down with `serverless client remove`.
+Or, let's say you get tired of your website altogether. Just run `serverless client remove` to tear it down.
 
 And that's it! You've used Serverless Finch to deploy your own static website. Serverless Finch is still adding new features and bug squashing so please feel free to contribute [on GitHub](https://github.com/fernando-mc/serverless-finch). If you think you might want to be a more active contributor please [get in touch](https://www.fernandomc.com/contact/)!
