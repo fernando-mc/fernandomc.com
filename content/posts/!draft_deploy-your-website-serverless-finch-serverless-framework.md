@@ -17,7 +17,8 @@ title = "Deploy Your Static Site to AWS S3 with Serverless Finch and the Serverl
 menu = "main"
 date = "2018-01-25T14:08:12-05:00"
 publishdate = "2018-01-25T14:08:12-05:00"
-
+[image]
+    feature = "/images/serverless_finch_serverless_framework/serverless-finch-serverless-framework-aws.png"
 +++
 
 A frequent issue I ran into when working with the [Serverless Framework](https://www.serverless.com) on smaller projects was that when I wanted to deploy a static website frontend that integrated with my Serverless backend I wasn't quite sure how to do it. After some searching, I [adopted and republished](https://www.fernandomc.com/posts/publishing-serverless-finch/) a broken Serverless Framework plugin for that exact purpose.
@@ -38,9 +39,7 @@ I'm also going to assume that you're all setup with the AWS CLI and credentials 
 
 Starting in a directory with your Serverless Framework project go ahead and run:
 
-```
-npm install --save serverless-finch
-``` 
+`npm install --save serverless-finch`
 
 This will install the plugin for you so that you can use it in combination with the Serverless Framework.
 
