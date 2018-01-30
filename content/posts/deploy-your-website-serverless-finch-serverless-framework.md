@@ -1,5 +1,4 @@
 +++
-draft = false
 Description = "Learn how to deploy your website to AWS S3 using Serverless Finch and the Serverless Framework"
 Tags = [
   "Serverless",
@@ -15,8 +14,8 @@ Categories = [
 ]
 title = "Deploy Your Static Site to AWS S3 with Serverless Finch and the Serverless Framework"
 menu = "main"
-date = "2018-01-25T14:08:12-05:00"
-publishdate = "2018-01-25T14:08:12-05:00"
+date = "2018-01-29T14:08:12-05:00"
+publishdate = "2018-01-29T14:08:12-05:00"
 [image]
     feature = "/images/serverless_finch_serverless_framework/serverless-finch-serverless-framework-aws.png"
 +++
