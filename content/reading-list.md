@@ -13,7 +13,9 @@ draft: false
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
 - Norse Mythology
-- Hidden Figures
+- Oathbringer
+- Dune
+- Good Omens
 
 **Read in 2018**
 
@@ -22,6 +24,7 @@ draft: false
 3. Ready Player One
 4. Words of Radiance 
 5. The Tears of the Sun
+6. Hidden Figures
 
 **Read in 2017**
 
