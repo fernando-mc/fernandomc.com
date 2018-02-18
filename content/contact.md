@@ -14,7 +14,7 @@ To get in touch you can:
 <script src='https://www.google.com/recaptcha/api.js'></script>
 
 <div id='#form-div'>
-  <p>Or fill out this form:</p>
+  <p>Or you can fill out this form:</p>
   <form id="contact-form">
     <label for="name">Name:</label>
     <br>

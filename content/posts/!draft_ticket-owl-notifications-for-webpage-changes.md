@@ -41,3 +41,5 @@ Ticket Owl is a project I put together to make periodically checking in on a web
 Now in addition to Valentine's Day-esque uses you could probably use this to regularly monitor the status of different websites. But, realistically, you just want to know the moment that those Taylor Swift tickets are on sale.
 
 Here's how you can use this project.
+
+First,
