@@ -15,7 +15,7 @@ GoogleAnalytics = "UA-88768773-1"
     description = "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
 	[params.author]
 		name = "Fernando Medina Corey"
-		avatar = "/images/Fernando Medina Corey bw.jpg"
+		avatar = "/images/fernando.jpg"
 		bio = "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
 		github = "fernando-mc"
         twitter = "fmc_sea"
