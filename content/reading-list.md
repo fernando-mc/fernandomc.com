@@ -15,7 +15,6 @@ draft: false
 - Norse Mythology
 - Oathbringer
 - Dune
-- Good Omens
 
 **Read in 2018**
 
@@ -25,6 +24,7 @@ draft: false
 4. Words of Radiance 
 5. The Tears of the Sun
 6. Hidden Figures
+7. Good Omens
 
 **Read in 2017**
 
