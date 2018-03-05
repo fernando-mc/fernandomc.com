@@ -13,8 +13,6 @@ draft: false
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
 - Norse Mythology
-- Oathbringer
-- Dune
 
 **Read in 2018**
 
@@ -25,6 +23,8 @@ draft: false
 5. The Tears of the Sun
 6. Hidden Figures
 7. Good Omens
+8. Oathbringer
+9. Dune
 
 **Read in 2017**
 
