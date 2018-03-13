@@ -9,7 +9,6 @@ draft: false
 
 **Currently Reading:**
 
-- An Inquiry into the Nature and Causes of the Wealth of Nations
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
 - Norse Mythology
@@ -25,6 +24,8 @@ draft: false
 7. Good Omens
 8. Oathbringer
 9. Dune
+10. The Shock Doctrine
+11. The Wealth of Nations (Book One)
 
 **Read in 2017**
 
