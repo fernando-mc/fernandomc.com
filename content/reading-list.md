@@ -12,6 +12,7 @@ draft: false
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
 - Norse Mythology
+- Alexander Hamilton
 
 **Read in 2018**
 
@@ -26,6 +27,7 @@ draft: false
 9. Dune
 10. The Shock Doctrine
 11. The Wealth of Nations (Book One)
+12. Global Discontents: Conversations on the Rising Threats to Democracy
 
 **Read in 2017**
 
