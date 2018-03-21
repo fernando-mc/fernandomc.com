@@ -13,6 +13,7 @@ draft: false
 - A Wizard of Earthsea
 - Norse Mythology
 - Alexander Hamilton
+- Rules for Radicals
 
 **Read in 2018**
 
