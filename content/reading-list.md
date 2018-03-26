@@ -13,7 +13,6 @@ draft: false
 - A Wizard of Earthsea
 - Norse Mythology
 - Alexander Hamilton
-- Rules for Radicals
 
 **Read in 2018**
 
@@ -29,6 +28,7 @@ draft: false
 10. The Shock Doctrine
 11. The Wealth of Nations (Book One)
 12. Global Discontents: Conversations on the Rising Threats to Democracy
+13. Rules for Radicals
 
 **Read in 2017**
 
