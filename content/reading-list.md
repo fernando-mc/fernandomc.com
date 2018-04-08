@@ -12,7 +12,6 @@ draft: false
 - The Adventures of Oliver Twist
 - A Wizard of Earthsea
 - Norse Mythology
-- Alexander Hamilton
 
 **Read in 2018**
 
@@ -29,6 +28,7 @@ draft: false
 11. The Wealth of Nations (Book One)
 12. Global Discontents: Conversations on the Rising Threats to Democracy
 13. Rules for Radicals
+14. Alexander Hamilton
 
 **Read in 2017**
 
