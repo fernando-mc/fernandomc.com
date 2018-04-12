@@ -9,9 +9,9 @@ draft: false
 
 **Currently Reading:**
 
-- The Adventures of Oliver Twist
-- A Wizard of Earthsea
 - Norse Mythology
+- Manufacturing Consent
+- The Adventures of Oliver Twist
 
 **Read in 2018**
 
@@ -29,6 +29,7 @@ draft: false
 12. Global Discontents: Conversations on the Rising Threats to Democracy
 13. Rules for Radicals
 14. Alexander Hamilton
+15. A Wizard of Earthsea
 
 **Read in 2017**
 
