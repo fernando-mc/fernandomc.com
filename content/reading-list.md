@@ -10,8 +10,8 @@ draft: false
 **Currently Reading:**
 
 - Norse Mythology
-- Manufacturing Consent
 - The Adventures of Oliver Twist
+- An Indigenous People's History of the United States
 
 **Read in 2018**
 
@@ -30,6 +30,7 @@ draft: false
 13. Rules for Radicals
 14. Alexander Hamilton
 15. A Wizard of Earthsea
+16. Manufacturing Consent
 
 **Read in 2017**
 
