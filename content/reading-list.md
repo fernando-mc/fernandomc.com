@@ -11,7 +11,7 @@ draft: false
 
 - Norse Mythology
 - The Adventures of Oliver Twist
-- An Indigenous People's History of the United States
+- A Discovery of Witches
 
 **Read in 2018**
 
@@ -31,6 +31,7 @@ draft: false
 14. Alexander Hamilton
 15. A Wizard of Earthsea
 16. Manufacturing Consent
+17. An Indigenous People's History of the United States
 
 **Read in 2017**
 
