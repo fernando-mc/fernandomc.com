@@ -22,6 +22,7 @@ If you're currently taking one of my courses and have feedback or questions, fee
 ## Meetups
 
 I founded and run the [Redmond Python](https://www.meetup.com/Redmond-Python-User-Group/) meetup. The over 250 members do things like:
+
 - Teach free full-day Introduction to Python workshops
 - Host regular project nights to answer Python questions
 - Schedule presentations on Python-related topics ranging from Flask to TensorFlow 
