@@ -9,6 +9,11 @@ Here's a list of my publications outside of fernandomc.com.
 
 <h2>My Courses</h2>
 
+**2018**
+
+- [AWS Certified Developer - Associate Level](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018)
+- [Building a Serverless Chatbot with AWS Lex](https://linuxacademy.com/amazon-web-services/training/course/name/building-a-serverless-chatbot-with-aws-lex)
+
 **2017**
 
 - [An Introduction to AWS Lambda](https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents)

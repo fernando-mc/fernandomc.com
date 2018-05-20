@@ -15,8 +15,8 @@ Categories = [
 ]
 title = "New Course - Building Serverless Chatbots with AWS Lex."
 menu = "main"
-date = "2018-05-229T15:08:12-05:00"
-publishdate = "2018-05-22T15:08:12-05:00"
+date = "2018-05-22T08:18:39-07:00"
+publishdate = "2018-05-22T08:18:39-07:00"
 [image]
     feature = "/images/aws_lex_course/chatbot.png"
     credit = "Image Credit | Matthew Hurst"

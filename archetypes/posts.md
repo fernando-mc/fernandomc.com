@@ -15,8 +15,8 @@ Categories = [
 ]
 title = ""
 menu = "main"
-publishdate = ""
-date = ""
+publishdate = "{{ .Date }}"
+date = "{{ .Date }}"
 
 +++
 

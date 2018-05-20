@@ -14,8 +14,8 @@ Categories = [
 ]
 title = "New AWS Certified Developer - Associate Level Preparation Course"
 menu = "main"
-date = "2018-05-259T15:08:12-05:00"
-publishdate = "2018-05-25T15:08:12-05:00"
+date = "2018-05-25T08:18:39-07:00"
+publishdate = "2018-05-25T08:18:39-07:00"
 [image]
     feature = "/images/aws_cda/cda-services.png"
 +++
