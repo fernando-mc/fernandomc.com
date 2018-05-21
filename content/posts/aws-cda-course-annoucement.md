@@ -17,14 +17,16 @@ menu = "main"
 date = "2018-05-25T08:18:39-07:00"
 publishdate = "2018-05-25T08:18:39-07:00"
 [image]
-    feature = "/images/aws_cda/cda-services.png"
+    feature = "/images/aws_cda/cda_services.png"
 +++
 
-Course page - 
-https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018
+I'm happy to annouce my newest course, the [AWS Certified Developer - Associate Level](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018) certification prep course.
 
-Page for LA blog annoucement - ??
+This course is by far the largest one I've ever done and has a LOT of content. There are over 14 hours of videos, as well as a variety of labs, flashcards, and quizzes. 
 
-Get image of all the services in the course as the feature image and 1-2 of the lab images for the main post
+Here's a sneak peak of what you can expect inside one of my favorite labs:
+![An example lab image for Step Functions](/images/aws_cda/cda_stepfunctionslab.png)
 
 <!--more-->
+
+For more details on the course check out the [course itself](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018) or read the course annoucement post on the ------> Linux Academy blog [here]().
