@@ -6,8 +6,7 @@ Tags = [
   "AWS",
   "Serverless",
   "AWS Lex",
-  "AWS Lambda",
-
+  "AWS Lambda"
 ]
 Categories = [
   "Serverless",
