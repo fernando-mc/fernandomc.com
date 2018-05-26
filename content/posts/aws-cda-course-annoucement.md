@@ -1,5 +1,4 @@
 +++
-daft = true
 Description = "An announcement of my new AWS Certified Developer - Assocaite Level preparation course."
 Tags = [
   "Python",
@@ -29,4 +28,4 @@ Here's a sneak peak of what you can expect inside one of my favorite labs:
 
 <!--more-->
 
-For more details on the course check out the [course itself](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018) or read the course annoucement post on the ------> Linux Academy blog [here]().
+For more details on the course check out the [course itself](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018). 
