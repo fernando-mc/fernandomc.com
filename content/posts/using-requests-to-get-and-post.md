@@ -1,5 +1,4 @@
 +++
-draft = true
 Description = "A guide to getting started with the Python libraries requests and Beautiful Soup."
 Tags = [
   "Python",
@@ -16,10 +15,15 @@ Categories = [
 ]
 title = "Python Requests and Beautiful Soup - Playing with HTTP Requests, HTML Parsing and APIs"
 menu = "main"
-publishdate = "2018-05-25T13:47:49-07:00"
-date = "2018-05-25T13:47:49-07:00"
+publishdate = "2018-05-26T13:47:49-07:00"
+date = "2018-05-26T13:47:49-07:00"
+[image]
+    feature = "/images/requests-and-beautifulsoup.png"
+    credit = "Image Credit | Vee Satayamas"
+    creditlink = "https://www.flickr.com/photos/vscript/26139938867/"
 
 +++
+
 
 Recently, while running the [Redmond Python Meetup](https://www.meetup.com/Redmond-Python-User-Group/) I've found that a great way to get started using Python is to pick a few common tools to start learning. Naturally, I gravitated towards teaching the basics of one of the [most popular](https://pythonwheels.com) Python packages - [Requests](http://docs.python-requests.org/en/master/). I've also found it's useful to throw in using [Beatiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup) to show folks how they can efficiently interact with HTML data after getting an HTML page.
 
@@ -27,21 +31,23 @@ Sound interesting? Let's look at what I typically cover - including a few basic 
 
 <!--more-->
 
-**Step one - Get Requests and Beautiful Soup**
+## Step one - Get Requests and Beautiful Soup
+
+<img src="/images/requests-and-beautifulsoup.png" width=600px></a>
 
 Despite being incredibly popular, Requests is [not](https://github.com/requests/requests/issues/2424) in Python's standard library. In order to get requests you should use pip. For this guide, I'll be assuming that you have a version of Python 3 and pip installed.
 
-_If you want to use a Python virtual environment you can make yourself a project directory somewhere, navigate to that project in your terminal, command prompt or powershell and then run `python -m venv my_venv` and `source my_venv/bin/activate`. Windows users will need to run `my_venv\Scripts\activate.bat`._
+_If you want to use a Python virtual environment you can make yourself a project directory somewhere, navigate to that project in your terminal, command prompt or powershell and then run_ `python -m venv my_venv` _and_ `source my_venv/bin/activate`. _Windows users will need to run_ `my_venv\Scripts\activate.bat`.
 
 When you're ready to install Requests you can use `pip install requests` from in your terminal, command prompt, or powershell. 
 
 To install [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup), you can run `pip install beautifulsoup4` in the same place.
 
-**Getting Started with Requests**
+## Getting Started with Requests
 
 Next up, we'll use requests in the python interpreter. Go ahead and run `python` to get into the interpreter and we'll start using it.
 
-_In general, if you get any errors running `python` you may want to try running the commands with `python3` instead of `python` or making sure you have Python installed_
+_In general, if you get any errors running_ `python` _you may want to try running the commands with_ `python3` _instead of_ `python` _or making sure you have Python installed_
 
 Start by importing the requests library and making a simple GET request to the URL for this blog (Remember that the >>> isn't something you're typing).
 
@@ -64,11 +70,11 @@ But this is kinda boring. We probably wanted to actually see the _content_ of th
 
 After we saved the request as `r`. We can actually access the content of the site using the `text` property of the completed request (That's what we're doing when we run `r.text`). Now I've truncated the response because there's actually a lot of text making up my website's homepage and I didn't want to make you see all of it.
 
-**Parsing Our Request Data with Beautiful Soup**
+## Parsing Our Request Data with Beautiful Soup
 
 So now that we have this requests data in `r.text` how do we start working with it? Well, let's start by looking at what it is.
 
-```python
+```ruby
 >>> type(r.text)
 <class 'str'>
 ```
@@ -94,14 +100,14 @@ For example:
 >>> soup.title.text
 'Fernando Medina Corey'
 >>> soup.p
-<p>I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster.</p>
+<p>I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster.</p>                                    ' # <--- Ignore this apostrophe. I just put it there to fix syntax highlighting
 >>> soup.p.text
 "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
 ```
 
 Now, these are just a few examples. I'd suggest that you [read more](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup) about all the other useful features you have access to when using Beautiful Soup too. But now that you understand how you can download website data and interact with it in Python let's change gears a little and look at how you can use requests to send information _back_ to a website.
 
-**Using Requests to send POST Requests to an HTTP API**
+## Using Requests to send POST Requests to an HTTP API 
 
 Requests is good for more than just _getting_ site data. It provides us with a full suite of [HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods). In this section we'll look specifically, at how we can use a POST request to send information to an HTTP API. 
 
@@ -114,7 +120,7 @@ First, we're going to need the URL of the API we're interacting with. In this ca
 
 Depending on the API you're working with you might need to interact with it in different ways. Some APIs might not accept certain HTTP methods or might expect to be sent certain information. 
 
-For this particular API endpoint, we'll need to send a POST request to the endpoint above with some JSON data. JSON is a very common format for information sent and recived via HTTP APIs so it might be worth [reading a little more](https://www.w3schools.com/js/js_json_intro.asp) about it. 
+For this particular API endpoint, we'll need to send a POST request to the endpoint above with some JSON data. JSON is a very common format for information sent and received via HTTP APIs so it might be worth [reading a little more](https://www.w3schools.com/js/js_json_intro.asp) about it. 
 
 Specifically, we'll need to send JSON in that looks like this: 
 ```json
@@ -143,7 +149,7 @@ So let's break this down line by line here:
 1. We import the requests library
 2. We set a variable called `url` equal to the API endpoint we need to make a request to
 3. We set a variable called `json_data` equal to a Python dictionary (technically this isn't JSON, but requests will handle it for us)
-4. We set a variable `r` equal to the result of a HTTP POST request made using the requests library's `.post()` method. And in the same line, we make sure to specify the `url` we set earlier as the URL we want the request to go to. We also use one of the `.post()` method's keyword arguments, `json` to pass in a Python dictionary that it will transform into JSON when making the POST request.
+4. We set a variable `r` equal to the result of a HTTP POST request made using requests' `.post()` method. And in the same line, we make sure to specify the `url` we set earlier as the URL we want the request to go to. We also use the `json` keyword argument inside the `.post()` method. This argument passes in a Python dictionary to requests that will be transformed into JSON when making the POST request.
 5. We return `r` (the result of the POST request) and it looks like it's ok!
 6. Finally, we take a look at the text of the request with `r.text` and it contains a Python string (which happens to be JSON-formatted).
 
@@ -161,16 +167,13 @@ Inside the string, the API is essentially telling us "Hey for the site URL you g
 '{"siteUrl": "https://www.fernandomc.com", "siteHits": "211"}'
 ```
 
-0. GET SOME IMAGES in (Feedly, RSS, etc use them and need em in there at first publish)
-1. Outline post
-2. Write Post
-3. Upload and add tags and categories
-4. Check publish date and date
-5. Add all the other front matter
-6. Check summary
+Now we see that after sending off this information four more times we have four more 'siteHits'. And there you have it! You've successfully interacted with an API using Python.
 
+## Next Steps 
 
-Some content for a post
+You can use your newfound Python skills in a variety of different ways. But here are a few suggestions you might want to try later on.
 
+1. Pick another API to play around with such as the [Twitter API](https://developer.twitter.com/en/docs/tweets/search/api-reference/get-search-tweets.html)
+2. Scrape some website data with Requests and Beautiful Soup and try to structure the data in a useful way.
 
-The rest of the content
+Good luck in your next Python adventure!
