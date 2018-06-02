@@ -8,7 +8,7 @@
 			{{ with .Site.Params.author }}
 				<li>
 					{{ if isset . "avatar" }}
-					<img src="{{ .avatar | relURL }}" alt="{{ .name }}'s photo" class="author-photo">
+					<center><img src="{{ .avatar | relURL }}" alt="{{ .name }}'s photo" class="author-photo"></center>
 					{{ end }}
 					<h4>{{ .name }}</h4>
 					<p>{{ .bio }}</p>
