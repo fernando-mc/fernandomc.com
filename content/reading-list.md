@@ -13,6 +13,7 @@ draft: false
 - The Adventures of Oliver Twist
 - A Discovery of Witches
 - A People's History of the United States
+- Things a Little Bird Told Me 
 
 **Read in 2018**
 
