@@ -13,3 +13,7 @@ url = "/publications/"
 [[links]]
 title = "Reading List"
 url = "/reading-list/"
+
+[[links]]
+title = "Workshops and Talks"
+url = "/workshops/"
