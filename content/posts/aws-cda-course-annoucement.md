@@ -28,4 +28,4 @@ Here's a sneak peak of what you can expect inside one of my favorite labs:
 
 <!--more-->
 
-For more details on the course check out the [course itself](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018). 
+For more details on the course check out the [course itself](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018) or the [blog post](https://wpengine.linuxacademy.com/linuxacademy-com/announcing-aws-certified-developer-associate-level-preparation-course/) I wrote about it.
