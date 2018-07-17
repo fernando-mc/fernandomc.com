@@ -11,8 +11,8 @@ draft: false
 
 - Norse Mythology
 - The Adventures of Oliver Twist
-- A Discovery of Witches
-- A People's History of the United States
+- The Unreal and the Real: Vol. 1 Where on Earth
+- The Dispossessed
 
 **Read in 2018**
 
@@ -35,6 +35,9 @@ draft: false
 17. An Indigenous People's History of the United States
 18. Selected Shorts: For Better and for Worse
 19. Things a Little Bird Told Me 
+20. A Discovery of Witches
+21. A People's History of the United States
+22. Born a Crime
 
 **Read in 2017**
 

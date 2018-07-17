@@ -9,6 +9,8 @@ Here's a list of my publications outside of fernandomc.com.
 
 <h2>My Courses</h2>
 
+If you're currently taking one of my courses and have feedback or questions, feel free to [contact me]({{% contact_page %}})!
+
 **2018**
 
 - [AWS Certified Developer - Associate Level](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018)
