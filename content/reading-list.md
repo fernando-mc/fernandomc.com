@@ -13,7 +13,7 @@ draft: false
 - The Adventures of Oliver Twist
 - The Unreal and the Real: Vol. 1 Where on Earth
 - The Dispossessed
-- The Telling
+- The Left Hand of Darkness
 
 **Read in 2018**
 
@@ -40,6 +40,7 @@ draft: false
 21. A People's History of the United States
 22. Born a Crime
 23. Understanding Power: The Indispensible Chomsky
+24. The Telling
 
 **Read in 2017**
 
