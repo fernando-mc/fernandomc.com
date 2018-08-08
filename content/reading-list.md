@@ -12,8 +12,6 @@ draft: false
 - Norse Mythology
 - The Adventures of Oliver Twist
 - The Unreal and the Real: Vol. 1 Where on Earth
-- The Dispossessed
-- The Left Hand of Darkness
 
 **Read in 2018**
 
@@ -41,6 +39,9 @@ draft: false
 22. Born a Crime
 23. Understanding Power: The Indispensible Chomsky
 24. The Telling
+25. The Dispossessed
+26. The Left Hand of Darkness
+
 
 **Read in 2017**
 
