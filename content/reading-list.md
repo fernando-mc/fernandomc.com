@@ -12,6 +12,7 @@ draft: false
 - Norse Mythology
 - The Adventures of Oliver Twist
 - The Unreal and the Real: Vol. 1 Where on Earth
+- The Eye of the World
 
 **Read in 2018**
 
