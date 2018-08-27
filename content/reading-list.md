@@ -9,10 +9,8 @@ draft: false
 
 **Currently Reading:**
 
-- Norse Mythology
 - The Adventures of Oliver Twist
 - The Unreal and the Real: Vol. 1 Where on Earth
-- The Eye of the World
 
 **Read in 2018**
 
@@ -42,6 +40,8 @@ draft: false
 24. The Telling
 25. The Dispossessed
 26. The Left Hand of Darkness
+27. Norse Mythology
+28. The Eye of the World
 
 
 **Read in 2017**
