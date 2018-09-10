@@ -10,7 +10,7 @@ draft: false
 **Currently Reading:**
 
 - The Adventures of Oliver Twist
-- The Unreal and the Real: Vol. 1 Where on Earth
+- The Dragon Reborn
 
 **Read in 2018**
 
@@ -41,7 +41,9 @@ draft: false
 25. The Dispossessed
 26. The Left Hand of Darkness
 27. Norse Mythology
-28. The Eye of the World
+28. The Unreal and the Real: Vol. 1 Where on Earth
+30. The Eye of the World
+31. The Great Hunt
 
 
 **Read in 2017**
