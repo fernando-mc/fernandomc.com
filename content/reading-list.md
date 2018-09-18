@@ -10,7 +10,7 @@ draft: false
 **Currently Reading:**
 
 - The Adventures of Oliver Twist
-- The Dragon Reborn
+- The Shadow Rising
 
 **Read in 2018**
 
@@ -44,6 +44,7 @@ draft: false
 28. The Unreal and the Real: Vol. 1 Where on Earth
 30. The Eye of the World
 31. The Great Hunt
+32. The Dragon Reborn
 
 
 **Read in 2017**
