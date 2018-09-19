@@ -11,6 +11,8 @@ draft: false
 
 - The Adventures of Oliver Twist
 - The Shadow Rising
+- How To Kill A City
+- Requiem for the American Dream
 
 **Read in 2018**
 

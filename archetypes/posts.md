@@ -14,10 +14,10 @@ Categories = [
   "AWS",
 ]
 title = ""
-menu = "main"
 publishdate = "{{ .Date }}"
 date = "{{ .Date }}"
-
+[image]
+    feature = "/images/abstract-1.jpg"
 +++
 
 0. GET SOME IMAGES in (Feedly, RSS, etc use them and need em in there at first publish)
