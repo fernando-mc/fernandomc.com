@@ -12,7 +12,6 @@ draft: false
 - The Adventures of Oliver Twist
 - The Shadow Rising
 - How To Kill A City
-- Requiem for the American Dream
 
 **Read in 2018**
 
@@ -47,7 +46,7 @@ draft: false
 30. The Eye of the World
 31. The Great Hunt
 32. The Dragon Reborn
-
+33. Requiem for the American Dream
 
 **Read in 2017**
 
