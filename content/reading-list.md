@@ -11,7 +11,7 @@ draft: false
 
 - The Adventures of Oliver Twist
 - The Shadow Rising
-- The Lathe of Heaven
+- The Given Sacrifice
 
 **Read in 2018**
 
@@ -49,6 +49,8 @@ draft: false
 33. Requiem for the American Dream
 34. How To Kill A City
 35. Lord of Mountains
+36. The Lathe of Heaven
+
 
 **Read in 2017**
 
