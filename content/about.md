@@ -14,7 +14,7 @@ I currently spend my days making courses to help software engineers, architects,
 
 ### Meetups
 
-I founded and run the [Redmond Python](https://www.meetup.com/Redmond-Python-User-Group/) meetup. The over 300 members do things like:
+I founded and run the [Redmond Python](https://www.meetup.com/Redmond-Python-User-Group/) meetup. The over 500 members do things like:
 
 - Teach free full-day Introduction to Python workshops
 - Host regular project nights to answer Python questions
