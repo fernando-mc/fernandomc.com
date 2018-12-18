@@ -11,7 +11,10 @@ draft: false
 
 - The Adventures of Oliver Twist
 - The Shadow Rising
-- The Given Sacrifice
+- Stonewall: The Riots That Sparked the Gay Revolution
+- No Ivory Tower
+- Eyes on the Prize
+- Democracy is in the Streets
 
 **Read in 2018**
 
@@ -50,7 +53,8 @@ draft: false
 34. How To Kill A City
 35. Lord of Mountains
 36. The Lathe of Heaven
-
+37. The Ethical Slut
+38. The Given Sacrifice
 
 **Read in 2017**
 
