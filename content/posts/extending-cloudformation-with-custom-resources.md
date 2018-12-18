@@ -218,6 +218,7 @@ So let's actually test out this demo now that we understand how everything works
 
 1. Clone the code with `git clone https://github.com/fernando-mc/cloudformation-custom-resource-lambda`
 2. Build the Lambda Function package:
+
 ```bash
 mkdir setup
 cp cf_response.py setup/
