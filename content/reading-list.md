@@ -11,6 +11,7 @@ draft: false
 
 - The Adventures of Oliver Twist
 - The Shadow Rising
+- The Golden Princess
 - Stonewall: The Riots That Sparked the Gay Revolution
 - No Ivory Tower
 - Eyes on the Prize
