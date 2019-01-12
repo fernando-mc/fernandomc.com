@@ -11,11 +11,14 @@ draft: false
 
 - The Adventures of Oliver Twist
 - The Shadow Rising
-- The Golden Princess
 - Stonewall: The Riots That Sparked the Gay Revolution
 - No Ivory Tower
 - Eyes on the Prize
 - Democracy is in the Streets
+
+**Read in 2019**
+
+1. Narrative of the Life of Frederick Douglass
 
 **Read in 2018**
 
@@ -56,6 +59,7 @@ draft: false
 36. The Lathe of Heaven
 37. The Ethical Slut
 38. The Given Sacrifice
+39. The Golden Princess
 
 **Read in 2017**
 
