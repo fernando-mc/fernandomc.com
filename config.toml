@@ -11,8 +11,8 @@ GoogleAnalytics = "UA-88768773-1"
 
 [params]
     # favicon = "favicon.ico"
-    subtitle = "Data Engineer, Published Course Author and Tech Pun Connoisseur."
-    description = "I'm Fernando Medina Corey, a data engineer, published course author for software engineering content and an avid punster."
+    subtitle = "Cloud Architect and Pluralsight Course Author."
+    description = "I'm Fernando Medina Corey, a Cloud Architect, published course author for software engineering content and an avid punster."
 	[params.author]
 		name = "Fernando Medina Corey"
 		avatar = "/images/fernando.jpg"
