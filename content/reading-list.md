@@ -19,6 +19,8 @@ draft: false
 **Read in 2019**
 
 1. Narrative of the Life of Frederick Douglass
+2. The War of the Worlds
+3. The Fifth Season
 
 **Read in 2018**
 
