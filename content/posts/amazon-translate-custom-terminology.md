@@ -7,7 +7,8 @@ Tags = [
   "AWS",
   "Amazon Translate",
   "Translation",
-  "Serverless"
+  "Serverless",
+  "Custom Terminology"
 ]
 Categories = [
   "AWS",
