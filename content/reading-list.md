@@ -15,7 +15,6 @@ draft: false
 - No Ivory Tower
 - Eyes on the Prize
 - Democracy is in the Streets
-- The Stone Sky
 
 **Read in 2019**
 
@@ -23,6 +22,8 @@ draft: false
 2. The War of the Worlds
 3. The Fifth Season
 4. The Obelisk Gate
+5. The Stone Sky
+6. The Hundred Thousand Kingdoms
 
 **Read in 2018**
 
