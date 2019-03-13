@@ -13,6 +13,8 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 
 - [An Introduction to AWS Lambda](https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents)
 - [Using the Serverless Framework with Node.js on AWS](https://app.pluralsight.com/library/courses/aws-nodejs-serverless-framework-using)
+- [AWS IoT: The Big Picture](https://app.pluralsight.com/library/courses/aws-iot-big-picture/table-of-contents)
+- [Translating Languages on AWS with Amazon Translate](https://www.pluralsight.com/courses/aws-translate-text)
 
 I've also previously made a few courses for Linux Academy:
 
@@ -29,4 +31,5 @@ I've also previously made a few courses for Linux Academy:
 
 - [How to Build SMS Notification Applications with JavaScript and the Serverless Framework](https://www.twilio.com/blog/2017/09/serverless-text-notification-app-serverless-javascript.html)
 - [Managing Data Pipeline Workflows in AWS Lambda](https://www.pluralsight.com/blog/software-development/data-aws-lambda)
+- [Deploy a Serverless Frontend with the Serverless Finch Plugin](https://serverless.com/blog/deploy-serverless-frontend-with-serverless-finch-plugin/)
 
