@@ -24,6 +24,7 @@ draft: false
 4. The Obelisk Gate
 5. The Stone Sky
 6. The Hundred Thousand Kingdoms
+7. All Systems Red
 
 **Read in 2018**
 
