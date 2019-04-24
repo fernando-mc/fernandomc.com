@@ -30,8 +30,6 @@ Let's take a look at the tool's purpose and how it's put together.
 
 With this tool you can search through pay rates on different tech jobs or submit your own information. You can search by several different attributes including job title, location, or the company. Additionally, people who submit information can choose to add various compensation details as well as demographic information.
 
-If you'd like to learn more about the tool and the reasons I built it, check out the Upfront Jobs blog post on it [here](https://blog.upfrontjobs.io/blog/announcing-tech-pay-rates).
-
 ## How does Tech Pay Rates work?
 
 Tech Pay Rates uses the Serverless Framework to manage AWS infrastructure and to deploy code changes. It also uses Algolia for search functionality. The Tech Pay Rates codebase is currently under 500 lines of code (excluding dependency related files) so it's tiny! Here are the highlights:
@@ -44,6 +42,4 @@ Tech Pay Rates uses the Serverless Framework to manage AWS infrastructure and to
 
 And whenever changes are made to the S3 site or the backend, the code is redeployed with the Serverless Framework or a plugin for the framework called Serverless Finch. 
 
-## Have suggestions or want to contribute?
-
-I hope this tool will help people in a variety of different situations randing from job seekers to those evaluating their current environments. But if you have feedback or a feature suggestion on how to make it better please open an issue or put in a PR [on GitHub](https://github.com/fernando-mc/techpayrates)!
+I hope this tool will help people in a variety of different situations randing from job seekers to those evaluating their current environments.
