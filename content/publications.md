@@ -21,8 +21,13 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 <h2>External Articles</h2>
 
+**2019**
+
+- [Finding Your First Job After a Coding Bootcamp](https://blog.upfrontjobs.io/blog/first-job-after-bootcamp)
+
 **2018**
 
+- A series of posts for the [Upfront Jobs Blog](https://blog.upfrontjobs.io/)
 - [DynamoDB Atomic Counters](https://linuxacademy.com/blog/amazon-web-services-2/dynamodb-atomic-counters/)
 - [Deploying a Containerized Flask Application with AWS ECS and Docker](https://linuxacademy.com/blog/amazon-web-services-2/deploying-a-containerized-flask-application-with-aws-ecs-and-docker/)
 
