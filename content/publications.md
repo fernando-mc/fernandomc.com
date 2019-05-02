@@ -21,6 +21,11 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 <h2>External Articles</h2>
 
+**2018**
+
+- [DynamoDB Atomic Counters](https://linuxacademy.com/blog/amazon-web-services-2/dynamodb-atomic-counters/)
+- [Deploying a Containerized Flask Application with AWS ECS and Docker](https://linuxacademy.com/blog/amazon-web-services-2/deploying-a-containerized-flask-application-with-aws-ecs-and-docker/)
+
 **2017**
 
 - [How to Build SMS Notification Applications with JavaScript and the Serverless Framework](https://www.twilio.com/blog/2017/09/serverless-text-notification-app-serverless-javascript.html)
