@@ -15,6 +15,7 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 - [Using the Serverless Framework with Node.js on AWS](https://app.pluralsight.com/library/courses/aws-nodejs-serverless-framework-using)
 - [AWS IoT: The Big Picture](https://app.pluralsight.com/library/courses/aws-iot-big-picture/table-of-contents)
 - [Translating Languages on AWS with Amazon Translate](https://www.pluralsight.com/courses/aws-translate-text)
+- [Architecting for Cost on AWS](https://www.pluralsight.com/courses/aws-architecting-cost)
 
 
 Don't already have a Pluralsight account? [Have a free trial on me](https://pluralsight.pxf.io/RW5Bb).
