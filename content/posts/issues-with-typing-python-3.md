@@ -26,7 +26,7 @@ I recently upgraded an AWS Lambda API for [Upfront Jobs](https://beta.upfrontjob
 
 The first step was identifying my problem. My API application is a Flask-based API running in AWS Lambda that sends Tracebacks and other logs to Amazon CloudWatch Logs for the runtime errors. I noticed that my logs were throwing Tracebacks that appeared related to the `algoliasearch` library:
 
-```
+```python
 Traceback (most recent call last):
 File "/var/task/wsgi_handler.py", line 44, in import_app
 wsgi_module = importlib.import_module(wsgi_fqn_parts[-1])
@@ -71,7 +71,7 @@ Traceback (most recent call last):
 
 The key section of the logs above being:
 
-```
+```python
 from algoliasearch.search_client import SearchClient
 File "/var/task/algoliasearch/search_client.py", line 5, in <module>
 from typing import Optional, Union, List
@@ -112,7 +112,7 @@ So to recreate this issue you can do something as simple as running `pip install
 
 That's all I needed to do to trigger a stack trace in a folder called `testy`:
 
-```
+```python
 >>> import typing
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
