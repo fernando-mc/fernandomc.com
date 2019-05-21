@@ -8,7 +8,7 @@ type: page
 
 - May 25, 2019 | Redmond Python at Microsoft - [Introduction to Python for Beginners](https://www.meetup.com/Redmond-Python-User-Group/events/261469728/)
 
-- May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://www.meetup.com/Redmond-Python-User-Group/events/261469728/)
+- May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://beercitycode.com/)
 
 - June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
 
