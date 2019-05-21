@@ -13,9 +13,9 @@ type: page
 - June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
 
 
-Here's a few workshops and talks I've given in the past:
+## Past Workshops and Talks
 
-## 2018
+### 2018
 
 - Nov. 20, 2018 | City University of Seattle - [Creating a Serverless Development Portfolio in 7 Days](/files/making-severless-portfolio-7-days.pdf)
     - [Recording](https://www.youtube.com/watch?time_continue=1&v=CPLJiarDWks) (Thanks to City University of Seattle for hosting!)
