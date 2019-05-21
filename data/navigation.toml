@@ -3,17 +3,17 @@ title = "Contact"
 url = "/contact/"
 
 [[links]]
-title = "Mailing List"
-url = "/mailing-list/"
+title = "Workshops and Talks"
+url = "/workshops/"
 
 [[links]]
 title = "Publications"
 url = "/publications/"
 
 [[links]]
-title = "Reading List"
-url = "/reading-list/"
+title = "Mailing List"
+url = "/mailing-list/"
 
 [[links]]
-title = "Workshops and Talks"
-url = "/workshops/"
+title = "Reading List"
+url = "/reading-list/"
