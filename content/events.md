@@ -13,11 +13,11 @@ type: page
 ### 2019
 
 - May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://beercitycode.com/)
-    - Feedback ()
+    - Feedback (5.0/5.0 or 100% "Very satisfied" respondents)
     - [Curriculum](https://fernando-mc.github.io/python3-workshop/)
 
 - May 25, 2019 | Redmond Python at Microsoft - [Introduction to Python for Beginners](https://www.meetup.com/Redmond-Python-User-Group/events/261469728/)
-    - Feedback - (100% "Very satisfied" respondents)
+    - Feedback - (5.0/5.0 or 100% "Very satisfied" respondents)
     - [Curriculum](https://fernando-mc.github.io/python3-workshop/)
 
 ### 2018
