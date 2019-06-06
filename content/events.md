@@ -6,11 +6,13 @@ type: page
 
 ## Upcoming Workshops and Talks
 
-- June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
+- Want me to give a talk or training at your organization? [Get in touch](/contact).
 
 ## Past Workshops and Talks
 
 ### 2019
+
+- June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
 
 - May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://beercitycode.com/)
     - Feedback (5.0/5.0 or 100% "Very satisfied" respondents)
@@ -39,3 +41,7 @@ type: page
 - Apr. 12, 2018 | Redmond Python - [Flask and Elastic Beanstalk](https://www.meetup.com/Redmond-Python-User-Group/events/kwsqkpyxgbqb/)
 - Apr. 5, 2018 | Redmond Python - [Sparrow: a lightweight shell for Twitter botmaking](https://www.meetup.com/Redmond-Python-User-Group/events/kwsqkpyxhbfb/)
     - [Code](https://github.com/fernando-mc/sparrow-3)
+
+### 2016
+
+- Mar. 25, 2016 | Wharton School, Philly Python User Group - [Python Diceware: Because Our Passwords Suck](/files/presentations/python-diceware-our-passwords-suck.pptx)
