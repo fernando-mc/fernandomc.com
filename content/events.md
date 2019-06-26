@@ -2,6 +2,8 @@
 title: Workshops and Talks
 comments: false
 type: page
+blackfriday:
+    fractions: false
 ---
 
 ## Upcoming Workshops and Talks
@@ -13,13 +15,15 @@ type: page
 ### 2019
 
 - June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
+    - Feedback: 5.0/5.0
 
 - May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://beercitycode.com/)
-    - Feedback (5.0/5.0 or 100% "Very satisfied" respondents)
+    - Feedback: 4.5/5
     - [Curriculum](https://fernando-mc.github.io/python3-workshop/)
 
 - May 25, 2019 | Redmond Python at Microsoft - [Introduction to Python for Beginners](https://www.meetup.com/Redmond-Python-User-Group/events/261469728/)
-    - Feedback - (5.0/5.0 or 100% "Very satisfied" respondents)
+    - Feedback Survey: 5.0/5.0
+    - Meetup.com Rating: 4.8/5
     - [Curriculum](https://fernando-mc.github.io/python3-workshop/)
 
 ### 2018
@@ -29,6 +33,7 @@ type: page
     - [Presentation](https://docs.google.com/presentation/d/1OBlLYxByjabYG_MTc_xbILME0oS2-OTPYrcOe353FmA/edit?usp=sharing)
 - Sep. 20, 2018 | Redmond Python - [Creating Your Python API with Flask](https://www.meetup.com/Redmond-Python-User-Group/events/254677176/)
     - [Tutorial](https://www.fernandomc.com/posts/your-first-flask-api/)
+    - Feedback: 5.0/5.0
 - August 9, 2018 | Redmond Python - [Creating Your Serverless Development Portfolio in 7 Days](https://www.meetup.com/Redmond-Python-User-Group/events/hfdjspyxlbmb/)
     - [Presentation](https://docs.google.com/presentation/d/177do8_ihmUT8NZ8OxLACHXLKk1XEJkjHUcLRRXFT8NM/edit?usp=sharing)
 - Jun. 28, 2018 | Redmond Python - [A Desperate Weekend Learning Spark](https://www.meetup.com/Redmond-Python-User-Group/events/hfdjspyxjblc/)
