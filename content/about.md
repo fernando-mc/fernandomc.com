@@ -6,11 +6,15 @@ type: page
 
 I'm Fernando Medina Corey and here are a few things you might want to know about me.
 
-### Software
+### Cloud Consulting
 
-While I currently focus on technologies from public cloud providers like Amazon Web Services, I've worked with a variety of different technologies in order to develop web applications, manage data pipelines, and architect cloud infrastructure. For more details about my professional experiences you can always look at my [LinkedIn]({{% my_linkedin %}}) or [GitHub](https://github.com/fernando-mc) profiles. 
+While I currently focus on technologies from public cloud providers like Amazon Web Services, I've worked with a variety of different technologies in order to develop web applications, manage data pipelines, and architect cloud infrastructure. For more details about my professional experiences you can always look at my [LinkedIn]({{% my_linkedin %}}) or [GitHub](https://github.com/fernando-mc) profiles.
 
-I currently spend my days making courses to help software engineers, architects, and technology professionals learn the technologies they need to succeed. You can check out my courses [here](/publications).
+I also work with organizations who need cloud services expertise. You learn more about this on the [Stormlight Consulting website](https://stormlightconsulting.com/).
+
+### Courses
+
+I've published a variety of courses and tutorials to help software engineers, architects, and technology professionals learn the technologies they need to succeed. You can check out my courses [here](/publications).
 
 ### Meetups
 
