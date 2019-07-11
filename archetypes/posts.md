@@ -2,7 +2,7 @@
 draft = true
 Description = ""
 Tags = [
-  "",
+  "Architecture",
   "Serverless",
   "Python",
   "AWS",
