@@ -15,8 +15,8 @@ Categories = [
   "AWS",
 ]
 title = "Amazon S3 Static Sites and CloudFront Configuration"
-publishdate = "2019-07-08T08:55:26-07:00"
-date = "2019-07-08T08:55:26-07:00"
+publishdate = "2019-07-17T08:55:26-07:00"
+date = "2019-07-17T08:55:26-07:00"
 [image]
     feature = "/images/amazon-s3-static-sites-and-cloudfront-configuration/clouds.png"
     credit = "Zach Dischner"
