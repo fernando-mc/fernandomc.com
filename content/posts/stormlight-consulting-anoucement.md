@@ -12,7 +12,7 @@ Categories = [
   "Announcement",
 ]
 title = "Announcing Stormlight Consulting"
-publishdate = "2019-07-T15:55:27-07:00"
+publishdate = "2019-07-15T11:55:27-07:00"
 date = "2019-07-15T11:55:27-07:00"
 link = "https://www.stormlightconsulting.com"
 [image]
