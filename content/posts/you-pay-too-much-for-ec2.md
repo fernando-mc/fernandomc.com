@@ -26,7 +26,6 @@ date = "2019-07-24T09:44:19-07:00"
 +++
 
 I'm about to tell you something ridiculous. You might be paying 70% or more on EC2 than you need to be. With a combination of Spot and Reserved Instances you can dramatically lower your EC2 bill on AWS.
-
 <!--more-->
 
 # Comparing Apples to Apples
