@@ -5,7 +5,7 @@ Tags = [
   "Serverless",
   "Python",
   "AWS",
-  "Stormlight COnsulting",
+  "Stormlight Consulting",
   "Services",
 ]
 Categories = [
