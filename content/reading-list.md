@@ -10,11 +10,12 @@ draft: false
 **Currently Reading:**
 
 - The Adventures of Oliver Twist
-- The Shadow Rising
 - Stonewall: The Riots That Sparked the Gay Revolution
 - No Ivory Tower
 - Eyes on the Prize
 - Democracy is in the Streets
+- Lord of Chaos
+- The Kingdom of Copper
 
 **Read in 2019**
 
@@ -25,6 +26,10 @@ draft: false
 5. The Stone Sky
 6. The Hundred Thousand Kingdoms
 7. All Systems Red
+8. The Shadow Rising
+9. The Fires of Heaven
+10. The Bird King
+11. The City of Brass
 
 **Read in 2018**
 
