@@ -15,8 +15,8 @@ Categories = [
   "Architecture",
 ]
 title = "Serverless Application Patterns - Indexing Searchable User-Generated Content"
-publishdate = "2019-09-29T09:23:42-07:00"
-date = "2019-09-29T09:23:42-07:00"
+publishdate = "2019-10-14T09:23:42-07:00"
+date = "2019-10-14T09:23:42-07:00"
 [image]
     feature = "/images/indexing-searchable-user-generated-content/feature.png"
 +++
