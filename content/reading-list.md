@@ -9,13 +9,8 @@ draft: false
 
 **Currently Reading:**
 
-- The Adventures of Oliver Twist
-- Stonewall: The Riots That Sparked the Gay Revolution
-- No Ivory Tower
-- Eyes on the Prize
 - Democracy is in the Streets
 - Lord of Chaos
-- The Kingdom of Copper
 
 **Read in 2019**
 
@@ -30,6 +25,8 @@ draft: false
 9. The Fires of Heaven
 10. The Bird King
 11. The City of Brass
+12. The Kingdom of Copper
+13. One Hundred Years of Solitude
 
 **Read in 2018**
 
