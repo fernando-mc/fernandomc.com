@@ -11,7 +11,6 @@ draft: false
 
 - Democracy is in the Streets
 - Lord of Chaos
-- Nine Princes in Amber
 
 **Read in 2019**
 
@@ -28,6 +27,7 @@ draft: false
 11. The City of Brass
 12. The Kingdom of Copper
 13. One Hundred Years of Solitude
+14. Nine Princes in Amber
 
 **Read in 2018**
 
