@@ -20,7 +20,7 @@ link = "https://thenewstack.io/migrate-a-simple-sam-application-to-the-serverles
     feature = "/images/sam-to-serverless-framework.png"
 +++
 
-I recently published an article in The New Stack on migrating AWS SAM applicaitons to the Serverless Framework. <!--more-->
+I recently published an article in The New Stack on migrating AWS SAM applications to the Serverless Framework. <!--more-->
 
 [Check it out](https://thenewstack.io/migrate-a-simple-sam-application-to-the-serverless-framework/)! 
 
