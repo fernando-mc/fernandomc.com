@@ -14,6 +14,17 @@ blackfriday:
 
 ### 2019
 
+- Oct. 29, 2019 | LISA19 - [Creating Your First Serverless Application on AWS](https://www.usenix.org/conference/lisa19/presentation/corey)
+    - Feedback: Pending
+    - [Workshop Guide](https://fernando-mc.github.io/creating-first-serverless-app-aws/) | [Slides](https://speakerdeck.com/fernandomc/making-a-serverless-development-portfolio-in-seven-days-or-less) | [Code](https://speakerdeck.com/fernandomc/creating-your-first-serverless-application-on-aws)
+
+- Oct. 25, 2019 | LibertyJS - [Making a Serverless Development Portfolio - In Seven Days or Less](https://libertyjs.com/schedule/2019-10-25)
+    - Feedback: Pending
+    - [Slides](https://speakerdeck.com/fernandomc/making-a-serverless-development-portfolio-in-seven-days-or-less) | [Code](https://github.com/fernando-mc/libertyjs-jams)
+
+- Jun. 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
+    - Feedback: 5.0/5.0
+
 - June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
     - Feedback: 5.0/5.0
 
