@@ -16,7 +16,7 @@ blackfriday:
 
 - Oct. 29, 2019 | LISA19 - [Creating Your First Serverless Application on AWS](https://www.usenix.org/conference/lisa19/presentation/corey)
     - [Feedback](/images/event-feedback/2019/creating-your-first-serverless-application-on-aws-feedback.png): 4.5/5.0
-    - [Workshop Guide](https://fernando-mc.github.io/creating-first-serverless-app-aws/) | [Slides](https://speakerdeck.com/fernandomc/making-a-serverless-development-portfolio-in-seven-days-or-less) | [Code](https://speakerdeck.com/fernandomc/creating-your-first-serverless-application-on-aws)
+    - [Workshop Guide](https://fernando-mc.github.io/creating-first-serverless-app-aws/) | [Slides](https://speakerdeck.com/fernandomc/creating-your-first-serverless-application-on-aws) | [Code](https://github.com/fernando-mc/serverlessjams)
 
 - Oct. 25, 2019 | LibertyJS - [Making a Serverless Development Portfolio - In Seven Days or Less](https://libertyjs.com/schedule/2019-10-25)
     - [Feedback](/images/event-feedback/2019/making-a-serverless-development-portfolio-7-days-or-less-feedback.png): 4.25/5.0
