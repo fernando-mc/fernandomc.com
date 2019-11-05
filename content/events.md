@@ -19,7 +19,7 @@ blackfriday:
     - [Workshop Guide](https://fernando-mc.github.io/creating-first-serverless-app-aws/) | [Slides](https://speakerdeck.com/fernandomc/creating-your-first-serverless-application-on-aws) | [Code](https://github.com/fernando-mc/serverlessjams)
 
 - Oct. 25, 2019 | LibertyJS - [Making a Serverless Development Portfolio - In Seven Days or Less](https://libertyjs.com/schedule/2019-10-25)
-    - [Feedback](/images/event-feedback/2019/making-a-serverless-development-portfolio-7-days-or-less-feedback.png): 4.25/5.0
+    - [Feedback](/images/event-feedback/2019/making-a-serverless-development-portfolio-7-days-or-less-feedback.png): 4.33/5.0
     - [Slides](https://speakerdeck.com/fernandomc/making-a-serverless-development-portfolio-in-seven-days-or-less) | [Code](https://github.com/fernando-mc/libertyjs-jams) | [Video](https://www.youtube.com/watch?v=HUVPXETRQDc&feature=youtu.be&t=42)
 
 - Jun. 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
