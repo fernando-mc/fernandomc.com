@@ -15,7 +15,7 @@ title = "Amazon Cognito Custom Attributes"
 publishdate = "2019-11-13T11:08:58-07:00"
 date = "2019-11-13T11:08:58-07:00"
 [image]
-    feature = "/images/logos/cognito.png"
+    feature = "/images/logos/amazon-cognito.png"
 +++
 
 Amazon Cognito can be a useful service when you want to add authentication and authorization to an existing application on AWS. But I've also noticed a few quirks that I couldn't find answers to anywhere in the documentation. So here's my attempt to spare some folks idle hours search for answers.
