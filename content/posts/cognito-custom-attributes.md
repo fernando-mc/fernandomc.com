@@ -29,4 +29,4 @@ If you're wondering what the heck the DeveloperOnlyAttribute is, what it's for a
 
 If you're creating a custom attribute for a Cognito User Pool and you'd like to name it `thing` then it will show up as `custom:dev:custom:thing` in the Cognito console in the AWS Dashboard. But, confusingly, you'll need to refer to it as `dev:custom:thing` in your code when working with the AWS SDKs.
 
-Why? I have no idea. This is an incredibly intuitive implementation but here we are. I wish you luck in discovering no other weird quirks in your use of Cognito.
+Why? I have no idea. This is not an incredibly intuitive implementation but maybe someone can enlighten me in the comments. I wish you luck in discovering no other weird quirks in your use of Cognito!
