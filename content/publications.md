@@ -24,6 +24,10 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 **2019**
 
+- [The State of AWS Lambda Supported Languages & Runtimes (Updated November 2019)
+](https://serverless.com/blog/aws-lambda-supported-languages-and-runtimes)
+- [Serverless Deployment Best Practices](https://serverless.com/blog/serverless-deployment-best-practices/)
+- [Migrating Monitoring from IOpipe to Serverless Framework Pro](https://serverless.com/blog/iopipe-to-serverless/)
 - [Finding Your First Job After a Coding Bootcamp](https://blog.upfrontjobs.io/blog/first-job-after-bootcamp)
 
 **2018**
