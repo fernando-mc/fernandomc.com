@@ -7,7 +7,7 @@ draft: false
 
 Here's a list of my publications outside of fernandomc.com.
 
-<h2>My Pluralsight Courses</h2>
+## My Pluralsight Courses
 
 If you're currently taking one of my Pluralsight courses and have feedback or questions, feel free to [contact me]({{% contact_page %}})! 
 
@@ -20,12 +20,13 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 
 Don't already have a Pluralsight account? [Have a free trial on me](https://pluralsight.pxf.io/RW5Bb).
 
-<h2>External Articles</h2>
+## External Articles
 
 **2019**
 
 - [The State of AWS Lambda Supported Languages & Runtimes (Updated November 2019)
 ](https://serverless.com/blog/aws-lambda-supported-languages-and-runtimes)
+    - [Article Quoted in InfoQ](https://www.infoq.com/news/2019/11/aws-lambda-data-processing/)
 - [Serverless Deployment Best Practices](https://serverless.com/blog/serverless-deployment-best-practices/)
 - [Migrating Monitoring from IOpipe to Serverless Framework Pro](https://serverless.com/blog/iopipe-to-serverless/)
 - [Finding Your First Job After a Coding Bootcamp](https://blog.upfrontjobs.io/blog/first-job-after-bootcamp)
@@ -41,8 +42,11 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 - [How to Build SMS Notification Applications with JavaScript and the Serverless Framework](https://www.twilio.com/blog/2017/09/serverless-text-notification-app-serverless-javascript.html)
 - [Managing Data Pipeline Workflows in AWS Lambda](https://www.pluralsight.com/blog/software-development/data-aws-lambda)
 - [Deploy a Serverless Frontend with the Serverless Finch Plugin](https://serverless.com/blog/deploy-serverless-frontend-with-serverless-finch-plugin/)
+- Quoted in Information Week: [Amazon Pumps Out New Database and Machine Learning Services
+](https://www.informationweek.com/cloud/amazon-pumps-out-new-database-and-machine-learning-services-/d/d-id/1330524)
 
-<h2>Other Courses</h2>
+
+## Other Courses
 
 - [AWS Certified Big Data Specialty](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-big-data-specialty-course) 
 - [AWS Certified Solutions Architect - Associate Level (The Labs)](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-solutions-architect-associate-level)
