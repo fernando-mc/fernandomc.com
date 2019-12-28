@@ -8,6 +8,8 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
+- Feb. 12, 2020 | DeveloperWeek 2020 - [An Introduction to Microservices with the Serverless Framework](https://developerweek2020.sched.com/speaker/fernando_medina_corey.20db3k0n)
+
 - Want me to give a talk or training at your organization? [Get in touch](/contact).
 
 ## Past Workshops and Talks
