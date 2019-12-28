@@ -11,6 +11,7 @@ draft: false
 
 - Democracy is in the Streets
 - Lord of Chaos
+- Words Are My Matter
 
 **Read in 2019**
 
@@ -28,6 +29,7 @@ draft: false
 12. The Kingdom of Copper
 13. One Hundred Years of Solitude
 14. Nine Princes in Amber
+15. This Wound Is a World
 
 **Read in 2018**
 
