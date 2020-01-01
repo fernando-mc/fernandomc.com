@@ -10,7 +10,6 @@ draft: false
 **Currently Reading:**
 
 - Democracy is in the Streets
-- Lord of Chaos
 - Words Are My Matter
 
 **Read in 2019**
@@ -30,6 +29,7 @@ draft: false
 13. One Hundred Years of Solitude
 14. Nine Princes in Amber
 15. This Wound Is a World
+16. Lord of Chaos
 
 **Read in 2018**
 
