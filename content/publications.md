@@ -48,6 +48,7 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 ## Other Courses
 
+- [Serverless for Frontend Developers](https://serverless.com/learn/courses/serverless-for-frontend-developers/)
 - [AWS Certified Big Data Specialty](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-big-data-specialty-course) 
 - [AWS Certified Solutions Architect - Associate Level (The Labs)](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-solutions-architect-associate-level)
 - [AWS Certified Developer - Associate Level](https://linuxacademy.com/amazon-web-services/training/course/name/aws-certified-developer-associate-2018)
