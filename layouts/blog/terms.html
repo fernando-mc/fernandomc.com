@@ -1,0 +1,40 @@
+{{ partial "head.html" . }}
+<body id="post-index" {{ if isset ($.Scratch.Get "Params") "image" }}class="feature"{{ end }}>
+{{ partial "navigation.html" . }}
+<div class="entry-header">
+  {{ if isset ($.Scratch.Get "Params") "image" }}
+{{ $imageparams := index ($.Scratch.Get "Params") "image" }}
+	{{ if $imageparams.credit }}<div class="image-credit">Image credit: <a href="{{ $imageparams.creditlink }}">{{ $imageparams.credit }}</a></div><!-- /.image-credit -->{{ end }}
+    <div class="entry-image">
+      <img src="{{ $imageparams.feature | absURL }}" alt="{{ .Title }}">
+    </div><!-- /.entry-image -->
+  {{ end }}
+  <div class="header-title">
+    <div class="header-title-wrap">
+		<h1><a href="/" title="Go to the homepage">{{ .Site.Title }}</a></h1>
+	  <h2>{{ .Title }}</h2>
+    </div><!-- /.header-title-wrap -->
+  </div><!-- /.header-title -->
+</div><!-- /.entry-header -->
+
+<div id="main" role="main">
+<ul class="entry-meta inline-list">
+{{ range $key, $value := .Data.Terms }}
+  	<li><a href="#{{ $key }}" class="tag"><span class="term">{{ $key }}</span> <span class="count">{{ $value.Count }}</span></a></li>
+{{ end}}
+</ul>
+
+{{ $data := .Data }}
+{{ range $key, $value := .Data.Terms }}
+	<article>
+	<h2 id="{{ $key }}" class="tag-heading">{{ $key }}</h2>
+		<ul>
+            {{ range $value.Pages.ByDate.Reverse }}
+              <li class="entry-title"><a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a></li>
+            {{ end}}
+		</ul>
+	</article><!-- /.hentry -->
+{{ end}}
+
+</div><!-- /#main -->
+{{ partial "foot.html" . }}
