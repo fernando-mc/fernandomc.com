@@ -13,6 +13,8 @@ type = "blog"
 [image]
     feature = "/images/events/2019-liberty-js-fernando.png"
     postheader = "/images/events/2019-liberty-js-header.png"
+    credit = "Lisa Schaffer"
+    creditlink = "https://www.instagram.com/lisaschafferphotography/"
 +++
 
 2019 was a year. In usual fashion I've decided to post a review of some of the things you may or may not have seen from me that I finished up along the way.
