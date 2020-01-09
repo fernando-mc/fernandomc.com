@@ -1,3 +1,9 @@
+---
+title: Mailing List
+comments: false
+type: page
+---
+
 Thanks for your interest! 
 
 I usually send infrequent updates about new courses, blog posts and events. If you ever want less mail (or more!) feel free to [send me a message]({{% contact_page %}}).
