@@ -1,6 +1,5 @@
 +++
-draft = true
-Description = "A tutorial on adding Lambda Authorizers to your applications with Auth0."
+Description = "A tutorial on adding Lambda Authorizers to your Serverless Framework applications with Auth0."
 Tags = [
   "Architecture",
   "Serverless",
@@ -17,8 +16,8 @@ Categories = [
 ]
 type = "blog"
 title = "Adding Lambda Authorizers to your Serverless Applications"
-publishdate = "2020-01-07T20:13:47-08:00"
-date = "2020-01-07T20:13:47-08:00"
+publishdate = "2020-01-22T20:13:47-08:00"
+date = "2020-01-22T20:13:47-08:00"
 [image]
     feature = "/images/authorized.png"
     postheader = "/images/authorized-header.png"
@@ -262,7 +261,7 @@ If these are both present this token is exactly what we need in order to process
 
 ## Deploying Our Backend
 
-Now that we're ready to deploy our backend let's take a closer look at each part of it!
+Now that we're ready to work on our backend let's take a closer look at each part of it!
 
 The `serverless.yml` is the core configuration for any Serverless Framework service. In this case, we're going to use it to configure all the API Endpoints, backing Lambda functions, the authorizer for the protected API endpoint and the DynamoDB table used by the application. My Serverless Learn courses [here](https://serverless.com/learn/courses/serverless-for-frontend-developers/) would also take you through the process of configuring a custom domain for the frontend and teaching you how to deploy it.
 
@@ -287,7 +286,7 @@ If you want to create one you can go to [dashboard.serverless.com](https://dashb
 Next, I've just made sure to specify a framework version in case you're trying to use a version which might not ve supported: 
 
 ```yaml
-frameworkVersion: ">=1.53.0 <2.0.0"
+frameworkVersion: ">=1.61.2 <2.0.0"
 ```
 
 After that, I have the provider section. In this I specify that I'm working with AWS, using Python as my function runtime and tell the service which region I'll be deploying into.
@@ -321,7 +320,7 @@ You'll also notice the `environment` section above has a few different values we
 
 Make sure to save after you update that! 
 
-Then, there is the `iamRoleStatements` section. In this section we are giving permission to our service to take action on a DynamoDB table that we're going to create further down in the `Resources` section of `serverless.yml`.
+Then, there is the `iamRoleStatements` section. In this section we are giving permission to our service to take action on a DynamoDB table that we're going to create further down in the `Resources` section of `serverless.yml`. I'll cover how to create the table in that section toward the end of this post.
 
 ```yaml
   iamRoleStatements:
@@ -378,6 +377,7 @@ Let's look at each in more detail.
 The purpose of the `auth` function is to generate either an allow or deny policy depending on if the incoming request has a valid token and has verified their email address. First, it loads up dependencies:
 
 ```python
+# in auth.py
 import os
 import requests
 
@@ -390,6 +390,7 @@ AUTH0_DOMAIN = os.environ.get("AUTH0_DOMAIN")
 Then, it defines a handler function that receives the incoming event from any API request that it is configured for.
 
 ```python
+# ... continued in auth.py
 def handler(event, context):
     print(event)
     print(context)
@@ -424,17 +425,313 @@ Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5VWkVOalJGT0VFeE9EVkdNRFJEU
 
 If the format is wrong it logs and error and raises an error saying the request is Unauthorized: `raise Exception('Unauthorized')`.
 
-If the token has the correct format then the `verify_token` attempts to verify it.
+If the token has the correct format then the `verify_token` attempts to verify it. This is pretty critical, so in a moment we'll look at that in depth. It basically means we know the token is authentic and not created by a malicious attacker. 
+
+With the verified token we then use the token to check the `userinfo` endpoint Auth0 provides. This gets us basic information about the user including things like name, user id, and email verification status. In this particular case, we decide to say that if the user has a verified email then we should allow use of the API. This means we need to generate an IAM policy with `generate_policy` that is returned by the `auth` function to determine if we pass the request along to the API endpoint or not.
+
+Here's what's in `generate_policy` inside of the `auth.py`:
+
+```python
+# ... continued in auth.py
+def generate_policy(principal_id, effect, resource, scopes=None):
+    policy = {
+        'principalId': principal_id,
+        'policyDocument': {
+            'Version': '2012-10-17',
+            'Statement': [
+                {
+                    "Action": "execute-api:Invoke",
+                    "Effect": effect,
+                    "Resource": resource
+                }
+            ]
+        }
+    }
+    if scopes:
+        policy['context'] = {'scopes': scopes}
+    return policy
+```
+
+In `generate_policy` above we're really just creating an AWS IAM policy that says the caller of the API can access the API they requested. Or, if they don't have a verified email, we're saying they cannot access the API. There is also a section in this function for `scopes` that we could pass along to the API to determine the `authorization` part for itself but that's covered in my [Serverless Learn course](https://serverless.com/learn/courses/serverless-for-frontend-developers/).
+
+So this is how we determine both the authentication (with `verify_token`) and authorization (by checking if the email is valid in this case) of if the user is passed on to the API endpoint. We skimmed over the authentication though, so let's take a closer look.
+
+#### Looking at `verify_token` - How does token verification happen?
+
+All the code to verify our JWTs happens in `verify_token.py`. The file starts by grabbing a few dependencies and setting up environment variables we saved in `serverless.yml`. 
+
+```python
+# in verify_token.py
+import os
+import json
+
+from six.moves.urllib.request import urlopen
+from jose import jwt
+
+AUTH0_DOMAIN = os.environ.get("AUTH0_DOMAIN")
+AUTH0_API_ID = os.environ.get("AUTH0_API_ID")
+```
+
+The most important thing to note here is the `jose` library and `jwt`. This comes from a `python-jose` dependency in `requirements.txt`. This dependency will handle all of the cryptographic verification of the JWT that is coming in to the authorizer. Essentially, you provide it with a few of the configuration values like the Auth0 domain, API ID, the algorithm used and the public key used to encrypt everything, and it will decode and verify the JWT. Here's how:
+
+```python
+# ... continued in verify_token.py
+
+def verify_token(token):
+    # This grabs the public key information and metadata
+    jsonurl = urlopen("https://"+AUTH0_DOMAIN+"/.well-known/jwks.json")
+    jwks = json.loads(jsonurl.read())
+    # This will get the unverified token header to compare against
+    unverified_header = jwt.get_unverified_header(token)
+    rsa_key = {}
+    for key in jwks["keys"]:
+        # Here we compare the public metadata and unverified header
+        if key["kid"] == unverified_header["kid"]:
+            rsa_key = {
+                "kty": key["kty"],
+                "kid": key["kid"],
+                "use": key["use"],
+                "n": key["n"],
+                "e": key["e"]
+            }
+    if rsa_key:
+        try:  # `decode` is where we do the actual verification
+            payload = jwt.decode(
+                token,
+                rsa_key,
+                algorithms=["RS256"],
+                audience=AUTH0_API_ID,
+                issuer="https://"+AUTH0_DOMAIN+"/"
+            )
+            print("token validated successfully")
+            return payload
+        except jwt.ExpiredSignatureError:
+            print("Token is expired")
+            raise Exception('Unauthorized')
+        except jwt.JWTClaimsError:
+            print("Token has invalid claims")
+            raise Exception('Unauthorized')
+        except Exception:
+            print("Unable to parse token")
+            raise Exception('Unauthorized')
+```
+
+As you can see above, we construct a URL like this: `https://"+AUTH0_DOMAIN+"/.well-known/jwks.json` to fetch the public key information and metadata for our Auth0 tenant. Then we confirm that in the unverified header we're looking at the same key id as the public key we just grabbed.
+
+After that, the `jwt.decode()` is doing the heavy lifting for us. We just provide it with the token and the configuration values and it will cryptographically verify the token for us. If successful, it returns the decoded token with the relevant information for us to process and use it wherever we call `verify_token` (in this case, back in `auth.py`). If it fails, we have logic to raise several different possible errors after we print a little more detail about them to the logs for review.
+
+So now we know that our API calls are cryptographically verified and protected from any unverified users! So what are we even trying to protect in this case? Let's take a look!
 
 #### Looking at the `recordSongVote` Function
 
+If you take a look at `record_song_vote.py` we're really doing a pretty simple interaction with a DynamoDB table. Essentially, we increment on a `votes` attribute for an item with a key of `songName`. So every time our API endpoint is hit, we add one vote to the song's counter. We also return the latest vote counts for that song so the frontend can update it in sync with any recently recorded votes. How does this work? Well, we start with dependencies as always:
+
+```python
+import boto3
+import os
+import json
+
+dynamodb = boto3.client('dynamodb')
+```
+
+And setup a DynamoDB client called `dynamodb`. Then, we create our handler and expect the `songName` in the JSON event body:
+
+```python
+def handler(event, context):
+    song_name = json.loads(event['body'])['songName']
+```
+
+From there, we create `result` to store the result of the DynamoDB `update_item` operation. Inside of that operation we load the `DYNAMODB_TABLE` name from the environment variables setup by `serverless.yml`'s `environment` section. And we find the key using the song name. Then we update the item with an `UpdateExpression` that tells the client to add 1 to the value of the `votes` attribute.
+
+```python
+    # Still in the handler() 
+    result = dynamodb.update_item(
+        TableName=os.environ['DYNAMODB_TABLE'],
+        Key={
+            'songName':{'S': song_name}
+        },
+        UpdateExpression='ADD votes :inc',
+        ExpressionAttributeValues={
+            ':inc': {'N': '1'}
+        },
+        ReturnValues="UPDATED_NEW"
+    )
+```
+
+From there, we create a `response` to send back to API Gateway that includes CORS information and a status code and we reformat the result body into this: `{"votes": "4"}`. 
+
+```python
+    # Still in the handler()
+    response = {
+        "statusCode": 200,
+        "headers": {"Access-Control-Allow-Origin": "*"},
+        "body": json.dumps({"votes": result["Attributes"]["votes"]["N"]})
+    }
+    return response
+```
+
+And that's it! With this going back via API Gateway, we complete a fully authenticated and authorized request-response cycle.
+
 #### Looking at the `getSongVoteCounts` Function
+
+Now we don't always have to use the authorizer we created. In fact, for getting the song vote counts we don't want to! We want anyone to be able to load the most recent vote tallies without logging in. So the `getSongVoteCounts` function doesn't include the authorizer configuration in `serverless.yml`. 
+
+All it does, it go get all the songs in the table and return the song counts for each of them. In doing so, it uses the DynamoDB `scan()` operation in `get_song_vote_counts.py`. Be aware that this wouldn't be an optimal way to get back data from a DynamoDB table with more than a few items. I'm not going to cover this one in much detail but feel free to take a look at it yourself!
 
 ### Adding our DynamoDB Table Resource
 
+Now at this stage I still haven't explained where the heck our DynamoDB table came from! It is defined in `serverless.yml` in our Resources section:
+
+```yaml
+resources:
+  Resources:
+    songsTable:
+      Type: AWS::DynamoDB::Table
+      Properties:
+        TableName: ${self:provider.environment.DYNAMODB_TABLE}
+        AttributeDefinitions:
+          - AttributeName: songName
+            AttributeType: S
+        KeySchema:
+          - AttributeName: songName
+            KeyType: HASH
+        ProvisionedThroughput:
+          ReadCapacityUnits: 1
+          WriteCapacityUnits: 1
+```
+
+Essentially, we're defining all the characteristics of the table we want using CloudFormation syntax:
+
+- The CloudFormation resource name is `songsTable`. 
+- We specify that the resource type is an `AWS::DynamoDB::Table`
+- The `TableName` we want for the table is loaded from the DYNAMODB_TABLE environment variable created in the environment section above in `serverless.yml` - e.g. `serverlessjams-voteCounts`
+- We specify the important attributes for our table: `songName` attribute as a string
+- Then we specify that `songName` should be our partition or `HASH` key for the table in the `KeySchema`
+- Finally, I'm cheap so I also specify a `ProvisionedThroughput` of 1 for read and write capacity to make sure that our table has very limited capacity and thus costs as little as possible.
+
+### Plugins and Packaging
+
+Ok, now the last steps before we run `serverless deploy`! Because we're working with Python, I've included a plugin called `serverless-python-requirements` inside of `serverless.yml` and inside `package.json`. To install it you can run `npm install`.
+
+If you look at `serverless.yml`, there is a bit of extra configuration for the plugin:
+
+```yaml
+# Below the `resources` section in serverless.yml
+plugins:
+  - serverless-python-requirements
+
+custom:
+  pythonRequirements:
+    dockerizePip: non-linux
+```
+
+The plugins section specifies that we're working with this plugin. Then, the `custom` section provides configuration for that plugin. Specifically, I'm using Docker locally to build and package up all my Python dependencies. This can help you avoid issues where building Python dependencies on one operating system might not allow them to work inside of AWS Lambda's runtime. You do need to install Docker on your machine in order to use this functionality. 
+
+You can also set `dockerizePip: false` to avoid having to do this.
+
+With these configuration options set, just also note that I've included a `package` section of config at the bottom of `serverless.yml` that will exclude certain directories from being bundled in with your Lambda functions:
+
+```yaml
+package:
+  exclude:
+    - node_modules/**
+    - frontend/**
+    - package-lock.json
+```
+
+In this case, `node_modules` doesn't need to be brought along with your code because you don't need it for Python functions.
+
+### Actually Deploying Your Backend!
+
+Now you're ready! If you've integrated with the Serverless Dashboard using the `app` and `org` values in your `serverless.yml` file, just make sure you're signed into the dashboard in your default browser and have already run `serverless login` to setup the connection between your CLI and the dashboard. Also, make sure you have an existing `app` in your account with the name you're using (`serverlessjams` is what I included for you).
+
+After that, or if you opted not to integrate the dashboard, you can start your deployment with `serverless deploy`! Make sure you're in the same directory as the `serverless.yml` file when doing this.
+
+You should see a series of steps for the deployment roll by, if you're using the Serverless Dashboard you might see something like this included:
+
+```
+Serverless: Safeguards Results:
+
+   Summary --------------------------------------------------
+
+   passed - framework-version
+   passed - allowed-runtimes
+   passed - no-unsafe-wildcard-iam-permissions
+   warned - require-cfn-role
+   passed - allowed-stages
+   passed - allowed-regions
+   passed - no-secret-env-vars
+
+   Details --------------------------------------------------
+
+   1) Warned - no cfnRole set
+      details: http://slss.io/sg-require-cfn-role
+      Require the cfnRole option, which specifies a particular role for CloudFormation to assume while deploying.
 
 
-### CHANGE DATE TO 15th
-### CHANGE DATE TO 15th
-### CHANGE DATE TO 15th
-### CHANGE DATE TO 15th
+Serverless: Safeguards Summary: 6 passed, 1 warnings, 0 errors
+```
+
+Essentially, these Safeguards are deployment-time checks that evaluate things like security best-practices and organizational standards. They can be set to Warn (as shown above) where if they fail they'll notify you of something you may want to address. Or to Error, in which case if they fail they'll block the deployment for you. You can configure them for free with the [Serverless Dashboard](https://serverless.com/framework/docs/dashboard/safeguards/). 
+
+Then, after the Safeguards complete and the CloudFormation stack finishes creating, you can get the information about your service from the Service Information results:
+
+```
+Serverless: Stack update finished...
+Service Information
+service: serverlessjams
+stage: dev
+region: us-east-1
+stack: serverlessjams-dev
+resources: 35
+api keys:
+  None
+endpoints:
+  POST - https://examplei4l.execute-api.us-east-1.amazonaws.com/dev/song/vote
+  GET - https://examplei4l.execute-api.us-east-1.amazonaws.com/dev/votes
+functions:
+  auth: serverlessjams-dev-auth
+  recordSongVote: serverlessjams-dev-recordSongVote
+  getSongVoteCounts: serverlessjams-dev-getSongVoteCounts
+layers:
+  None
+Serverless: Publishing service to the Serverless Dashboard...
+Serverless: Successfully published your service to the Serverless Dashboard: https://dashboard.serverless.com/tenants/fernandomcsea/applications/serverlessjams/services/serverlessjams/stage/dev/region/us-east-1
+```
+
+Specifically, you'll want to copy the endpoints you see in order to include them inside our frontend code!
+
+## Updating Our Frontend and Brining it Together
+
+Inside of the `frontend` folder go to the `js` folder open `app.js`. Inside of there, replace the following variables that appear in the first few lines:
+
+```js
+var vote_endpoint = "https://EXAMPLE_REPLACE_ME.execute-api.us-east-1.amazonaws.com/dev/song/vote"
+var get_votes_endpoint = "https://EXAMPLE_REPLACE_ME.execute-api.us-east-1.amazonaws.com/dev/votes"
+```
+
+You'll use the POST endpoint you got from the service information for the `vote_endpoint` and the GET endpoint for the get_votes_endpoint. The easiest way to do this is just to replace `EXAMPLE_REPLACE_ME` with whatever the API identifer is for your API. In the example I used above this was `examplei4l` but yours will be some gibberish letters and numbers without the word example in it.
+
+When you're done, save and close the `app.js` file. Now, your frontend should be completely configured to work with your backend! You should be able to spin up your frontend now to test the full suite of functionality. I'll do this from the `frontend` directory with `python3 -m http.server` but you can also use any local server you prefer, just remember to use the same port that you defined in the earlier steps around Auth0 configuration.
+
+You should see your site from earlier almost identically. Except this time, you should be able to login, and actually use the vote button. After you vote, you should be able to see those votes reflected in the UI and if you refresh the page those vote counters should keep the vote count for you!
+
+## What Next?
+
+Congrats! You should have just deployed a Serverless Framework service that leverages Lambda Authorizers and Auth0! Not a small undertaking at all. 
+
+If you want to hear when I publish more guides like this, please [sign up for my mailing list](/mailing-list)! Have ideas for the next guide I should write? Get in touch with me [on Twitter]({{% my_twitter %}}) or leave a comment below!
+
+If you haven't already, you can also check out the [Serverless Dashboard](https://dashboard.serverless.com/) where you can get an account to monitor up to 1 million Lambda invocations for free. I used this myself when making this demo to figure out why the heck my deployments were failing:
+
+![Screenshot of the Serverless Dashboard Invocations Explorer](/images/serverlessjams/explorer.png)
+
+See that red dot next to the `ModuleNotFound` error? Doh! 
+
+That was me forgetting I needed to include `requests` in the `requirements.txt` file after I updated this tutorial to use it:
+
+![Screenshot of the Serverless Dashboard Transaction View](/images/serverlessjams/transaction-view.png)
+
+Full disclosure - as of writing this post I work for Serverless Inc. (the makers of the Serverless Framework and the Serverless Dashboard shown in the UI). But I also love using it to debug, deploy and organize my projects so I feel pretty good about recommending it here.
+
+If you want more information about this process, or feel like a video series could help you, check out my free [Serverless Learn course](https://serverless.com/learn/courses/serverless-for-frontend-developers/). You'll go through this entire process from step 1 building the backend part by part to a few steps beyond what we did here by adding scopes and scope checking to the backend.
