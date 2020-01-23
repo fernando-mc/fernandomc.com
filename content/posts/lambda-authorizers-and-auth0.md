@@ -199,7 +199,7 @@ http://localhost:8000/?code=42asdygjkah24ftyas&state=jahsdgjhgasd654123asdtfuyAS
 
 When the frontend sees a URL that contains both `code=` and `state=` is runs the `auth0.handleRedirectCallback()` function in order to process those values and update the `auth0` client with that information before updating the UI with `updateUI()`.
 
-```js {linenos=table,hl_lines=[5,7],linenostart=37}
+```js
 window.onload = async () => {
   await configureClient();
   updateUI();
@@ -216,7 +216,7 @@ window.onload = async () => {
 
 Whenever `updateUI()` is called this checks if the user is logged in with the `auth0.isAuthenticated()` method that is provided by the `auth0-spa-js` library. This allows it to go back over all the HTML, and determine if the hidden elements should be revealed and which of the login/logout buttons should be disabled or enabled.
 
-```js {linenos=table,hl_lines=[2,"4-5"],linenostart=15}
+```js
 const updateUI = async () => {
   const isAuthenticated = await auth0.isAuthenticated();
 
