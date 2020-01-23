@@ -135,7 +135,7 @@ When we're done with this we can then copy the Identifier we set into `auth_conf
 
 With all these configuration values we can now test our frontend! Let's spin it up locally. Change directories into the `frontend` directory and then spin up a webserver. Make sure that the address used locally is the same as what you configured in the earlier steps in Auth0. For example, mine should be port 8000. You can use `python3 -m http.server` as a simple way to get this working.
 
-If you're frontend is still working from earlier - cool! Just make sure to give it a hard refresh to clear the cache so we load in the new configuration values from `auth_config.json`. 
+If your frontend is still working from earlier - cool! Just make sure to give it a hard refresh to clear the cache so we load in the new configuration values from `auth_config.json`. 
 
 You'll be able to tell if this works when you try to log in by pressing the "Login" button in your local application. If you see your domain from Auth0 in the URL bar it worked! For example, mine starts with `https://dev-5xmirf9t.auth0.com/login?state=`. If you see something like `https://example-replace-me.auth0.com/` you still need to hard refresh the page or make sure you saved `auth_config.json`.
 
@@ -701,7 +701,7 @@ Serverless: Successfully published your service to the Serverless Dashboard: htt
 
 Specifically, you'll want to copy the endpoints you see in order to include them inside our frontend code!
 
-## Updating Our Frontend and Brining it Together
+## Updating Our Frontend and Bringing it Together
 
 Inside of the `frontend` folder go to the `js` folder open `app.js`. Inside of there, replace the following variables that appear in the first few lines:
 
