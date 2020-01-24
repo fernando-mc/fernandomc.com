@@ -11,6 +11,8 @@ draft: false
 
 - Democracy is in the Streets
 - Words Are My Matter
+- A Crown of Swords
+- Edgedancer
 
 **Read in 2019**
 
@@ -30,6 +32,7 @@ draft: false
 14. Nine Princes in Amber
 15. This Wound Is a World
 16. Lord of Chaos
+17. Rocannon's World
 
 **Read in 2018**
 
