@@ -12,7 +12,7 @@ draft: false
 - Democracy is in the Streets
 - Words Are My Matter
 - A Crown of Swords
-- Edgedancer
+- City of Illusions
 
 **Read in 2019**
 
@@ -33,6 +33,7 @@ draft: false
 15. This Wound Is a World
 16. Lord of Chaos
 17. Rocannon's World
+18. Edgedancer
 
 **Read in 2018**
 
