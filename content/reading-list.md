@@ -12,7 +12,6 @@ draft: false
 - Democracy is in the Streets
 - Words Are My Matter
 - A Crown of Swords
-- Planet of Exile
 
 **Read in 2019**
 
@@ -35,6 +34,7 @@ draft: false
 17. Rocannon's World
 18. Edgedancer
 19. City of Illusions
+20. Planet of Exile
 
 **Read in 2018**
 
