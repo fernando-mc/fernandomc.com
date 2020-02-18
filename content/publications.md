@@ -22,6 +22,11 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 ## External Articles
 
+**2020**
+
+- [A Guide to Preview Deployments with Serverless CI/CD](https://serverless.com/blog/preview-deployments/)
+- [Deploying Your First Knative Service with the Serverless Framework](https://serverless.com/blog/deploy-your-first-knative-service-with-the-serverless-framework/)
+
 **2019**
 
 - [The State of AWS Lambda Supported Languages & Runtimes (Updated November 2019)
