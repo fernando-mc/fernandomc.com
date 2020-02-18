@@ -18,8 +18,8 @@ date = "2020-02-19T11:55:27-07:00"
 link = "https://serverless.com/blog/preview-deployments/"
 type = "blog"
 [image]
-    feature = "/images/serverless-link-posts/preview-deploy-header.png"
-    postheader = "/images/serverless-link-posts/header.png"
+    feature = "/images/serverless-link-posts/preview-deploy-image.png"
+    postheader = "/images/serverless-link-posts/preview-deploy-header.png"
 +++
 
 I recently wrote a guide on using Serverless CI/CD Preview Deployments. You can use this feature to create your own preview deployments of feature branches when integrating with GitHub.<!--more-->
