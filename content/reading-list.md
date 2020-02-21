@@ -12,6 +12,8 @@ draft: false
 - Democracy is in the Streets
 - Words Are My Matter
 - A Crown of Swords
+- The Rithmatist
+- Between the World and Me
 
 **Read in 2019**
 
@@ -35,6 +37,7 @@ draft: false
 18. Edgedancer
 19. City of Illusions
 20. Planet of Exile
+21. Arcanum Unbounded: The Cosmere Collection
 
 **Read in 2018**
 
