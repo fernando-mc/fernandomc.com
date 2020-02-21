@@ -139,7 +139,7 @@ You'll notice that I've created both the DynamoDB client we'll use in `dynamodb_
 
 ### #1 - Get a Single Item with the DynamoDB Client
 
-Below, we're getting a Single Item from the DynamoDB table using the `get_item()` operation. Let's do this with out DynamoDB client first:
+Below, we're getting a Single Item from the DynamoDB table using the `get_item()` operation. Let's do this with the DynamoDB client first:
 
 ```python
 # Use the DynamoDB client get item method to get a single item
