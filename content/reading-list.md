@@ -5,15 +5,22 @@ type: page
 draft: false
 ---
 
-**My Reading List:**
-
 **Currently Reading:**
 
 - Democracy is in the Streets
 - Words Are My Matter
 - A Crown of Swords
-- The Rithmatist
-- Between the World and Me
+- Circe
+- We Were Eight Years in Powers
+
+**Read in 2020**
+
+1. Edgedancer
+2. City of Illusions
+3. Planet of Exile
+4. Arcanum Unbounded: The Cosmere Collection
+5. The Rithmatist
+6. Between the World and Me
 
 **Read in 2019**
 
@@ -34,10 +41,7 @@ draft: false
 15. This Wound Is a World
 16. Lord of Chaos
 17. Rocannon's World
-18. Edgedancer
-19. City of Illusions
-20. Planet of Exile
-21. Arcanum Unbounded: The Cosmere Collection
+
 
 **Read in 2018**
 
