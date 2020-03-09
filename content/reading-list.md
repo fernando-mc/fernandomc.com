@@ -7,11 +7,10 @@ draft: false
 
 **Currently Reading:**
 
-- Democracy is in the Streets
 - Words Are My Matter
 - A Crown of Swords
-- Circe
 - We Were Eight Years in Powers
+- Sabriel
 
 **Read in 2020**
 
@@ -21,6 +20,7 @@ draft: false
 4. Arcanum Unbounded: The Cosmere Collection
 5. The Rithmatist
 6. Between the World and Me
+7. Circe
 
 **Read in 2019**
 
