@@ -24,6 +24,9 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 **2020**
 
+- [The Ultimate Guide to HTTP APIs](https://serverless.com/aws-http-apis/)
+- [AWS Lambda Destinations Support](https://serverless.com/blog/lambda-destinations/)
+- [Serverless Auth with HTTP APIs](https://serverless.com/blog/serverless-auth-with-aws-http-apis/)
 - [A Guide to Preview Deployments with Serverless CI/CD](https://serverless.com/blog/preview-deployments/)
 - [Deploying Your First Knative Service with the Serverless Framework](https://serverless.com/blog/deploy-your-first-knative-service-with-the-serverless-framework/)
 
