@@ -10,7 +10,7 @@ draft: false
 - Words Are My Matter
 - A Crown of Swords
 - We Were Eight Years in Powers
-- Sabriel
+- Recursion
 
 **Read in 2020**
 
@@ -21,6 +21,8 @@ draft: false
 5. The Rithmatist
 6. Between the World and Me
 7. Circe
+8. Sabriel
+9. The Starless Sea
 
 **Read in 2019**
 
