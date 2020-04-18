@@ -9,8 +9,8 @@ draft: false
 
 - Words Are My Matter
 - A Crown of Swords
-- We Were Eight Years in Powers
-- Recursion
+- We Were Eight Years in Power
+- The Poppy War
 
 **Read in 2020**
 
@@ -23,6 +23,7 @@ draft: false
 7. Circe
 8. Sabriel
 9. The Starless Sea
+10. Recursion
 
 **Read in 2019**
 
