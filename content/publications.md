@@ -16,7 +16,8 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 - [AWS IoT: The Big Picture](https://app.pluralsight.com/library/courses/aws-iot-big-picture/table-of-contents)
 - [Translating Languages on AWS with Amazon Translate](https://www.pluralsight.com/courses/aws-translate-text)
 - [Architecting for Cost on AWS](https://www.pluralsight.com/courses/aws-architecting-cost)
-
+- [Assigning Resource-based Policies on AWS](https://www.pluralsight.com/courses/aws-assigning-resource-based-policies)
+- [Connecting Amazon DynamoDB to Your Application](https://www.pluralsight.com/courses/connecting-amazon-dynamodb)
 
 Don't already have a Pluralsight account? [Have a free trial on me](https://pluralsight.pxf.io/RW5Bb).
 
@@ -24,7 +25,9 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 
 **2020**
 
-- [The Ultimate Guide to HTTP APIs](https://serverless.com/aws-http-apis/)
+- [HTTP API Monitoring with the Serverless Framework](https://serverless.com/blog/announcing-http-api-monitoring/)
+- [Troubleshooting Monolambdas with the Serverless Framework](https://serverless.com/blog/announcing-troubleshooting-monolambdas/)
+- [The Official Guide to HTTP APIs](https://serverless.com/aws-http-apis/)
 - [AWS Lambda Destinations Support](https://serverless.com/blog/lambda-destinations/)
 - [Serverless Auth with HTTP APIs](https://serverless.com/blog/serverless-auth-with-aws-http-apis/)
 - [A Guide to Preview Deployments with Serverless CI/CD](https://serverless.com/blog/preview-deployments/)

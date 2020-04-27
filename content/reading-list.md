@@ -10,7 +10,7 @@ draft: false
 - Words Are My Matter
 - A Crown of Swords
 - We Were Eight Years in Power
-- The Poppy War
+- Blood Brothers
 
 **Read in 2020**
 
@@ -24,6 +24,7 @@ draft: false
 8. Sabriel
 9. The Starless Sea
 10. Recursion
+11. The Poppy War
 
 **Read in 2019**
 
