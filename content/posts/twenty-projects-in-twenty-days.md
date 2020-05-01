@@ -36,6 +36,7 @@ After signing up, you'll get blog posts delivered to your inbox with the followi
 
 You can check back on this blog post throughout the month - I'll update it with links to everything. Now let's take a look at the calendar of different projects you can expect to see this month!
 <!--more-->
+
 - May 4: Tech Pay Rates
     - Tech Pay Rates is a project I put together a while back to allows users to submit wage information and search through other submissions. The entire codebase is around 500 lines and leverages Google Recaptcha to avoid span and Algolia for search. For this project, you'll get a look at the codebase, a blog post and the live site!
     <!-- - [GitHub repo](https://github.com/fernando-mc/techpayrates) -->
