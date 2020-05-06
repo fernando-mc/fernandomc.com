@@ -49,8 +49,8 @@ You can check back on this blog post throughout the month - I'll update it with 
     - Bonus! If you sign up for my [mailing list](/mailing-list/) you can email me for access to my Pluralsight course on the Serverless Framework!
 - May 6: Using the Serverless Framework with Express.js and DynamoDB
     - For those who prefer JavaScript, this will be the Express.js equivalent of the project on May 5. It will show how to create a simple Express.js API deployed to AWS using the Serverless Framework. In the background, we'll keep the same three entities: customers, surveys, and survey responses. We'll also store all the data in a DynamoDB table. For this project, you'll have access to the codebase and a blog post explanation of how to get started with it.
-    <!-- - [GitHub repo](https://github.com/fernando-mc/serverless-express) -->
-    <!-- - [Blog post](????????????) -->
+    - [GitHub repo](https://github.com/fernando-mc/express-based-api.git)
+    - [Blog post](https://fernandomc.com/posts/developing-expressjs-serverless-framework-apis/)
 - May 7: Nandolytics - A homemade analytics service.
     - Nandolytics is a homemade web visits analytics service that uses Amazon DynamoDB atomic counters to increment page visits. This project was made on April 1 of last year... So forgive me... You'll have access to the GitHub repository for the code, along with a blog post which also happens to showcase a live demo of the tool in action.
     <!-- - [GitHub repo](https://github.com/fernando-mc/nandolytics) -->

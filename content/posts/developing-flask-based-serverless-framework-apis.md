@@ -154,7 +154,7 @@ def get(customer_id):
     return json.dumps(item)
 ```
 
-If you look at the other entities files you'll see things similar to this that enable the other operations and more complex operations like getting all the responses for a survey or all the surveys for a particular customer. If you'd like to learn some more of the details of using DynamoDB I'd suggest taking a look at the [DynamoDB Guide](https://www.dynamodbguide.com/) which is a great learning resource for DynamoDB by [Alex DeBrie](https://twitter.com/alexbdebrie/).
+If you look at the other entities files you'll see things similar to this that enable the other operations and more complex operations like getting all the responses for a survey or all the surveys for a particular customer. If you'd like to learn some more of the details of using DynamoDB I'd suggest taking a look at the [DynamoDB Guide](https://www.dynamodbguide.com/) which is a great learning resource for DynamoDB by [Alex DeBrie](https://twitter.com/alexbdebrie/). You can also take my Pluralsight course on [Connect DynamoDB to Your Application](https://app.pluralsight.com/library/courses/connecting-amazon-dynamodb/table-of-contents) where I cover a lot of the details. Just sign up for my [mailing list](https://fernandomc.com/mailing-list) and reply to the welcome email and I'll give you a 30-day free trial!
 
 So now that we know how our Flask application is configured to use our entities to help power the routes it sets up in `app.py` let's look at how we're going to deploy all the infrastructure to run this! 
 
@@ -333,6 +333,6 @@ Here's an example in Postman, but you can also just open your URL up in your bro
 
 ![Example GET to API using Postman](/images/20-projects-20-days/flask-get.png)
 
-And that's it! You can test all the other endpoints out and play around with the applications!
+And that's it! You can test all the other endpoints out and play around with the application!
 
 If you'd like to learn more about Serverless development, just sign up for my [mailing list](/mailing-list/) and reply to the first email to ask for access to all my Pluralsight courses for free for 30 days!
