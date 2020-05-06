@@ -44,9 +44,9 @@ You can check back on this blog post throughout the month - I'll update it with 
     - The Live Tech Pay Rates website can be found at [techpayrates.com](https://techpayrates.com/)
 - May 5: Using the Serverless Framework with Flask and DynamoDB
     - This will be a simple Flask API project deployed to AWS using the Serverless Framework. In the background, we'll manipulate three different entities: customers, surveys, and survey responses and store them all in a DynamoDB table. For this project, you'll have access to the codebase and a blog post explanation of how to get started with it.
-    <!-- - [GitHub repo](https://github.com/fernando-mc/serverless-flask) -->
-    <!-- - [Blog post](????????????) -->
-    <!-- - Bonus! If you sign up for my [mailing list](/mailing-list/) you can email me for access to my Pluralsight course on the Serverless Framework! -->
+    - [GitHub repo](https://github.com/fernando-mc/flask-based-api)
+    - [Blog post](https://fernandomc.com/posts/developing-flask-based-serverless-framework-apis/)
+    - Bonus! If you sign up for my [mailing list](/mailing-list/) you can email me for access to my Pluralsight course on the Serverless Framework!
 - May 6: Using the Serverless Framework with Express.js and DynamoDB
     - For those who prefer JavaScript, this will be the Express.js equivalent of the project on May 5. It will show how to create a simple Express.js API deployed to AWS using the Serverless Framework. In the background, we'll keep the same three entities: customers, surveys, and survey responses. We'll also store all the data in a DynamoDB table. For this project, you'll have access to the codebase and a blog post explanation of how to get started with it.
     <!-- - [GitHub repo](https://github.com/fernando-mc/serverless-express) -->
