@@ -53,8 +53,8 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](https://fernandomc.com/posts/developing-expressjs-serverless-framework-apis/)
 - May 7: Nandolytics - A homemade analytics service.
     - Nandolytics is a homemade web visits analytics service that uses Amazon DynamoDB atomic counters to increment page visits. This project was made on April 1 of last year... So forgive me... You'll have access to the GitHub repository for the code, along with a blog post which also happens to showcase a live demo of the tool in action.
-    <!-- - [GitHub repo](https://github.com/fernando-mc/nandolytics) -->
-    <!-- - [Blog post](https://www.fernandomc.com/posts/nandolytics-serverless-website-analytics/) -->
+    - [GitHub repo](https://github.com/fernando-mc/nandolytics)
+    - [Blog post](https://www.fernandomc.com/posts/nandolytics-serverless-website-analytics/)
 - May 8: Chameleon - The Color Scheme Generator API
     - This project involves creating an API that returns various color schemes. The idea behind it was to allow websites to use the API to then change their color scheme using the API. You'll have access to the GitHub code used for this project, the explanatory blog post, and the live demo of this project.
     <!-- - [GitHub repo](https://github.com/fernando-mc/color-scheme-api/) -->
