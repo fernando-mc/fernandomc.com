@@ -62,9 +62,9 @@ You can check back on this blog post throughout the month - I'll update it with 
     - The live demo of this API can be seen [here](http://chameleon-api.s3-website-us-east-1.amazonaws.com/)
 - May 11: I'm Hungry - A Silly Vue.js Game
     - This project is one of the most ridiculous of the bunch. It's really just a first attempt to play around with Vue.js in a fun way. You'll see how to build the simplest of browser-based games using Vue.js. You'll get access to the GitHub code, a blog post on the project, and a live example.
-    <!-- - [GitHub repo](https://github.com/fernando-mc/vue-game) -->
-    <!-- - [Blog post](????????????????????) -->
-    <!-- - [Live Example](???????????- Use s3 static site hosting to spin this up) -->
+    - [GitHub repo](https://github.com/fernando-mc/vue-game)
+    - [Blog post](https://fernandomc.com/posts/vue-js-im-hungry)
+    - [Live Example](https://vue-game.now.sh/)
 - May 12: Using AWS Lambda Event Destinations with the Serverless Framework
     - This will help you get started with AWS Lambda event destinations using the Serverless Framework. I've put together a GitHub repo with several examples, a blog post on when to use event destinations, and another article I've written previously on how to get started with them.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/serverless-event-destinations) -->

@@ -10,7 +10,7 @@ draft: false
 - Words Are My Matter
 - A Crown of Swords
 - We Were Eight Years in Power
-- Blood Brothers
+- The Beginning Place
 
 **Read in 2020**
 
@@ -25,6 +25,7 @@ draft: false
 9. The Starless Sea
 10. Recursion
 11. The Poppy War
+12. Blood Brothers: The Fatal Friendship Between Muhammad Ali and Malcolm X
 
 **Read in 2019**
 
