@@ -5,7 +5,6 @@ Tags = [
   "Serverless",
   "Python",
   "AWS",
-  "AWS Workspaces",
   "Auth0",
   "API Gateway",
   "AWS Lambda",
