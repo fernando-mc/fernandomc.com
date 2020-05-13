@@ -66,10 +66,10 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](https://fernandomc.com/posts/vue-js-im-hungry)
     - [Live Example](https://vue-game.now.sh/)
 - May 12: Using AWS Lambda Event Destinations with the Serverless Framework
-    - This will help you get started with AWS Lambda event destinations using the Serverless Framework. I've put together a GitHub repo with several examples, a blog post on when to use event destinations, and another article I've written previously on how to get started with them.
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/serverless-event-destinations) -->
-    <!-- - [Blog post](https://fernandomc.com/posts/lambda-event-destinations) -->
-    <!-- - [Getting Started with Event Destinations](https://serverless.com/blog/lambda-destinations/) -->
+    - This will help you get started with AWS Lambda event destinations using the Serverless Framework. I've put together a GitHub repo with several examples, a blog post on when to use event destinations to setup alerts on a Lambda Function, and another article I've written previously on how to get started with them.
+    - [GitHub Repo](https://github.com/fernando-mc/lambda-event-destination-alerts)
+    - [Blog post](https://fernandomc.com/posts/lambda-event-destinations)
+    - [Getting Started with Event Destinations](https://serverless.com/blog/lambda-destinations/)
 - May 13: Translating things with Amazon Translate
     - This will show you some of the basics of how you can use Amazon Translate, Python and Boto3 to translate your text into different languages. You'll get access to the code in a GitHub repo and a blog post explaining how you can use the AWS SDK for Python - Boto3 to translate your text! You'll also get a second blog post explaining how you can use Custom Terminologies to do more customized translations.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/pluralsight-amazon-translate) -->
