@@ -72,11 +72,10 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Getting Started with Event Destinations](https://serverless.com/blog/lambda-destinations/)
 - May 13: Translating things with Amazon Translate
     - This will show you some of the basics of how you can use Amazon Translate, Python and Boto3 to translate your text into different languages. You'll get access to the code in a GitHub repo and a blog post explaining how you can use the AWS SDK for Python - Boto3 to translate your text! You'll also get a second blog post explaining how you can use Custom Terminologies to do more customized translations.
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/pluralsight-amazon-translate) -->
-    <!-- - [Blog Post - The Basics of Amazon Translate](???????????????????) -->
-    <!-- - [Blog Post on Custom Terminologies](https://www.fernandomc.com/posts/amazon-translate-custom-terminology/) -->
-    <!-- - Special bonus! Sign up for my [mailing list](/mailing-list) to get free access to my Pluralsight course on Amazon Translate (reply to the welcome email to request a code). -->
-    <!-- -  -->
+    - [GitHub Repo](https://github.com/fernando-mc/amazon-translate-examples)
+    - [Blog Post - The Basics of Amazon Translate](https://www.fernandomc.com/posts/amazon-translate-python-nodejs/)
+    - [Blog Post on Custom Terminologies](https://www.fernandomc.com/posts/amazon-translate-custom-terminology/)
+    - Special bonus! Sign up for my [mailing list](/mailing-list) to get free access to my Pluralsight course on Amazon Translate (reply to the welcome email to request a code).
 - May 14: GleanTeam USA
     - This project will attempt to use a mapping API to map available gleaning locations across the United States. Gleaning is when farmers have extra food they can't harvest or sell and are willing to let anyone come and take it home. Due to fluctuations in demand with COVID-19 and the increased risk of hunger for people across the United States, I thought creating a tool to map these locations could be useful. This project will give you the chance to see the entire process in action.
     - You'll get to watch a live Twitch stream of the development process at 11am on May 9, 2020. 
