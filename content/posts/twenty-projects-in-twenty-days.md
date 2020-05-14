@@ -40,49 +40,46 @@ You can check back on this blog post throughout the month - I'll update it with 
 - May 4: [Tech Pay Rates](/posts/tech-pay-rates-revisited/)
     - Tech Pay Rates is a project I put together a while back to allows users to submit wage information and search through other submissions. The entire codebase is around 500 lines and leverages Google Recaptcha to avoid span and Algolia for search. For this project, you'll get a look at the codebase, a blog post and the live site!
     - [GitHub repo](https://github.com/fernando-mc/techpayrates)
-    - [Blog post](https://fernandomc.com/posts/tech-pay-rates-revisited/)
+    - [Blog post](/posts/tech-pay-rates-revisited/)
     - The Live Tech Pay Rates website can be found at [techpayrates.com](https://techpayrates.com/)
 - May 5: Using the Serverless Framework with Flask and DynamoDB
     - This will be a simple Flask API project deployed to AWS using the Serverless Framework. In the background, we'll manipulate three different entities: customers, surveys, and survey responses and store them all in a DynamoDB table. For this project, you'll have access to the codebase and a blog post explanation of how to get started with it.
     - [GitHub repo](https://github.com/fernando-mc/flask-based-api)
-    - [Blog post](https://fernandomc.com/posts/developing-flask-based-serverless-framework-apis/)
+    - [Blog post](/posts/developing-flask-based-serverless-framework-apis/)
     - Bonus! If you sign up for my [mailing list](/mailing-list/) you can email me for access to my Pluralsight course on the Serverless Framework!
 - May 6: Using the Serverless Framework with Express.js and DynamoDB
     - For those who prefer JavaScript, this will be the Express.js equivalent of the project on May 5. It will show how to create a simple Express.js API deployed to AWS using the Serverless Framework. In the background, we'll keep the same three entities: customers, surveys, and survey responses. We'll also store all the data in a DynamoDB table. For this project, you'll have access to the codebase and a blog post explanation of how to get started with it.
     - [GitHub repo](https://github.com/fernando-mc/express-based-api.git)
-    - [Blog post](https://fernandomc.com/posts/developing-expressjs-serverless-framework-apis/)
+    - [Blog post](/posts/developing-expressjs-serverless-framework-apis/)
 - May 7: Nandolytics - A homemade analytics service.
     - Nandolytics is a homemade web visits analytics service that uses Amazon DynamoDB atomic counters to increment page visits. This project was made on April 1 of last year... So forgive me... You'll have access to the GitHub repository for the code, along with a blog post which also happens to showcase a live demo of the tool in action.
     - [GitHub repo](https://github.com/fernando-mc/nandolytics)
-    - [Blog post](https://www.fernandomc.com/posts/nandolytics-serverless-website-analytics/)
+    - [Blog post](/posts/nandolytics-serverless-website-analytics/)
 - May 8: Chameleon - The Color Scheme Generator API
     - This project involves creating an API that returns various color schemes. The idea behind it was to allow websites to use the API to then change their color scheme using the API. You'll have access to the GitHub code used for this project, the explanatory blog post, and the live demo of this project.
     - [GitHub repo](https://github.com/fernando-mc/chameleon-v2/)
-    - [Blog post](https://www.fernandomc.com/posts/chameleon-api/)
+    - [Blog post](/posts/chameleon-api/)
     - The live demo of this API can be seen [here](http://chameleon-api.s3-website-us-east-1.amazonaws.com/)
 - May 11: I'm Hungry - A Silly Vue.js Game
     - This project is one of the most ridiculous of the bunch. It's really just a first attempt to play around with Vue.js in a fun way. You'll see how to build the simplest of browser-based games using Vue.js. You'll get access to the GitHub code, a blog post on the project, and a live example.
     - [GitHub repo](https://github.com/fernando-mc/vue-game)
-    - [Blog post](https://fernandomc.com/posts/vue-js-im-hungry)
+    - [Blog post](/posts/vue-js-im-hungry)
     - [Live Example](https://vue-game.now.sh/)
 - May 12: Using AWS Lambda Event Destinations with the Serverless Framework
     - This will help you get started with AWS Lambda event destinations using the Serverless Framework. I've put together a GitHub repo with several examples, a blog post on when to use event destinations to setup alerts on a Lambda Function, and another article I've written previously on how to get started with them.
     - [GitHub Repo](https://github.com/fernando-mc/lambda-event-destination-alerts)
-    - [Blog post](https://fernandomc.com/posts/lambda-event-destinations)
+    - [Blog post](/posts/lambda-event-destinations)
     - [Getting Started with Event Destinations](https://serverless.com/blog/lambda-destinations/)
 - May 13: Translating things with Amazon Translate
     - This will show you some of the basics of how you can use Amazon Translate, Python and Boto3 to translate your text into different languages. You'll get access to the code in a GitHub repo and a blog post explaining how you can use the AWS SDK for Python - Boto3 to translate your text! You'll also get a second blog post explaining how you can use Custom Terminologies to do more customized translations.
     - [GitHub Repo](https://github.com/fernando-mc/amazon-translate-examples)
-    - [Blog Post - The Basics of Amazon Translate](https://www.fernandomc.com/posts/amazon-translate-python-nodejs/)
-    - [Blog Post on Custom Terminologies](https://www.fernandomc.com/posts/amazon-translate-custom-terminology/)
+    - [Blog Post - The Basics of Amazon Translate](/posts/amazon-translate-python-nodejs/)
+    - [Blog Post on Custom Terminologies](/posts/amazon-translate-custom-terminology/)
     - Special bonus! Sign up for my [mailing list](/mailing-list) to get free access to my Pluralsight course on Amazon Translate (reply to the welcome email to request a code).
 - May 14: GleanTeam USA
     - This project will attempt to use a mapping API to map available gleaning locations across the United States. Gleaning is when farmers have extra food they can't harvest or sell and are willing to let anyone come and take it home. Due to fluctuations in demand with COVID-19 and the increased risk of hunger for people across the United States, I thought creating a tool to map these locations could be useful. This project will give you the chance to see the entire process in action.
-    - You'll get to watch a live Twitch stream of the development process at 11am on May 9, 2020. 
-    - Access to any code created from the project
-    - Access to the blog post writeup after the project is completed
-    - Note: there's no guarantee this one will be finished in May!
-    <!-- - Likely using either Goolge Maps APIs or Mapbox https://www.mapbox.com/ -->
+    - The Twitch stream of the development process was on May 9, 2020.
+    - The [blog post](/posts/project-planning-glean-team-usa/)
 - May 15: Serverless Scoreboard
     - This project will use the GitHub API and AWS Lambda functions to regularly update some basic data about a series of popular projects in the serverless space. We will get basic data on each project's GitHub repos including watchers, stars, and forks. Then, we will automatically collect and update the data as a JSON file in AWS and chart it using an open source charting library to showcase the relative popularity of some tools. You'll get access to the code, a blog post and a live demo of the project.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/serverless-scoreboard/) -->
