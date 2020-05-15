@@ -82,9 +82,9 @@ You can check back on this blog post throughout the month - I'll update it with 
     - The [blog post](/posts/project-planning-glean-team-usa/)
 - May 15: Serverless Scoreboard
     - This project will use the GitHub API and AWS Lambda functions to regularly update some basic data about a series of popular projects in the serverless space. We will get basic data on each project's GitHub repos including watchers, stars, and forks. Then, we will automatically collect and update the data as a JSON file in AWS and chart it using an open source charting library to showcase the relative popularity of some tools. You'll get access to the code, a blog post and a live demo of the project.
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/serverless-scoreboard/) -->
-    <!-- - [Blog post](??????????) -->
-    <!-- - [Live demo](http://serverless-scorecard.s3-website-us-east-1.amazonaws.com/) -->
+    - [GitHub Repo](https://github.com/fernando-mc/serverless-scoreboard/)
+    - [Blog post](/posts/serverless-scorecard/)
+    - [Live demo](https://serverless-scoreboard.now.sh/)
 - May 18: Voices of COVID-19 Twilio
     - For this project, I'd like to try and collect the stories of people who have been impacted by the COVID-19 pandemic across the country. I'll attempt to create a project that allows people to upload audio of their stories into a web application and have those stories then made available to anyone to listen to. 
     - You'll get to watch a live Twitch stream of the development process at 11am on May 16, 2020.
