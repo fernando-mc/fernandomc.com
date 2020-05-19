@@ -85,14 +85,13 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [GitHub Repo](https://github.com/fernando-mc/serverless-scoreboard/)
     - [Blog post](/posts/serverless-scorecard/)
     - [Live demo](https://serverless-scoreboard.now.sh/)
-- May 18: Voices of COVID-19 Twilio
+- May 18: Voices of COVID-19
     - For this project, I'd like to try and collect the stories of people who have been impacted by the COVID-19 pandemic across the country. I'll attempt to create a project that allows people to upload audio of their stories into a web application and have those stories then made available to anyone to listen to. 
     - You'll get to watch a live Twitch stream of the development process at 11am on May 16, 2020.
     - Access to any code created from the project
-    - Access to the blog post writeup after the project is completed
-    - Access to any live demo
-    - Note: there's no guarantee this one will be finished in May!
-    <!-- - [Live project](https://voicesofcovid.com/) -->
+    - [Blog Post](/posts/voicesofcovid/)
+    - [Live project](https://voicesofcovid.com/)
+    - [GitHub Code](https://github.com/fernando-mc/voicesofcovid.com)
 - May 19: AWS HTTP API with a Cognito Authorizer and Node.js
     - AWS recently released a new AWS HTTP API service which is leaps and bounds cheaper than it's older API Gateway REST API service. Because of this I've put together a few tutorials in different languages to get people started with common use cases. This first one will let you add authentication to HTTP APIs using Amazon Cognito, the Serverless Framework and Node.js. 
     - You'll get access to the GitHub code and a blog post tutorial on this 
@@ -118,9 +117,9 @@ You can check back on this blog post throughout the month - I'll update it with 
     - For a long time a wrote lots of validation code in my Lambda functions themselves to make sure that the incoming POST data was formatted properly. Then I realized that you can create JSON Schema Draft 04 models for your data and validate the requests before they even hit the Lambda Function! That's what I'll be showing you in this tutorial using the Serverless Framework. You'll get all the code and a blog post tutorial.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/schema-validation-demo) -->
     <!-- - [Blog post](??????????) -->
-- May 27: TBD - A subscriber submitted idea
-    - To be determined! Make sure to sign up for my [mailing list](/mailing-list/) to submit your idea!
-- May 28: TBD - A subscriber submitted idea
+- May 27: Voices of COVID Technical Deep Dive
+    - This will go into more detail about the technology used to create the [Voices of COVID](https://voicesofcovid.com) project
+- May 28: TBD - A Foray into Automated Software Testing - requested by Andrea. 
     - To be determined! Make sure to sign up for my [mailing list](/mailing-list/) to submit your idea!
 - May 29: TBD - A subscriber submitted idea (Reserved for COVID related mutual aid or support)
     - To be determined! Make sure to sign up for my [mailing list](/mailing-list/) to submit your idea!
