@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "A look at the Chameleon Color API."
 Tags = [
   "Architecture",
   "Serverless",

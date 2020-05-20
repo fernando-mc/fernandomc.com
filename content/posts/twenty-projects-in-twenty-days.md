@@ -95,8 +95,8 @@ You can check back on this blog post throughout the month - I'll update it with 
 - May 19: AWS HTTP API with a Cognito Authorizer and Node.js
     - AWS recently released a new AWS HTTP API service which is leaps and bounds cheaper than it's older API Gateway REST API service. Because of this I've put together a few tutorials in different languages to get people started with common use cases. This first one will let you add authentication to HTTP APIs using Amazon Cognito, the Serverless Framework and Node.js. 
     - You'll get access to the GitHub code and a blog post tutorial on this 
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/aws-http-api-node-cognito) -->
-    <!-- - [Blog post](??????????) -->
+    - [GitHub Repo](https://github.com/fernando-mc/aws-http-api-node-cognito)
+    - [Blog post](/posts/aws-http-api-cognito-authorizers-nodejs/)
 - May 20: AWS HTTP API with a Cognito Authorizer and Python
     - I can't let the Python users down, so I've essentially created the same project as the one on May 19 for Python users to play with. This will be pretty similar to the May 19 project except you'll get it with Python!
     <!-- - [GitHub Repo](https://github.com/fernando-mc/aws-http-api-python-cognito) -->
