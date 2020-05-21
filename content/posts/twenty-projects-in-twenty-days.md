@@ -99,8 +99,8 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](/posts/aws-http-api-cognito-authorizers-nodejs/)
 - May 20: AWS HTTP API with a Cognito Authorizer and Python
     - I can't let the Python users down, so I've essentially created the same project as the one on May 19 for Python users to play with. This will be pretty similar to the May 19 project except you'll get it with Python!
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/aws-http-api-python-cognito) -->
-    <!-- - [Blog post](??????????) -->
+    - [GitHub Repo](https://github.com/fernando-mc/http-api-cognito-profiles)
+    - [Blog post](/posts/aws-http-api-cognito-authorizer-python/)
 - May 21: AWS HTTP API Surveys Service with DynamoDB and Node.js
     - Continuing down the AWS HTTP API rabbit hole, I've also decided to showcase the "Surveys Service" described above for Express.js and Flask applications in the context of the AWS HTTP API. You'll see how to model multiple entities in a single DynamoDB required to power a "Surveys Service". Where you can create different customers, surveys for those customers, and collect responses to the surveys they create. You'll get access to a GitHub repo for the code and a blog post on this.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/http-api-surveys-service-node) -->
