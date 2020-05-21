@@ -1,23 +1,22 @@
 +++
-draft = true
-Description = ""
+Description = "In this tutorial, you'll learn how to create a Surveys service using the AWS HTTP API, DynamoDB, AWS Lambda and Node.js."
 Tags = [
   "Architecture",
   "Serverless",
-  "Python",
+  "Node.js",
   "AWS",
-  "AWS Workspaces",
-  "Windows 10",
-  "Testing",
 ]
 Categories = [
   "AWS",
+  "Projects",
 ]
-title = ""
+title = "Creating a Surveys API with the AWS HTTP API and Node.js"
 publishdate = "2020-05-21T13:33:53-07:00"
 date = "2020-05-21T13:33:53-07:00"
+type = "blog"
 [image]
-    feature = "/images/abstract-1.jpg"
+    feature = "/images/abstract-3-short.png"
+    postheader = "/images/abstract-3.jpg"
 +++
 
 As project fourteen of my [Twenty Projects in Twenty Days](/posts/twenty-projects-in-twenty-days/) series I'll show you how to create an AWS HTTP API with Node.js. We'll design it around the same serverless survey service that I've previously shown [using Express.js](/posts/developing-expressjs-serverless-framework-apis/) and [using Flask](/posts/developing-flask-based-serverless-framework-apis/). It'll be used to track three entities - customers, customer surveys, and survey responses. Let's get started!
