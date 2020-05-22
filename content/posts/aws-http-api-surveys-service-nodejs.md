@@ -3,6 +3,11 @@ Description = "In this tutorial, you'll learn how to create a Surveys service us
 Tags = [
   "Architecture",
   "Serverless",
+  "DynamoDB",
+  "AWS HTTP API",
+  "API Gateway",
+  "Lambda",
+  "AWS Lambda",
   "Node.js",
   "AWS",
 ]

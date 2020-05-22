@@ -107,8 +107,8 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](/posts/aws-http-api-surveys-service-nodejs/)
 - May 22: AWS HTTP API Surveys Service with DynamoDB and Python
     - Again, I can't let Python lovers down so I've written the May 21 project in Python too for you to play with. You can expect the same things from this except with more Python!
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/http-api-surveys-service) -->
-    <!-- - [Blog post](??????????) -->
+    - [GitHub Repo](https://github.com/fernando-mc/http-api-surveys-service)
+    - [Blog post](/posts/aws-http-api-surveys-service-nodejs/)
 - May 25: Serverless Frontend and Backend with Serverless Framework and Serverless Finch
     - In this project month I make a bunch of different projects that have serverless backend APIs. But I don't spend much time on Serverless Frontends and easy ways to get started with them. In this project, I'll make sure to cover how you can get started deploying your serverless backend and frontends on AWS. You'll get all the code on GitHub and a blog post tutorial to help guide you through everything.
     <!-- - [GitHub Repo](https://github.com/fernando-mc/serverless-frontend-backend) -->
