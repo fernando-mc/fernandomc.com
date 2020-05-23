@@ -13,6 +13,8 @@ GoogleAnalytics = "UA-88768773-1"
     # favicon = "favicon.ico"
     subtitle = "Cloud Architect and Pluralsight Course Author"
     description = "I'm Fernando Medina Corey, a cloud architect, published course author for software engineering content and an avid punster."
+    gtm_id = "GTM-ND5HJ7K"
+    gtm_datalayer = "basic"
 	[params.author]
 		name = "Fernando Medina Corey"
 		avatar = "/images/fernando.jpg"

@@ -1,5 +1,6 @@
 {{ partial "head.html" . }}
 <body id="post-index" {{ if isset ($.Scratch.Get "Params") "image" }}class="feature"{{ end }}>
+{{ if .Site.Params.gtm_id}}<noscript><iframe src="//www.googletagmanager.com/ns.html?id={{ .Site.Params.gtm_id }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>{{ end }}
 {{ partial "navigation.html" . }}
 <div class="entry-header">
   {{ if isset ($.Scratch.Get "Params") "image" }}
