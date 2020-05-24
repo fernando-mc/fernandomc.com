@@ -30,11 +30,11 @@ This eliminates a large number of attack vectors to gain access to your password
 
 Here are a few options and how you can get started with them:
 
-[KeePassX](https://www.keepassx.org/) or [KeePassXC](https://keepassxc.org/) are both good options. XC is a reboot of KeePassX that is much more actively maintained and developed on. Both offer support for Mac, Linux and Windows. They both also have a file format that is compatible with the [KeePass](keepass.info) password manager.
+[KeePassX](https://www.keepassx.org/) or [KeePassXC](https://keepassxc.org/) are both good options. XC is a reboot of KeePassX that is much more actively maintained and developed on. Both offer support for Mac, Linux and Windows. They both also have a file format that is compatible with the [KeePass](https://keepass.info) password manager.
 
 ![KeePassXC](/images/use_local_password_manager/keepassxc.png)
 
-[KeePass](keepass.info) is another option but is only supported on Windows operating systems.
+[KeePass](https://keepass.info) is another option but is only supported on Windows operating systems.
 
 ![KeePass](/images/use_local_password_manager/keepass.png)
 

@@ -18,7 +18,7 @@ date = "2019-05-20T13:19:30-07:00"
     feature = "/images/keyboard.png"
 +++
 
-I recently upgraded an AWS Lambda API for [Upfront Jobs](https://beta.upfrontjobs.io/) to Python 3.7. This upgrade required me to use a library that relies on the `typing` module as one if its dependencies. However, when I deployed I noticed conflicts between the Python standard library `typing` and the `typing` module that was being installed. Here's how I resolved the issues for my work and how others could do the same. If you'd like the simple solution and no explanation, scroll down to the **Solution** section.
+I recently upgraded an AWS Lambda API for [Upfront Jobs](https://upfrontjobs.io/) to Python 3.7. This upgrade required me to use a library that relies on the `typing` module as one if its dependencies. However, when I deployed I noticed conflicts between the Python standard library `typing` and the `typing` module that was being installed. Here's how I resolved the issues for my work and how others could do the same. If you'd like the simple solution and no explanation, scroll down to the **Solution** section.
 
 <!--more-->
 

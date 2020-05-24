@@ -337,7 +337,7 @@ From there, you can test out all the other endpoints!
 
 Now that you've deployed the API and tested out the first you endpoints you might want to learn more about how you can modify this sort of application to work for you.
 
-If you want to learn more about DynamoDB you can [sign up for a free trial](pluralsight.pxf.io/RW5Bb) to Pluralsight where you can take my course on Connecting DynamoDB to your applications.
+If you want to learn more about DynamoDB you can [sign up for a free trial](https://pluralsight.pxf.io/RW5Bb) to Pluralsight where you can take my course on Connecting DynamoDB to your applications.
 
 If you want more exposure to more ways you could design an API like this you can view some of my previous posts on creating serverless APIs with AWS: 
 

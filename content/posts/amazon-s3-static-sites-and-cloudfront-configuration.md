@@ -29,7 +29,7 @@ Recently, I was going back over an Amazon S3 static site I maintain and noticed 
 
 ## The Setup
 
-For context, the basic structure of [the site](serverlessfoo.com) I was working with minus a few asset folders looks like this:
+For context, the basic structure of [the site](https://serverlessfoo.com) I was working with minus a few asset folders looks like this:
 
 ```
 .

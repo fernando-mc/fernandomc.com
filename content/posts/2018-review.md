@@ -22,7 +22,7 @@ Here's a summary of 2018 by the numbers:
 - Read [37 Books](/reading-list)
 - Published over 50 hours of video content in several [new courses](https://www.fernandomc.com/publications/) 
 - Gave 8 technical talks, workshops or in-person tutorials which you can [review here](https://www.fernandomc.com/events/). 
-- Earned 6 [AWS Certifications](http://linkedin.com/in/fmc-sea)
+- Earned 6 [AWS Certifications](https://www.linkedin.com/in/fmc-sea/)
 - Grew [Redmond Python](https://www.meetup.com/Redmond-Python-User-Group/) to over 550 members
 - Grew the [Serverless Finch plugin](https://github.com/fernando-mc/serverless-finch/) to over 15k monthly downloads
 - Made the most [embarrassing attempt](https://github.com/fernando-mc/vue-game) at a frontend project ever

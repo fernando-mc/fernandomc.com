@@ -216,7 +216,7 @@ Now you can go through and test the other endpoints out if you'd like!
 
 With a newly deployed API that you've confirmed works properly, you might want to learn more about some of these concepts!
 
-To learn more about DynamoDB you can [sign up for a free trial](pluralsight.pxf.io/RW5Bb) to Pluralsight where I have a course on connecting DynamoDB to your applications.
+To learn more about DynamoDB you can [sign up for a free trial](https://pluralsight.pxf.io/RW5Bb) to Pluralsight where I have a course on connecting DynamoDB to your applications.
 
 You can also learn about other ways to design serverless APIs like this in some of my previous posts: 
 

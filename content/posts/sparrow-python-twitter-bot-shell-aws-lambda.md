@@ -154,7 +154,7 @@ Here are some things you should make sure are done before working with this repo
     
 8. Twitter API Keys
 
-    You'll need to make a twitter account and then get Twitter API keys at [apps.twitter.com](apps.twitter.com).
+    You'll need to make a twitter account and then get Twitter API keys at [https://apps.twitter.com](apps.twitter.com).
     Go through the signup process and go to the "Keys and Access Keys" section to get the following values:
     
     - Consumer Key (API Key)

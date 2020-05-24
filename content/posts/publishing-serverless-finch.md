@@ -20,7 +20,7 @@ title = "Publishing Serverless Finch"
     creditlink = "https://www.flickr.com/photos/patrick_k59/33835513152/"
 +++
 
-A little while ago I was working on a [Serverless Framework](serverless.com) project that needed an easy way to deploy and configure files in S3 as a static website. I didn't want to do this manually and was hoping to keep the scope of everything within the Serverless Framework. After some back and forth I ended up republishing an outdated npm package as `serverless-finch` and you're now welcome to use and contribute to it.
+A little while ago I was working on a [Serverless Framework](https://serverless.com) project that needed an easy way to deploy and configure files in S3 as a static website. I didn't want to do this manually and was hoping to keep the scope of everything within the Serverless Framework. After some back and forth I ended up republishing an outdated npm package as `serverless-finch` and you're now welcome to use and contribute to it.
 
 <!--more-->
 

@@ -37,4 +37,4 @@ If you’re also responsible for the visualization and analysis layer of your da
 
 To do this, you’ll want to have the following things in place:
 
-You can read the full article over at the [Pluralsight Blog](https://www.pluralsight.com/blog/software-development/data-aws-lambda), where you can also check out my [introductory course]((https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda)) on AWS Lambda.
+You can read the full article over at the [Pluralsight Blog](https://www.pluralsight.com/blog/software-development/data-aws-lambda), where you can also check out my [introductory course](https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda) on AWS Lambda.

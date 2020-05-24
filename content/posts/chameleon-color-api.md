@@ -42,6 +42,6 @@ All of these setup steps are free to run locally and AWS services cost a fractio
 
 This is one of the newest micro-APIs I've been working on. I hope to extend the functionality of the [current demo](https://www.serverlessfoo.com/projects/chameleon/index.html) to allow the user to upload an image in the browser, have that image processed, and return a color scheme for that image dynamically. This presents a few new challenges for handling binary data with the AWS API Gateway so I've decided to release the first version now and iterate on it when I have a free weekend.
 
-In case you're wondering, the initial inspiration for this project came from [design seeds](design-seeds.com). After unsuccessfully convincing them to partner with me to create this using their data and imagery I decided to just make one on my own.
+In case you're wondering, the initial inspiration for this project came from [design seeds](http://design-seeds.com). After unsuccessfully convincing them to partner with me to create this using their data and imagery I decided to just make one on my own.
 
 If you'd like, you can check out the project code on [GitHub](https://github.com/fernando-mc/color-scheme-api) and use that to deploy your own version.

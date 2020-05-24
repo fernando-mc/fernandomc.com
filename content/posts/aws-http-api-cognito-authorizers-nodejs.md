@@ -24,7 +24,7 @@ type = "blog"
     creditlink = "https://www.flickr.com/photos/jannes_shootings/48800150962/"
 +++
 
-Today is project twelve from my [Twenty Projects in Twenty Days](https://fernandomc.com/posts/twenty-projects-in-twenty-days/) series! Yesterday, I published  [Voices of COVID](posts/voicesofcovid/) which is a project aimed at hearing the voices of people impacted by COVID-19. Today, I'm looking at how to create an AWS HTTP API that has JWT authorizers with Amazon Cognito and Lambda handlers written in Node.js. If you want a more in-depth look at this you can take a look back at how I did this with the Serverless Framework in [this blog post](https://www.serverless.com/blog/serverless-auth-with-aws-http-apis/).
+Today is project twelve from my [Twenty Projects in Twenty Days](https://fernandomc.com/posts/twenty-projects-in-twenty-days/) series! Yesterday, I published [Voices of COVID](/posts/voicesofcovid/) which is a project aimed at hearing the voices of people impacted by COVID-19. Today, I'm looking at how to create an AWS HTTP API that has JWT authorizers with Amazon Cognito and Lambda handlers written in Node.js. If you want a more in-depth look at this you can take a look back at how I did this with the Serverless Framework in [this blog post](https://www.serverless.com/blog/serverless-auth-with-aws-http-apis/).
 
 Let's get started!
 <!--more-->
