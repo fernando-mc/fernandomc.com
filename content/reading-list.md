@@ -8,9 +8,7 @@ draft: false
 **Currently Reading:**
 
 - Words Are My Matter
-- A Crown of Swords
 - We Were Eight Years in Power
-- The Beginning Place
 
 **Read in 2020**
 
@@ -26,6 +24,8 @@ draft: false
 10. Recursion
 11. The Poppy War
 12. Blood Brothers: The Fatal Friendship Between Muhammad Ali and Malcolm X
+13. A Crown of Swords
+14. The Beginning Place
 
 **Read in 2019**
 
