@@ -1,0 +1,17 @@
+{{ if (and (isset .Params "sponsor_message") (isset .Params "sponsor_link")) }}
+<div 
+  style="
+    background-color: #D4CABB; 
+    width: 100%; 
+    padding-left: 5%; 
+    padding-right: 5%; 
+    padding-top: 10px; 
+    padding-bottom: 10px;"
+    
+  >
+  <a style="color: rgba(0, 0, 0, 0.8);" href="{{ .Params.sponsor_link }}">
+  <strong style="transition: none;">Sponsored by:</strong> 
+    {{ .Params.sponsor_message }} <img style="max-width: 16px;" src="/icons/launch.svg"/>
+  </a> 
+</div>
+{{end}}
