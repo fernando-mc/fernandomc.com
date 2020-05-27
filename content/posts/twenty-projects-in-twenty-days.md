@@ -115,8 +115,8 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](/posts/deploy-your-website-serverless-finch-serverless-framework)
 - May 26: Schema Validation with the Serverless Framework
     - For a long time a wrote lots of validation code in my Lambda functions themselves to make sure that the incoming POST data was formatted properly. Then I realized that you can create JSON Schema Draft 04 models for your data and validate the requests before they even hit the Lambda Function! That's what I'll be showing you in this tutorial using the Serverless Framework. You'll get all the code and a blog post tutorial.
-    <!-- - [GitHub Repo](https://github.com/fernando-mc/schema-validation-demo) -->
-    <!-- - [Blog post](??????????) -->
+    - [GitHub Repo](https://github.com/fernando-mc/schema-validation-demo)
+    - [Blog post](/posts/schema-validation-serverless-framework/)
 - May 27: Voices of COVID Technical Deep Dive
     - This will go into more detail about the technology used to create the [Voices of COVID](https://voicesofcovid.com) project
 - May 28: TBD - A Foray into Automated Software Testing - requested by Andrea. 
