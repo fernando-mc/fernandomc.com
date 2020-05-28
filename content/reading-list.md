@@ -9,6 +9,8 @@ draft: false
 
 - Words Are My Matter
 - We Were Eight Years in Power
+- Changing Planes
+- Path of Daggers
 
 **Read in 2020**
 
