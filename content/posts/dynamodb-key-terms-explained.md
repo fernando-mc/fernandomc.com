@@ -12,6 +12,8 @@ Categories = [
 title = "DynamoDB Jargon Explained - Every Key Term You need to Know about Amazon DynamoDB"
 publishdate = "2018-12-17T12:11:10-08:00"
 date = "2018-12-17T12:11:10-08:00"
+sponsor_message = "Dynobase — accelerate DynamoDB workflows with data exploration, code generation, bookmarks and more."
+sponsor_link = "https://dynobase.dev/"
 [image]
     feature = "/images/dynamodb-jargon-explained/dynamodb.png"
 +++

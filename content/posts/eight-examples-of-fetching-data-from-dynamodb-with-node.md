@@ -13,6 +13,8 @@ title = "Eight Examples of Fetching Data from DynamoDB with Node.js"
 publishdate = "2020-01-29T18:41:17-08:00"
 date = "2020-01-29T18:41:17-08:00"
 type = "blog"
+sponsor_message = "Dynobase — accelerate DynamoDB workflows with code generation, data exploration, bookmarks and more."
+sponsor_link = "https://dynobase.dev/"
 [image]
     feature = "/images/node-dynamodb.png"
     postheader = "/images/node-header.png"

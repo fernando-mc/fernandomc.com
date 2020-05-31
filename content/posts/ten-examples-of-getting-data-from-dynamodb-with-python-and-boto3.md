@@ -16,6 +16,8 @@ title = "Ten Examples of Getting Data from DynamoDB with Python and Boto3"
 publishdate = "2020-02-05T18:41:17-08:00"
 date = "2020-02-05T18:41:17-08:00"
 type = "blog"
+sponsor_message = "Dynobase — accelerate DynamoDB workflows with data exploration, code generation, bookmarks and more."
+sponsor_link = "https://dynobase.dev/"
 [image]
     feature = "/images/python-dynamodb.png"
     postheader = "/images/python-header.png"
