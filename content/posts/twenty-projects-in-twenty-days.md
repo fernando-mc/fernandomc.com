@@ -119,11 +119,15 @@ You can check back on this blog post throughout the month - I'll update it with 
     - [Blog post](/posts/schema-validation-serverless-framework/)
 - May 27: Voices of COVID Technical Deep Dive
     - This will go into more detail about the technology used to create the [Voices of COVID](https://voicesofcovid.com) project
-- May 28: TBD - A Foray into Automated Software Testing - requested by Andrea. 
-    - To be determined! Make sure to sign up for my [mailing list](/mailing-list/) to submit your idea!
-- May 29: TBD - A subscriber submitted idea (Reserved for COVID related mutual aid or support)
-    - To be determined! Make sure to sign up for my [mailing list](/mailing-list/) to submit your idea!
+    - [GitHub Repo](https://github.com/fernando-mc/voicesofcovid.com)
+    - [Blog post](/posts/voices-of-covid-technical-overview/)
+- May 28: Serverless Testing with Moto - requested by Andrea. 
+    - [GitHub Repo](https://github.com/fernando-mc/simple-serverless-testing)
+    - [Blog post](/posts/serverless-testing-with-moto/)
+- May 29: Collecting Data on AWS - My newest Pluralsight course!
+    - [Pluralsight Course](https://app.pluralsight.com/library/courses/collecting-data-aws/table-of-contents)
+    - [Pluralsight Free Trial Link](https://pluralsight.pxf.io/RW5Bb)
 
-I can't wait to share these all with you! If you'd like to help me continue doing things like this, consider supporting my work by becoming a Patreon patron [here](https://www.patreon.com/fmc_sea). All my Patreon proceeds this month will go to [National Nurses United](https://www.nationalnursesunited.org/) to help nurses get safer working conditions and access to PPE during the COVID-19 pandemic.
+If you'd like to help me continue doing things like this, consider supporting my work by becoming a Patreon patron [here](https://www.patreon.com/fmc_sea). All my Patreon proceeds this month will go to [National Nurses United](https://www.nationalnursesunited.org/) to help nurses get safer working conditions and access to PPE during the COVID-19 pandemic.
 
 Remember, if you want to request a project that I should create then [sign up for my mailing list](/mailing-list/) and reply to the welcome email with your idea! I'll pick three projects ideas submitted by subscribers to include during the last two days of this 20-day project spree!

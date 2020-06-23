@@ -9,8 +9,8 @@ draft: false
 
 - Words Are My Matter
 - We Were Eight Years in Power
-- Changing Planes
 - Path of Daggers
+- This Is How You Lose the Time War
 
 **Read in 2020**
 
@@ -28,6 +28,8 @@ draft: false
 12. Blood Brothers: The Fatal Friendship Between Muhammad Ali and Malcolm X
 13. A Crown of Swords
 14. The Beginning Place
+15. Changing Planes
+16. Dark Matter
 
 **Read in 2019**
 
@@ -93,7 +95,7 @@ draft: false
 
 **Read in 2017**
 
-1. Animal farm
+1. Animal Farm
 2. The Hero of Ages
 3. The Well of Ascension
 5. Elantris
