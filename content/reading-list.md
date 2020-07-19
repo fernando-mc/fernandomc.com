@@ -10,7 +10,6 @@ draft: false
 - Words Are My Matter
 - We Were Eight Years in Power
 - Path of Daggers
-- This Is How You Lose the Time War
 
 **Read in 2020**
 
@@ -30,6 +29,8 @@ draft: false
 14. The Beginning Place
 15. Changing Planes
 16. Dark Matter
+17. This Is How You Lose the Time War
+18. Empress of Forever 
 
 **Read in 2019**
 
