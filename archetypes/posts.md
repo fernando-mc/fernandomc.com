@@ -3,30 +3,30 @@ draft = true
 Description = ""
 Tags = [
   "Architecture",
+  "Azure",
+  "AWS",
   "Serverless",
   "Python",
-  "AWS",
-  "AWS Workspaces",
-  "Windows 10",
-  "Testing",
 ]
 Categories = [
+  "Architecture",
+  "Azure",
   "AWS",
 ]
 title = ""
 publishdate = "{{ .Date }}"
 date = "{{ .Date }}"
+type = "blog"
 [image]
-    feature = "/images/abstract-1.jpg"
+    feature = "/images/postfolder/og-card-name.png"
+    postheader = "/images/abstract-6-short.png"
 +++
 
-0. GET SOME IMAGES in (Feedly, RSS, etc use them and need em in there at first publish)
-1. Outline post
-2. Write Post
-3. Upload and add tags and categories
-4. Check publish date and date
-5. Add all the other front matter
-6. Check summary
+0. Create Figma OG card - https://www.figma.com/file/vb6MJuvxbPSvivurKpWTpl/Social-Branding-Templates-(Community)?node-id=45%3A344
+1. Update tags and categories
+2. Check publish date and date
+3. Add all the other front matter
+4. Check summary
 
 
 Some content for a post

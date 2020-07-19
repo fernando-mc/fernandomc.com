@@ -23,6 +23,7 @@
 {{ if isset ($.Scratch.Get "Params") "image" }}
     {{ $imageparams := index ($.Scratch.Get "Params") "image" }}
     <meta property="og:image" content="{{ $imageparams.feature | absURL }}" />
+    <webfeeds:cover image="{{ $imageparams.feature | absURL }}"/>
 {{ end }}
 {{ if not .Date.IsZero }}
   <meta property="og:updated_time" content="{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}"/>
