@@ -19,7 +19,8 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 - [Assigning Resource-based Policies on AWS](https://www.pluralsight.com/courses/aws-assigning-resource-based-policies)
 - [Connecting Amazon DynamoDB to Your Application](https://www.pluralsight.com/courses/connecting-amazon-dynamodb)
 - [Collecting Data on AWS](https://www.pluralsight.com/courses/collecting-data-aws)
-- Storing Data on AWS (In progress)
+- [Storing Data on AWS](https://www.pluralsight.com/courses/storing-data-aws)
+- Continuous Delivery and Automation on AWS for DevOps Engineers -(In progress)
 
 Don't already have a Pluralsight account? [Have a free trial on me](https://pluralsight.pxf.io/RW5Bb).
 

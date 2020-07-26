@@ -8,7 +8,6 @@ draft: false
 **Currently Reading:**
 
 - Words Are My Matter
-- We Were Eight Years in Power
 - Path of Daggers
 
 **Read in 2020**
@@ -30,7 +29,8 @@ draft: false
 15. Changing Planes
 16. Dark Matter
 17. This Is How You Lose the Time War
-18. Empress of Forever 
+18. Empress of Forever
+19. We Were Eight Years in Power
 
 **Read in 2019**
 
