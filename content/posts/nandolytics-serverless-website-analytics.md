@@ -28,7 +28,7 @@ A few lucky visitors can have access to a demo of how I built this service. Find
 
 <!--more-->
 
-<center> <button style="background-color: #008CBA;
+<button style="background-color: #008CBA;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -36,7 +36,7 @@ A few lucky visitors can have access to a demo of how I built this service. Find
     text-decoration: none;
     display: inline-block;
     font-size: 16px;"
-onclick="checkHitsOnClick()">Find out if you're a winner!</button></center>
+onclick="checkHitsOnClick()">Find out if you're a winner!</button>
 <div id='totalHits'></div>
 <div id='ricky'></div>
 

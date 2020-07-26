@@ -14,4 +14,22 @@
     {{ .Params.sponsor_message }} <img style="max-width: 16px;" src="/icons/launch.svg"/>
   </a> 
 </div>
+{{ else if .Params.categories }}
+<div 
+  style="
+    background-color: #D4CABB; 
+    width: 100%; 
+    padding-left: 5%; 
+    padding-right: 5%; 
+    padding-top: 10px; 
+    padding-bottom: 10px;"
+    
+  >
+  <a style="color: rgba(0, 0, 0, 0.8);" href="https://www.fernandomc.com/mailing-list">
+  <strong style="transition: none;">Want to learn more about
+    {{ delimit .Params.categories ", " " and " }}?
+  </strong> 
+     Sign up for my mailing list!<img style="max-width: 16px;" src="/icons/launch.svg"/>
+  </a> 
+</div>
 {{end}}

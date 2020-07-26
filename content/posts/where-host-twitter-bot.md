@@ -19,7 +19,7 @@ title = "Where to Host a Twitter Bot"
 
 +++
 
-<center>![A troll carrying a club](/images/where_host_twitter_bot/patent_troll.png)</center>
+![A troll carrying a club](/images/where_host_twitter_bot/patent_troll.png)
 
 A while back I created the [Daily Patent](https://twitter.com/dailypatent). A Twitter bot that gets a random patent and tweets it out periodically. I started by hosting this on a Google Cloud virtual machine but eventually decided to look for something more suited to this kind of task. 
 
@@ -27,7 +27,7 @@ Here's my review of several places you can run a simple Twitter bot.
 
 <!--more-->
 
-<center>![The Twitter logo](/images/where_host_twitter_bot/twitter.png)</center>
+![The Twitter logo](/images/where_host_twitter_bot/twitter.png)
 
 Now any old server could run my bot as it's a very basic [Python script](https://github.com/fernando-mc/dailypatent) that runs for a fraction of a second each invocation. My core criteria here was "What is both the cheapest and easiest way to host my bot?". I don't need much processing power at all so I really just wanted something quick and hands-free to run on a schedule.
  

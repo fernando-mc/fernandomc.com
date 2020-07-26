@@ -18,7 +18,7 @@ Tags = [
 
 +++
 
-<center>{{< figure src="/images/serverlessfoo/serverlessfoo.png" >}}</center>
+{{< figure src="/images/serverlessfoo/serverlessfoo.png" >}}
 
 I've created a new [demo site](https://www.serverlessfoo.com) for displaying my past and current development projects. If you'd like to see some of the APIs, npm packages and other serverless-related fun you should check it out. 
 

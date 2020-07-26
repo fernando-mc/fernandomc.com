@@ -36,9 +36,7 @@ So tables contain items which contain attributes. Got it? Awesome!
 
 Don't know yet? Here's a visualization that I hope will help. You can also refer back to it from the next sections too!
 
-<center>
 ![DynamoDB diagram showing tables, items, attributes and other concepts](/images/dynamodb-jargon-explained/dynamodb-concepts-viz.png)
-</center>
 
 ## Primary keys and their ilk 
 

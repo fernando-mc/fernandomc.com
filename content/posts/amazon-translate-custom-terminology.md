@@ -132,11 +132,11 @@ Here's the highlights on what happens here:
 
 First, the words are reviewed by Amazon Translate to see if they contain custom terms. After that, the sentence is translated using some neural networks and encoder-decoder architectures in the background to give us the English --> Spanish output. Then the words that were marked as custom terms are evaluated and looked up in the custom terminology files.
 
-<center>![Example of Amazon Translate translating a sentence referencing custom terminologies](/images/amazon-translate/pre-lookup.png)</center>
+![Example of Amazon Translate translating a sentence referencing custom terminologies](/images/amazon-translate/pre-lookup.png)
 
 After that, these terms are then replaces with their output-language counterparts:
 
-<center>![Example of Amazon Translate translating a sentence referencing custom terminologies](/images/amazon-translate/post-lookup.png)</center>
+![Example of Amazon Translate translating a sentence referencing custom terminologies](/images/amazon-translate/post-lookup.png)
 
 ## Caveats
 

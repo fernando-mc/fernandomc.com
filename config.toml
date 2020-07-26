@@ -26,3 +26,8 @@ GoogleAnalytics = "UA-88768773-1"
 	[params.image]
 	  feature = "/images/colombia.png"
       credit = "Isabella Medina | ismedina.com"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

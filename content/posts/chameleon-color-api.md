@@ -20,13 +20,13 @@ publishdate = "2017-08-12T19:26:58-07:00"
 +++
 
 
-<center>![A sample landscape used by the Chameleon color API](/images/chameleon_announcement/landscape.png)</center>
+![A sample landscape used by the Chameleon color API](/images/chameleon_announcement/landscape.png)
 
 One of the newest additions to my project portfolio site [(serverlessfoo.com)](https://www.serverlessfoo.com) is the [Chameleon color scheme API](https://www.serverlessfoo.com/projects/chameleon/index.html). The API returns a random color scheme of dominant and auxiliary colors in rgb form to be applied to a website. Here's how I built the API for less than a penny.
 
 <!--more-->
 
-<center>![A sample landscape used by the Chameleon color API](/images/chameleon_announcement/chameleon-colors.png)</center>
+![A color scheme for the landscape used by the Chameleon color API](/images/chameleon_announcement/chameleon-colors.png)
 
 This project had a few initial steps:
 
