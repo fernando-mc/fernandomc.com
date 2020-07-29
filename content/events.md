@@ -31,9 +31,6 @@ blackfriday:
 - Jun. 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
     - Feedback: 5.0/5.0
 
-- June 5, 2019 | Redmond Python - [Introduction to Hardware Programming](https://www.meetup.com/Redmond-Python-User-Group/events/261407073/)
-    - Feedback: 5.0/5.0
-
 - May 31, 2019 | Beer City Code - [An Introduction to Python for Complete Beginners](https://beercitycode.com/)
     - Feedback: 4.5/5
     - [Curriculum](https://fernando-mc.github.io/python3-workshop/)
