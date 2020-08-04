@@ -8,7 +8,10 @@ draft: false
 **Currently Reading:**
 
 - Words Are My Matter
-- Path of Daggers
+- Path of Dagger
+- The New Jim Crow
+- The Water Dancer
+- Forward the Foundation
 
 **Read in 2020**
 
@@ -31,6 +34,7 @@ draft: false
 17. This Is How You Lose the Time War
 18. Empress of Forever
 19. We Were Eight Years in Power
+20. Foundation
 
 **Read in 2019**
 
