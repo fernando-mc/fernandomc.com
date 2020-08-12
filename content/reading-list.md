@@ -8,10 +8,11 @@ draft: false
 **Currently Reading:**
 
 - Words Are My Matter
-- Path of Dagger
+- The Path of Daggers
 - The New Jim Crow
 - The Water Dancer
 - Forward the Foundation
+- The Murder of Roger Ackroyd
 
 **Read in 2020**
 
