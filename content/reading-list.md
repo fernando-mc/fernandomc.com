@@ -12,7 +12,6 @@ draft: false
 - The New Jim Crow
 - The Water Dancer
 - Forward the Foundation
-- The Murder of Roger Ackroyd
 
 **Read in 2020**
 
@@ -36,6 +35,9 @@ draft: false
 18. Empress of Forever
 19. We Were Eight Years in Power
 20. Foundation
+21. The Murder of Roger Ackroyd
+22. The Three-Body Problem
+
 
 **Read in 2019**
 
