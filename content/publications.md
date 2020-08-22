@@ -20,7 +20,7 @@ If you're currently taking one of my Pluralsight courses and have feedback or qu
 - [Connecting Amazon DynamoDB to Your Application](https://www.pluralsight.com/courses/connecting-amazon-dynamodb)
 - [Collecting Data on AWS](https://www.pluralsight.com/courses/collecting-data-aws)
 - [Storing Data on AWS](https://www.pluralsight.com/courses/storing-data-aws)
-- Continuous Delivery and Automation on AWS for DevOps Engineers -(In progress)
+- Continuous Delivery and Automation on AWS for DevOps Engineers - (In progress)
 
 Don't already have a Pluralsight account? [Have a free trial on me](https://pluralsight.pxf.io/RW5Bb).
 
@@ -35,6 +35,7 @@ Don't already have a Pluralsight account? [Have a free trial on me](https://plur
 - [Serverless Auth with HTTP APIs](https://serverless.com/blog/serverless-auth-with-aws-http-apis/)
 - [A Guide to Preview Deployments with Serverless CI/CD](https://serverless.com/blog/preview-deployments/)
 - [Deploying Your First Knative Service with the Serverless Framework](https://serverless.com/blog/deploy-your-first-knative-service-with-the-serverless-framework/)
+- [How to Connect Your Raspberry Pi to AWS IoT?](https://www.witekio.com/blog/connect-raspberry-pi-aws-iot/)
 
 **2019**
 
