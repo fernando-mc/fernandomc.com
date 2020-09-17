@@ -8,10 +8,10 @@ draft: false
 **Currently Reading:**
 
 - Words Are My Matter
-- The Path of Daggers
-- The New Jim Crow
+- Winter's Heart
 - The Water Dancer
 - Forward the Foundation
+- Freedom Is a Constant Struggle
 
 **Read in 2020**
 
@@ -37,7 +37,9 @@ draft: false
 20. Foundation
 21. The Murder of Roger Ackroyd
 22. The Three-Body Problem
-
+23. The Path of Daggers
+24. The New Jim Crow
+25. The Dark Forest
 
 **Read in 2019**
 

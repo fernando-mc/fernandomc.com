@@ -14,6 +14,9 @@ blackfriday:
 
 ### 2020
 
+- Sept. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
+    - [Slides](/files/presentations/heavy-aws-users-firstlook-azure.pdf)
+    - [Recording](https://youtu.be/nQ6iG91KSks)
 - Feb. 12, 2020 | DeveloperWeek 2020 - [An Introduction to Microservices with the Serverless Framework](https://developerweek2020.sched.com/speaker/fernando_medina_corey.20db3k0n)
     - [Slides](/files/presentations/devweek-2020.pdf)
 
