@@ -16,7 +16,11 @@ blackfriday:
 
 - Sept. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
     - [Slides](/files/presentations/heavy-aws-users-firstlook-azure.pdf)
-    - [Recording](https://youtu.be/nQ6iG91KSks)
+    - [Recording](https://youtu.be/bwovpLZLLdA)
+
+- August. 15, 2020 | Redmond Python - [Virtual Introduction to Python](https://www.meetup.com/Redmond-Python-User-Group/events/272302893/)
+    - [Feedback](/images/event-feedback/2020/20200815-virtual-introduction-to-python.png): 5.0/5.0
+
 - Feb. 12, 2020 | DeveloperWeek 2020 - [An Introduction to Microservices with the Serverless Framework](https://developerweek2020.sched.com/speaker/fernando_medina_corey.20db3k0n)
     - [Slides](/files/presentations/devweek-2020.pdf)
 
