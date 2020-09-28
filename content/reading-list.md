@@ -10,7 +10,8 @@ draft: false
 - Words Are My Matter
 - Winter's Heart
 - The Water Dancer
-- Freedom Is a Constant Struggle
+- Prelude to Foundation
+- A Darker Shade of Magic
 
 **Read in 2020**
 
@@ -40,6 +41,7 @@ draft: false
 24. The New Jim Crow
 25. The Dark Forest
 26. The Last Wish
+27. Freedom Is a Constant Struggle
 
 
 **Read in 2019**
