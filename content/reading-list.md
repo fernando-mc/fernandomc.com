@@ -10,8 +10,8 @@ draft: false
 - Words Are My Matter
 - Winter's Heart
 - The Water Dancer
-- Prelude to Foundation
 - A Darker Shade of Magic
+- The Sword of Destiny
 
 **Read in 2020**
 
@@ -42,7 +42,7 @@ draft: false
 25. The Dark Forest
 26. The Last Wish
 27. Freedom Is a Constant Struggle
-
+28. Prelude to Foundation
 
 **Read in 2019**
 

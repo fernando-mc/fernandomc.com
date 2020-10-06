@@ -8,17 +8,29 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
+- Oct. 7, 2020 | Redmond Python User Group - [Building Cloud Connected IoT Devices with Python](https://www.meetup.com/Redmond-Python-User-Group/events/273440026/)
+
+- Oct. 15, 2020 | Witekio (internal) - A Quick Tour of AWS and Azure
+
+- Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
+
+- Oct. 27, 2020 | AI DevWorld 2020 - Building Your First Slackbot with Amazon Lex
+
+- Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
+
+- Nov. 20, 2020 | Python Web Global Summit 2020 - Scalable Application Prototyping in 500 Lines or less
+
 - Want me to give a talk or training at your organization? [Get in touch](/contact).
 
 ## Past Workshops and Talks
 
 ### 2020
 
-- Sept. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
+- Sep. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
     - [Slides](/files/presentations/heavy-aws-users-firstlook-azure.pdf)
     - [Recording](https://youtu.be/bwovpLZLLdA)
 
-- August. 15, 2020 | Redmond Python - [Virtual Introduction to Python](https://www.meetup.com/Redmond-Python-User-Group/events/272302893/)
+- Aug. 15, 2020 | Redmond Python - [Virtual Introduction to Python](https://www.meetup.com/Redmond-Python-User-Group/events/272302893/)
     - [Feedback](/images/event-feedback/2020/20200815-virtual-introduction-to-python.png): 5.0/5.0
 
 - Feb. 12, 2020 | DeveloperWeek 2020 - [An Introduction to Microservices with the Serverless Framework](https://developerweek2020.sched.com/speaker/fernando_medina_corey.20db3k0n)
@@ -55,7 +67,7 @@ blackfriday:
 - Sep. 20, 2018 | Redmond Python - [Creating Your Python API with Flask](https://www.meetup.com/Redmond-Python-User-Group/events/254677176/)
     - [Tutorial](https://www.fernandomc.com/posts/your-first-flask-api/)
     - Feedback: 5.0/5.0
-- August 9, 2018 | Redmond Python - [Creating Your Serverless Development Portfolio in 7 Days](https://www.meetup.com/Redmond-Python-User-Group/events/hfdjspyxlbmb/)
+- Aug. 9, 2018 | Redmond Python - [Creating Your Serverless Development Portfolio in 7 Days](https://www.meetup.com/Redmond-Python-User-Group/events/hfdjspyxlbmb/)
     - [Presentation](https://docs.google.com/presentation/d/177do8_ihmUT8NZ8OxLACHXLKk1XEJkjHUcLRRXFT8NM/edit?usp=sharing)
 - Jun. 28, 2018 | Redmond Python - [A Desperate Weekend Learning Spark](https://www.meetup.com/Redmond-Python-User-Group/events/hfdjspyxjblc/)
     - [Presentation](https://docs.google.com/presentation/d/14SYIaEG5KNF8Dpt7D4TjDAQ7zkyKIOQclGXKCUd4Qg0/edit?usp=sharing)
