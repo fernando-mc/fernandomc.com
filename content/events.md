@@ -8,13 +8,10 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
-- Oct. 7, 2020 | Redmond Python User Group - [Building Cloud Connected IoT Devices with Python](https://www.meetup.com/Redmond-Python-User-Group/events/273440026/)
 
 - Oct. 15, 2020 | Witekio (internal) - A Quick Tour of AWS and Azure
 
 - Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
-
-- Oct. 27, 2020 | AI DevWorld 2020 - Building Your First Slackbot with Amazon Lex
 
 - Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
 
@@ -25,6 +22,9 @@ blackfriday:
 ## Past Workshops and Talks
 
 ### 2020
+
+- Oct. 7, 2020 | Redmond Python User Group - [Building Cloud Connected IoT Devices with Python](https://www.meetup.com/Redmond-Python-User-Group/events/273440026/)
+    - [Slides](/files/presentations/2020-10-07-iot-python-meetup-talk.pdf)
 
 - Sep. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
     - [Slides](/files/presentations/heavy-aws-users-firstlook-azure.pdf)
