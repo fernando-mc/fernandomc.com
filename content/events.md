@@ -25,6 +25,7 @@ blackfriday:
 
 - Oct. 7, 2020 | Redmond Python User Group - [Building Cloud Connected IoT Devices with Python](https://www.meetup.com/Redmond-Python-User-Group/events/273440026/)
     - [Slides](/files/presentations/2020-10-07-iot-python-meetup-talk.pdf)
+    - [Recording](https://youtu.be/OwTzzxfiIic)
 
 - Sep. 16, 2020 | Portland Azure User Group - [A Heavy AWS User's First Look at Azure](https://www.meetup.com/Portland-Azure-User-Group/events/272782746/)
     - [Slides](/files/presentations/heavy-aws-users-firstlook-azure.pdf)
