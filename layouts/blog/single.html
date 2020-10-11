@@ -33,6 +33,11 @@
 
     <div class="entry-content">
       {{ .Content }}
+      {{ if isset .Params "sponsor_footer" }}
+        <footer style="background-color: #F0E5CC; padding: 1em; border-radius: 3px; font-weight: bold;">
+          {{ markdownify .Params.sponsor_footer }}
+        </footer>
+      {{ end }}
       <footer class="entry-meta">
           {{ if ne .Type "page" }}
         <span class="entry-tags">{{ range .Params.tags }}<a href="{{ "/tags/" | relURL }}#{{ . | urlize }}" title="Pages tagged {{ . | urlize }}" class="tag"><span class="term">{{ . | urlize }}</span></a>{{ end }}</span>
