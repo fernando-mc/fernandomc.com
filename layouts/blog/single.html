@@ -35,7 +35,10 @@
       {{ .Content }}
       {{ if isset .Params "sponsor_footer" }}
         <footer style="background-color: #F0E5CC; padding: 1em; border-radius: 3px; font-weight: bold;">
-          {{ markdownify .Params.sponsor_footer }}
+          {{ markdownify .Params.sponsor_footer }} 
+          <a style="color: rgba(0, 0, 0, 0.8);" href="{{ .Params.sponsor_link }}">
+            <img style="max-width: 16px;" src="/icons/launch.svg"/>
+          </a>
         </footer>
       {{ end }}
       <footer class="entry-meta">
