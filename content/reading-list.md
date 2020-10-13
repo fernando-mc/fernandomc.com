@@ -11,7 +11,7 @@ draft: false
 - Winter's Heart
 - The Water Dancer
 - A Darker Shade of Magic
-- The Sword of Destiny
+- The Blood of Elves
 
 **Read in 2020**
 
@@ -43,6 +43,7 @@ draft: false
 26. The Last Wish
 27. Freedom Is a Constant Struggle
 28. Prelude to Foundation
+29. The Sword of Destiny
 
 **Read in 2019**
 
