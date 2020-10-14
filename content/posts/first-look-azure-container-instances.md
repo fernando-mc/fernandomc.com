@@ -13,8 +13,8 @@ Categories = [
   "AWS",
 ]
 title = "First Look at Azure Container Instances"
-publishdate = "2020-10-14T15:17:47-07:00"
-date = "2020-10-14T15:17:47-07:00"
+publishdate = "2020-10-14T09:17:47-07:00"
+date = "2020-10-14T09:17:47-07:00"
 type = "blog"
 [image]
     feature = "/images/azure-container-instances/first-look-azure-container-instances.png"
