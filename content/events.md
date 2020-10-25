@@ -8,12 +8,9 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
-
-- Oct. 15, 2020 | Witekio (internal) - A Quick Tour of AWS and Azure
-
-- Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
-
 - Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
+
+- Nov. 19, 2020 | Witekio - AWS and Azure IoT: A Look at the Possibilities of IoT and Cloud
 
 - Nov. 20, 2020 | Python Web Global Summit 2020 - Scalable Application Prototyping in 500 Lines or less
 
@@ -22,6 +19,10 @@ blackfriday:
 ## Past Workshops and Talks
 
 ### 2020
+
+- Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
+
+- Oct. 15, 2020 | Witekio - A Quick Tour of AWS and Azure
 
 - Oct. 7, 2020 | Redmond Python User Group - [Building Cloud Connected IoT Devices with Python](https://www.meetup.com/Redmond-Python-User-Group/events/273440026/)
     - [Slides](/files/presentations/2020-10-07-iot-python-meetup-talk.pdf)

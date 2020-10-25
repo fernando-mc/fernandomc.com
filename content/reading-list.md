@@ -11,7 +11,8 @@ draft: false
 - Winter's Heart
 - The Water Dancer
 - A Darker Shade of Magic
-- The Blood of Elves
+- Foundryside
+- The Dragon Republic
 
 **Read in 2020**
 
@@ -44,6 +45,8 @@ draft: false
 27. Freedom Is a Constant Struggle
 28. Prelude to Foundation
 29. The Sword of Destiny
+30. The Blood of Elves
+31. The Black Prism
 
 **Read in 2019**
 
