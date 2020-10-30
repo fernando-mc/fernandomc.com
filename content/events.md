@@ -21,6 +21,7 @@ blackfriday:
 ### 2020
 
 - Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
+    - Average Rating: 6.5/7.0
 
 - Oct. 15, 2020 | Witekio - A Quick Tour of AWS and Azure
 
