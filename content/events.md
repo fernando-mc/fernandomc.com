@@ -8,8 +8,6 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
-- Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
-
 - Nov. 19, 2020 | Witekio - AWS and Azure IoT: A Look at the Possibilities of IoT and Cloud
 
 - Nov. 20, 2020 | Python Web Global Summit 2020 - Scalable Application Prototyping in 500 Lines or less
@@ -19,6 +17,9 @@ blackfriday:
 ## Past Workshops and Talks
 
 ### 2020
+
+- Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
+    - [Slides](/files/presentations/2020-11-13-aws-community-day-building-an-iot-system-to-protect-my-lunch.pdf)
 
 - Oct. 21, 2020 | VMWare Author Day - Creating Release Pipelines with AWS
     - Average Rating: 6.5/7.0
