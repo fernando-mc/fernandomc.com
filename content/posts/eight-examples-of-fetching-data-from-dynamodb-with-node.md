@@ -387,7 +387,7 @@ Now it's time to switch over to using the DynamoDB Document Client. In all the e
 
 ### #5 Using the Document Client to Get a Single Item from DynamoDB
 
-Let's start by doing essentially the same thing as our first example and getting a single item form DynamoDB.
+Let's start by doing essentially the same thing as our first example and getting a single item from DynamoDB.
 
 ```js
 // Get a single item with the getItem operation and Document Client
