@@ -8,15 +8,17 @@ blackfriday:
 
 ## Upcoming Workshops and Talks
 
-- Nov. 19, 2020 | Witekio - AWS and Azure IoT: A Look at the Possibilities of IoT and Cloud
-
-- Nov. 20, 2020 | Python Web Global Summit 2020 - Scalable Application Prototyping in 500 Lines or less
-
 - Want me to give a talk or training at your organization? [Get in touch](/contact).
 
 ## Past Workshops and Talks
 
 ### 2020
+
+- Nov. 20, 2020 | Python Web Global Summit 2020 - Building Secure Cloud-enabled IoT Devices
+    - [Slides](/files/presentations/2020-11-20-building-secure-cloud-enabled-iot-devices.pdf)
+
+- Nov. 19, 2020 | Witekio - AWS and Azure IoT: A Look at the Possibilities of IoT and Cloud
+    - [Video](https://www.youtube.com/watch?v=0htvM94diJA)
 
 - Nov. 13, 2020 | AWS Community Day - Building an IoT System to Protect my Lunch
     - [Slides](/files/presentations/2020-11-13-aws-community-day-building-an-iot-system-to-protect-my-lunch.pdf)

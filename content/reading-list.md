@@ -12,7 +12,6 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
-- The Fire Next Time
 
 **Read in 2020**
 
@@ -50,6 +49,7 @@ draft: false
 32. Death's End
 33. The Dragon Republic
 34. Season of Storms
+35. The Fire Next Time
 
 **Read in 2019**
 
