@@ -12,6 +12,7 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
+- Wake of Vultures
 
 **Read in 2020**
 
@@ -50,6 +51,8 @@ draft: false
 33. The Dragon Republic
 34. Season of Storms
 35. The Fire Next Time
+36. The Time of Contempt
+37. Ninefox Gambit
 
 **Read in 2019**
 
