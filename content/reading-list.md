@@ -12,7 +12,7 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
-- Wake of Vultures
+- To Be Taught, If Fortunate
 
 **Read in 2020**
 
@@ -53,6 +53,7 @@ draft: false
 35. The Fire Next Time
 36. The Time of Contempt
 37. Ninefox Gambit
+38. Wake of Vultures
 
 **Read in 2019**
 
