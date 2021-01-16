@@ -13,8 +13,8 @@ Categories = [
   "Q&A",
 ]
 title = "Reader Questions Episode 1: IoT, Serverless, and Jobs"
-publishdate = "2021-01-15T13:54:10-08:00"
-date = "2021-01-15T13:54:10-08:00"
+publishdate = "2021-01-16T13:54:10-08:00"
+date = "2021-01-16T13:54:10-08:00"
 type = "blog"
 sponsor_message = "Help me answer questions like this more often by signing up for a free trial of Pluralsight and taking my courses!"
 sponsor_link = "https://pluralsight.pxf.io/mA1DD"
@@ -50,7 +50,7 @@ With that said, there are some "serverless" frontend tools that really help you 
 
 I hope this helps!
 
-**Question 2 - How do you get into IoT Development from Frontend?**
+**Question 2 - From David: How do you get into IoT Development from Frontend?**
 
   > I am a Frontend Developer and would like to expand my skills. I got really interested in IoT in the last 6 months and experimented with different avenues to grasp the subject. Recently, I realized I should check out people who work in IoT and found you and your work on LinkedIn. What would be the next logical step for a Frontend (JavaScript, React) developer to expand their skills in the IoT realm?
 
@@ -79,7 +79,7 @@ https://witekio.com/blog/connect-raspberry-pi-aws-iot/
 
 I hope this helps! Best of luck and keep me posted on how things go!
 
-**Question 3 - How do you produce so much content?** 
+**Question 3 - From David: How do you produce so much content?** 
 
 (This seemed like flattery to get me to answer the other questions that came with this email but I thought I'd include some information opn my writing and contnet making in this batch of questions in case it is actually helpful for anyone. This might seem like a roundabout answer initially but I promise it isn't!)
 
