@@ -13,8 +13,8 @@ Categories = [
   "Q&A",
 ]
 title = "Reader Questions Episode 1: IoT, Serverless, and Jobs"
-publishdate = "2021-01-16T13:54:10-08:00"
-date = "2021-01-16T13:54:10-08:00"
+publishdate = "2021-01-16T09:54:10-08:00"
+date = "2021-01-16T09:54:10-08:00"
 type = "blog"
 sponsor_message = "Help me answer questions like this more often by signing up for a free trial of Pluralsight and taking my courses!"
 sponsor_link = "https://pluralsight.pxf.io/mA1DD"
