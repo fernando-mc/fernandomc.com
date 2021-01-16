@@ -12,7 +12,13 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
-- To Be Taught, If Fortunate
+
+**Read in 2021**
+
+1. Baptism of Fire
+2. The Blinding Knife
+3. Secrets: A Memoir of Vietnam and the Pentagon Papers
+4. Martin Luther King - [Letter from a Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
 
 **Read in 2020**
 
@@ -54,6 +60,7 @@ draft: false
 36. The Time of Contempt
 37. Ninefox Gambit
 38. Wake of Vultures
+39. To Be Taught, If Fortunate
 
 **Read in 2019**
 
