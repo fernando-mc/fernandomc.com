@@ -12,6 +12,7 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
+- The Blood Mirror
 
 **Read in 2021**
 
@@ -19,6 +20,7 @@ draft: false
 2. The Blinding Knife
 3. Secrets: A Memoir of Vietnam and the Pentagon Papers
 4. Martin Luther King - [Letter from a Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
+5. The Broken Eye
 
 **Read in 2020**
 
