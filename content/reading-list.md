@@ -12,7 +12,6 @@ draft: false
 - The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
-- The Blood Mirror
 
 **Read in 2021**
 
@@ -22,6 +21,8 @@ draft: false
 4. [Letter from a Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) - Martin Luther King Jr.
 5. The Broken Eye - Brent Weeks
 6. The House in the Cerulean Sea - TJ Klune
+7. The Blood Mirror - Brent Weeks
+8. The Burning White - Brent Weeks
 
 **Read in 2020**
 
