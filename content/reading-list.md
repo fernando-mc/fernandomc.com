@@ -9,9 +9,9 @@ draft: false
 
 - Words Are My Matter
 - Winter's Heart
-- The Water Dancer
 - A Darker Shade of Magic
 - Foundryside
+- The Song of Achilles
 
 **Read in 2021**
 
@@ -23,6 +23,7 @@ draft: false
 6. The House in the Cerulean Sea - TJ Klune
 7. The Blood Mirror - Brent Weeks
 8. The Burning White - Brent Weeks
+9. The Water Dancer
 
 **Read in 2020**
 
