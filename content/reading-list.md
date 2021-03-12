@@ -11,19 +11,20 @@ draft: false
 - Winter's Heart
 - A Darker Shade of Magic
 - Foundryside
-- The Song of Achilles
 
 **Read in 2021**
 
 1. Baptism of Fire - Andrzej Sapkowski
 2. The Blinding Knife - Brent Weeks
-3. Secrets: A Memoir of Vietnam and the Pentagon Papers
+3. Secrets: A Memoir of Vietnam and the Pentagon Papers - Daniel Ellsberg
 4. [Letter from a Birmingham Jail](https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html) - Martin Luther King Jr.
 5. The Broken Eye - Brent Weeks
 6. The House in the Cerulean Sea - TJ Klune
 7. The Blood Mirror - Brent Weeks
 8. The Burning White - Brent Weeks
-9. The Water Dancer
+9. The Water Dancer - Ta-Nehisi Coates
+10. The Song of Achilles - Madeline Miller
+11. Inventing Latinos: A New Story of American Racism - Laura E. Gómez
 
 **Read in 2020**
 
