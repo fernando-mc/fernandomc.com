@@ -40,9 +40,6 @@
         {{ if not (eq .Params.share false) }}{{ partial "share.html" . }}{{ end }}
       </footer>
     </div><!-- /.entry-content -->
-    {{ if ne .Params.comments false }}
-    <section id="disqus_thread">{{ partial "disqus.html" . }}</section><!-- /#disqus_thread -->
-    {{ end }}
   </article>
 </div><!-- /#main -->
 {{ partial "foot.html" . }}
