@@ -11,6 +11,7 @@ draft: false
 - Winter's Heart
 - A Darker Shade of Magic
 - Foundryside
+- Empire of Gold
 
 **Read in 2021**
 
@@ -25,6 +26,7 @@ draft: false
 9. The Water Dancer - Ta-Nehisi Coates
 10. The Song of Achilles - Madeline Miller
 11. Inventing Latinos: A New Story of American Racism - Laura E. Gómez
+12. Rhythm of War
 
 **Read in 2020**
 
