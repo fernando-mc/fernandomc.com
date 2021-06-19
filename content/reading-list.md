@@ -10,8 +10,6 @@ draft: false
 - Words Are My Matter
 - Winter's Heart
 - A Darker Shade of Magic
-- Foundryside
-- Empire of Gold
 
 **Read in 2021**
 
@@ -27,6 +25,10 @@ draft: false
 10. The Song of Achilles - Madeline Miller
 11. Inventing Latinos: A New Story of American Racism - Laura E. Gómez
 12. Rhythm of War
+13. Empire of Gold
+14. Foundryside
+15. The Library at Mount Char
+16. The Tower of Swallows
 
 **Read in 2020**
 
