@@ -7,7 +7,6 @@ draft: false
 
 **Currently Reading:**
 
-- Words Are My Matter
 - Winter's Heart
 - A Darker Shade of Magic
 
@@ -29,6 +28,9 @@ draft: false
 14. Foundryside
 15. The Library at Mount Char
 16. The Tower of Swallows
+17. Station Eleven
+18. Who Rules the World?
+19. Words Are My Matter
 
 **Read in 2020**
 
