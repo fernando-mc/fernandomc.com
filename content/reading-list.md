@@ -9,6 +9,7 @@ draft: false
 
 - Winter's Heart
 - A Darker Shade of Magic
+- Gideon the Ninth - Tamsyn Muir
 
 **Read in 2021**
 
@@ -23,14 +24,18 @@ draft: false
 9. The Water Dancer - Ta-Nehisi Coates
 10. The Song of Achilles - Madeline Miller
 11. Inventing Latinos: A New Story of American Racism - Laura E. Gómez
-12. Rhythm of War
-13. Empire of Gold
-14. Foundryside
-15. The Library at Mount Char
-16. The Tower of Swallows
-17. Station Eleven
-18. Who Rules the World?
-19. Words Are My Matter
+12. Rhythm of War - Brandon Sanderson
+13. Empire of Gold - S. A. Chakraborty
+14. Foundryside - Robert Jackson Bennett
+15. The Library at Mount Char - Scott Hawkins
+16. The Tower of Swallows - Andrzej Sapkowski
+17. Station Eleven - Emily St. John Mandel
+18. Who Rules the World? - Noam Chomsky
+19. Words Are My Matter - Ursula K. Le Guin
+20. Gifts - Ursula K. Le Guin
+21. The Wave in the Mind - Ursula K. Le Guin
+22. The Eye of the Heron - Ursula K. Le Guin
+23. The Jakarta Method - Vincent Bevins
 
 **Read in 2020**
 
