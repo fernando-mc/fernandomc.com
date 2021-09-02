@@ -36,6 +36,14 @@ draft: false
 21. The Wave in the Mind - Ursula K. Le Guin
 22. The Eye of the Heron - Ursula K. Le Guin
 23. The Jakarta Method - Vincent Bevins
+24. Coming of Age in Karhide - Ursula K. Le Guin
+25. The Matter of Seggri - Ursula K. Le Guin
+26. Unchosen Love - Ursula K. Le Guin
+27. Mountain Ways - Ursula K. Le Guin
+28. Solitude - Ursula K. Le Guin
+29. Old Music and the Slave Women - Ursula K. Le Guin
+30. The Birthday of the World - Ursula K. Le Guin
+31. Paradises Lost - Ursula K. Le Guin
 
 **Read in 2020**
 
