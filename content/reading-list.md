@@ -10,6 +10,11 @@ draft: false
 - Winter's Heart
 - A Darker Shade of Magic
 - Gideon the Ninth - Tamsyn Muir
+- The Finder - Ursula K. Le Guin
+- On the High Marsh - Ursula K. Le Guin
+- Dragonfly - Ursula K. Le Guin
+- Parable of the Talents - Octavia E. Butler
+- Paradises Lost - Ursula K. Le Guin
 
 **Read in 2021**
 
@@ -42,8 +47,23 @@ draft: false
 27. Mountain Ways - Ursula K. Le Guin
 28. Solitude - Ursula K. Le Guin
 29. Old Music and the Slave Women - Ursula K. Le Guin
-30. The Birthday of the World - Ursula K. Le Guin
-31. Paradises Lost - Ursula K. Le Guin
+30. Solitude - Ursula K. Le Guin
+31. The Found and the Lost - Ursula K. Le Guin
+32. Vaster Than Empires and More Slow - Ursula K. Le Guin
+33. Buffalo Gals, Won't You Come Out Tonight - Ursula K. Le Guin
+34. Hernes - Ursula K. Le Guin
+35. The Matter of Seggri - Ursula K. Le Guin
+36. A Fisherman of the Inland Sea - Ursula K. Le Guin
+37. Forgiveness Day - Ursula K. Le Guin
+38. A Man of the People - Ursula K. Le Guin
+39. A Woman's Liberation - Ursula K. Le Guin
+40. Old Music and the Slave Women - Ursula K. Le Guin
+41. Parable of the Sower - Octavia E. Butler
+42. The Birthday of the World - Ursula K. Le Guin
+43. Coming of Age in Karhide - Ursula K. Le Guin
+44. The Matter of Seggri - Ursula K. Le Guin
+45. Unchosen Love - Ursula K. Le Guin
+46. Mountain Ways - Ursula K. Le Guin
 
 **Read in 2020**
 
