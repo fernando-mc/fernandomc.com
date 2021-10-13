@@ -10,11 +10,6 @@ draft: false
 - Winter's Heart
 - A Darker Shade of Magic
 - Gideon the Ninth - Tamsyn Muir
-- The Finder - Ursula K. Le Guin
-- On the High Marsh - Ursula K. Le Guin
-- Dragonfly - Ursula K. Le Guin
-- Parable of the Talents - Octavia E. Butler
-- Paradises Lost - Ursula K. Le Guin
 
 **Read in 2021**
 
@@ -64,6 +59,14 @@ draft: false
 44. The Matter of Seggri - Ursula K. Le Guin
 45. Unchosen Love - Ursula K. Le Guin
 46. Mountain Ways - Ursula K. Le Guin
+47. The Finder - Ursula K. Le Guin
+48. On the High Marsh - Ursula K. Le Guin
+49. Dragonfly - Ursula K. Le Guin
+50. Parable of the Talents - Octavia E. Butler
+51. Paradises Lost - Ursula K. Le Guin
+52. A Necessary Being - Octavia E. Butler
+53. Childfinder - Octavia E. Butler
+54. Rising Out of Hatred - Eli Saslo
 
 **Read in 2020**
 
