@@ -9,7 +9,6 @@ draft: false
 
 - Winter's Heart
 - A Darker Shade of Magic
-- Gideon the Ninth - Tamsyn Muir
 
 **Read in 2021**
 
@@ -67,6 +66,8 @@ draft: false
 52. A Necessary Being - Octavia E. Butler
 53. Childfinder - Octavia E. Butler
 54. Rising Out of Hatred - Eli Saslo
+55. Gideon the Ninth - Tamsyn Muir
+56. Catwings - Ursula K. Le Guin
 
 **Read in 2020**
 
