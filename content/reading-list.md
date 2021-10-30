@@ -10,6 +10,7 @@ draft: false
 - Winter's Heart
 - A Darker Shade of Magic
 - Empire in Black and Gold - Adrian Tchaikovsky
+- Luster - Raven Leilani
 
 **Read in 2021**
 
