@@ -7,10 +7,8 @@ draft: false
 
 **Currently Reading:**
 
-- Winter's Heart
-- A Darker Shade of Magic
-- Empire in Black and Gold - Adrian Tchaikovsky
-- Luster - Raven Leilani
+- Winter's Heart - Robert Jordan
+- Harrow the Ninth - Tamsyn Muir
 
 **Read in 2021**
 
@@ -70,6 +68,9 @@ draft: false
 54. Rising Out of Hatred - Eli Saslo
 55. Gideon the Ninth - Tamsyn Muir
 56. Catwings - Ursula K. Le Guin
+57. Empire in Black and Gold - Adrian Tchaikovsky
+58. Luster - Raven Leilani
+
 
 **Read in 2020**
 
