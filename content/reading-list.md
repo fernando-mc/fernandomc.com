@@ -7,8 +7,20 @@ draft: false
 
 **Currently Reading:**
 
-- Winter's Heart - Robert Jordan
-- Harrow the Ninth - Tamsyn Muir
+- The Devil in the White City
+
+**Read in 2022**
+
+1. Harrow the Ninth - Tamsyn Muir
+2. A Memory Called Empire - Arkady Martine
+3. The Way of Shadows - Brent Weeks
+4. Shadow's Edge - Brent Weeks
+5. Sunreach (Skyward Flight: Novella 1) - Brandon Sanderson and Janci Patterson
+6. Polysecure - Jessica Fern
+7. The Dragon Keeper - Robin Hobb
+8. Kraken - China Miéville
+9. Sunreach
+10. The City We Became
 
 **Read in 2021**
 
@@ -69,8 +81,6 @@ draft: false
 55. Gideon the Ninth - Tamsyn Muir
 56. Catwings - Ursula K. Le Guin
 57. Empire in Black and Gold - Adrian Tchaikovsky
-58. Luster - Raven Leilani
-
 
 **Read in 2020**
 
