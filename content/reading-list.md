@@ -7,7 +7,8 @@ draft: false
 
 **Currently Reading:**
 
-- The Devil in the White City
+- The Blade Itself - Joe Abercrombie
+- Brave New World - Aldous Huxley
 
 **Read in 2022**
 
@@ -19,8 +20,9 @@ draft: false
 6. Polysecure - Jessica Fern
 7. The Dragon Keeper - Robin Hobb
 8. Kraken - China Miéville
-9. Sunreach
-10. The City We Became
+9. Sunreach - Janci Patterson, Brandon Sanderson
+10. The City We Became - N. K. Jemisin
+11. The Devil in the White City - Erik Larson
 
 **Read in 2021**
 
