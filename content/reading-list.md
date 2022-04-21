@@ -9,6 +9,7 @@ draft: false
 
 - The Blade Itself - Joe Abercrombie
 - Brave New World - Aldous Huxley
+- Lot - Bryan Washington
 
 **Read in 2022**
 
@@ -53,36 +54,35 @@ draft: false
 25. The Matter of Seggri - Ursula K. Le Guin
 26. Unchosen Love - Ursula K. Le Guin
 27. Mountain Ways - Ursula K. Le Guin
-28. Solitude - Ursula K. Le Guin
-29. Old Music and the Slave Women - Ursula K. Le Guin
-30. Solitude - Ursula K. Le Guin
-31. The Found and the Lost - Ursula K. Le Guin
-32. Vaster Than Empires and More Slow - Ursula K. Le Guin
-33. Buffalo Gals, Won't You Come Out Tonight - Ursula K. Le Guin
-34. Hernes - Ursula K. Le Guin
-35. The Matter of Seggri - Ursula K. Le Guin
-36. A Fisherman of the Inland Sea - Ursula K. Le Guin
-37. Forgiveness Day - Ursula K. Le Guin
-38. A Man of the People - Ursula K. Le Guin
-39. A Woman's Liberation - Ursula K. Le Guin
-40. Old Music and the Slave Women - Ursula K. Le Guin
-41. Parable of the Sower - Octavia E. Butler
-42. The Birthday of the World - Ursula K. Le Guin
-43. Coming of Age in Karhide - Ursula K. Le Guin
-44. The Matter of Seggri - Ursula K. Le Guin
-45. Unchosen Love - Ursula K. Le Guin
-46. Mountain Ways - Ursula K. Le Guin
-47. The Finder - Ursula K. Le Guin
-48. On the High Marsh - Ursula K. Le Guin
-49. Dragonfly - Ursula K. Le Guin
-50. Parable of the Talents - Octavia E. Butler
-51. Paradises Lost - Ursula K. Le Guin
-52. A Necessary Being - Octavia E. Butler
-53. Childfinder - Octavia E. Butler
-54. Rising Out of Hatred - Eli Saslo
-55. Gideon the Ninth - Tamsyn Muir
-56. Catwings - Ursula K. Le Guin
-57. Empire in Black and Gold - Adrian Tchaikovsky
+28. Old Music and the Slave Women - Ursula K. Le Guin
+29. Solitude - Ursula K. Le Guin
+30. The Found and the Lost - Ursula K. Le Guin
+31. Vaster Than Empires and More Slow - Ursula K. Le Guin
+32. Buffalo Gals, Won't You Come Out Tonight - Ursula K. Le Guin
+33. Hernes - Ursula K. Le Guin
+34. The Matter of Seggri - Ursula K. Le Guin
+35. A Fisherman of the Inland Sea - Ursula K. Le Guin
+36. Forgiveness Day - Ursula K. Le Guin
+37. A Man of the People - Ursula K. Le Guin
+38. A Woman's Liberation - Ursula K. Le Guin
+39. Old Music and the Slave Women - Ursula K. Le Guin
+40. Parable of the Sower - Octavia E. Butler
+41. The Birthday of the World - Ursula K. Le Guin
+42. Coming of Age in Karhide - Ursula K. Le Guin
+43. The Matter of Seggri - Ursula K. Le Guin
+44. Unchosen Love - Ursula K. Le Guin
+45. Mountain Ways - Ursula K. Le Guin
+46. The Finder - Ursula K. Le Guin
+47. On the High Marsh - Ursula K. Le Guin
+48. Dragonfly - Ursula K. Le Guin
+49. Parable of the Talents - Octavia E. Butler
+50. Paradises Lost - Ursula K. Le Guin
+51. A Necessary Being - Octavia E. Butler
+52. Childfinder - Octavia E. Butler
+53. Rising Out of Hatred - Eli Saslo
+54. Gideon the Ninth - Tamsyn Muir
+55. Catwings - Ursula K. Le Guin
+56. Empire in Black and Gold - Adrian Tchaikovsky
 
 **Read in 2020**
 
