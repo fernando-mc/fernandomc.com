@@ -8,8 +8,6 @@ draft: false
 **Currently Reading:**
 
 - The Blade Itself - Joe Abercrombie
-- Brave New World - Aldous Huxley
-- Lot - Bryan Washington
 
 **Read in 2022**
 
@@ -24,6 +22,9 @@ draft: false
 9. Sunreach - Janci Patterson, Brandon Sanderson
 10. The City We Became - N. K. Jemisin
 11. The Devil in the White City - Erik Larson
+12. Lot - Bryan Washington
+13. Brave New World - Aldous Huxley
+14. A Desolation Called Peace - Arkady Martine
 
 **Read in 2021**
 
