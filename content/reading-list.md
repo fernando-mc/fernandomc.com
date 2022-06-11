@@ -7,7 +7,8 @@ draft: false
 
 **Currently Reading:**
 
-- The Blade Itself - Joe Abercrombie
+- Before They Are Hanged - Joe Abercrombie
+- Creating Consent Culture - Erica Scott and Marcia Baczynski
 
 **Read in 2022**
 
@@ -25,6 +26,8 @@ draft: false
 12. Lot - Bryan Washington
 13. Brave New World - Aldous Huxley
 14. A Desolation Called Peace - Arkady Martine
+15. The Blade Itself - Joe Abercrombie
+16. Cloud Cuckoo Land - Anthony Doerr
 
 **Read in 2021**
 
