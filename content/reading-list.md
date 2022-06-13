@@ -20,14 +20,13 @@ draft: false
 6. Polysecure - Jessica Fern
 7. The Dragon Keeper - Robin Hobb
 8. Kraken - China Miéville
-9. Sunreach - Janci Patterson, Brandon Sanderson
-10. The City We Became - N. K. Jemisin
-11. The Devil in the White City - Erik Larson
-12. Lot - Bryan Washington
-13. Brave New World - Aldous Huxley
-14. A Desolation Called Peace - Arkady Martine
-15. The Blade Itself - Joe Abercrombie
-16. Cloud Cuckoo Land - Anthony Doerr
+9. The City We Became - N. K. Jemisin
+10. The Devil in the White City - Erik Larson
+11. Lot - Bryan Washington
+12. Brave New World - Aldous Huxley
+13. A Desolation Called Peace - Arkady Martine
+14. The Blade Itself - Joe Abercrombie
+15. Cloud Cuckoo Land - Anthony Doerr
 
 **Read in 2021**
 
