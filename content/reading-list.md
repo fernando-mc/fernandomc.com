@@ -9,6 +9,8 @@ draft: false
 
 - Before They Are Hanged - Joe Abercrombie
 - Creating Consent Culture - Erica Scott and Marcia Baczynski
+- An Absolutely Remarkable Thing - Hank Green
+- The Last Graduate - Naomi Novik
 
 **Read in 2022**
 
@@ -27,6 +29,7 @@ draft: false
 13. A Desolation Called Peace - Arkady Martine
 14. The Blade Itself - Joe Abercrombie
 15. Cloud Cuckoo Land - Anthony Doerr
+16. A Deadly Education - Naomi Novik
 
 **Read in 2021**
 
