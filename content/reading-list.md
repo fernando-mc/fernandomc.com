@@ -9,8 +9,6 @@ draft: false
 
 - Before They Are Hanged - Joe Abercrombie
 - Creating Consent Culture - Erica Scott and Marcia Baczynski
-- An Absolutely Remarkable Thing - Hank Green
-- The Last Graduate - Naomi Novik
 
 **Read in 2022**
 
@@ -30,6 +28,9 @@ draft: false
 14. The Blade Itself - Joe Abercrombie
 15. Cloud Cuckoo Land - Anthony Doerr
 16. A Deadly Education - Naomi Novik
+17. An Absolutely Remarkable Thing - Hank Green
+18. The Last Graduate - Naomi Novik
+19. Sea of Rust - C. Robert Cargill
 
 **Read in 2021**
 
