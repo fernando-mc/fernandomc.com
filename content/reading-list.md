@@ -9,6 +9,7 @@ draft: false
 
 - Before They Are Hanged - Joe Abercrombie
 - Creating Consent Culture - Erica Scott and Marcia Baczynski
+- The Raven Stratagem - Yoon Ha Lee
 
 **Read in 2022**
 
@@ -31,6 +32,7 @@ draft: false
 17. An Absolutely Remarkable Thing - Hank Green
 18. The Last Graduate - Naomi Novik
 19. Sea of Rust - C. Robert Cargill
+20. The Girl with All the Gifts - Mike Carey
 
 **Read in 2021**
 
