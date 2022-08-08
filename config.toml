@@ -6,7 +6,7 @@ pluralizelisttitles = false
 PygmentsCodeFences = true
 Paginate = 5
 copyright = "© Fernando Medina Corey | "
-GoogleAnalytics = "UA-88768773-1"
+GoogleAnalytics = "G-R5H99MRCH0"
 
 [params]
     # favicon = "favicon.ico"
@@ -14,16 +14,16 @@ GoogleAnalytics = "UA-88768773-1"
     description = "I'm Fernando Medina Corey, a cloud architect, published course author for software engineering content and an avid punster."
     gtm_id = "GTM-ND5HJ7K"
     gtm_datalayer = "basic"
-	[params.author]
-		name = "Fernando Medina Corey"
-		avatar = "/images/fernando.jpg"
-		bio = "I'm Fernando Medina Corey, a cloud architect, published course author for software engineering content and an avid punster."
-		github = "fernando-mc"
+  [params.author]
+    name = "Fernando Medina Corey"
+    avatar = "/images/fernando.jpg"
+    bio = "I'm Fernando Medina Corey, a cloud architect, published course author for software engineering content and an avid punster."
+    github = "fernando-mc"
         twitter = "fmc_sea"
         linkedin = "fmc-sea"
         email = "fernandomc.sea@gmail.com"
-	[params.image]
-	  feature = "/images/colombia.png"
+  [params.image]
+    feature = "/images/colombia.png"
       credit = "Isabella Medina | ismedina.com"
 
 [markup]
