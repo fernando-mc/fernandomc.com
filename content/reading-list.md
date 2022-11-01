@@ -7,7 +7,6 @@ draft: false
 
 **Currently Reading:**
 
-- Before They Are Hanged - Joe Abercrombie
 - Creating Consent Culture - Erica Scott and Marcia Baczynski
 
 **Read in 2022**
@@ -33,6 +32,9 @@ draft: false
 19. Sea of Rust - C. Robert Cargill
 20. The Girl with All the Gifts - Mike Carey
 21. The Raven Stratagem - Yoon Ha Lee
+22. Before They Are Hanged - Joe Abercrombie
+23. Spinning Silver - Naomi Novik
+24. The Original - Brandon Sanderson and Mary Robinette Kowal
 
 **Read in 2021**
 
