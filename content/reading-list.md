@@ -7,7 +7,8 @@ draft: false
 
 **Currently Reading:**
 
-- Creating Consent Culture - Erica Scott and Marcia Baczynski
+- Uprooted - Naomi Novik
+- Awakening - Brandon Sanderson
 
 **Read in 2022**
 
@@ -35,6 +36,7 @@ draft: false
 22. Before They Are Hanged - Joe Abercrombie
 23. Spinning Silver - Naomi Novik
 24. The Original - Brandon Sanderson and Mary Robinette Kowal
+25. Creating Consent Culture - Erica Scott and Marcia Baczynski
 
 **Read in 2021**
 
