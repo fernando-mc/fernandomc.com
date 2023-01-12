@@ -7,8 +7,15 @@ draft: false
 
 **Currently Reading:**
 
-- Uprooted - Naomi Novik
-- Awakening - Brandon Sanderson
+- A Master of Djinn - P. Djèlí Clark
+
+**Read in 2023**
+
+1. Uprooted - Naomi Novik
+2. Awakening - Brandon Sanderson
+3. The Golden Enclaves - Naomi Novik
+4. American War - Omar El Akkad
+5. The Lost Metal - Brandon Sanderson
 
 **Read in 2022**
 
