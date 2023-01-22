@@ -7,7 +7,7 @@ draft: false
 
 **Currently Reading:**
 
-- A Master of Djinn - P. Djèlí Clark
+- The Traitor Baru Cormorant - Seth Dickinson
 
 **Read in 2023**
 
@@ -16,6 +16,7 @@ draft: false
 3. The Golden Enclaves - Naomi Novik
 4. American War - Omar El Akkad
 5. The Lost Metal - Brandon Sanderson
+6. A Master of Djinn - P. Djèlí Clark
 
 **Read in 2022**
 
