@@ -7,7 +7,7 @@ draft: false
 
 **Currently Reading:**
 
-- The Traitor Baru Cormorant - Seth Dickinson
+- Bindle Punk Bruja - Desideria Mesa
 
 **Read in 2023**
 
@@ -17,6 +17,8 @@ draft: false
 4. American War - Omar El Akkad
 5. The Lost Metal - Brandon Sanderson
 6. A Master of Djinn - P. Djèlí Clark
+7. The Traitor Baru Cormorant - Seth Dickinson
+8. City of Stairs - Robert Jackson Bennett
 
 **Read in 2022**
 
