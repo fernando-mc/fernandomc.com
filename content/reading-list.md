@@ -7,7 +7,9 @@ draft: false
 
 **Currently Reading:**
 
-- Bindle Punk Bruja - Desideria Mesa
+- The Mists of Avalon - Marion Zimmer Bradley
+- City of Blades - Robert Jackson Bennett
+- A Dead Djinn in Cairo - P. Djeli Clark
 
 **Read in 2023**
 
@@ -19,6 +21,8 @@ draft: false
 6. A Master of Djinn - P. Djèlí Clark
 7. The Traitor Baru Cormorant - Seth Dickinson
 8. City of Stairs - Robert Jackson Bennett
+9. Bindle Punk Bruja - Desideria Mesa
+10. Tempests and Slaughter - Tamora Pierce
 
 **Read in 2022**
 
