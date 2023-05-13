@@ -9,7 +9,7 @@ draft: false
 
 - The Mists of Avalon - Marion Zimmer Bradley
 - City of Blades - Robert Jackson Bennett
-- A Dead Djinn in Cairo - P. Djeli Clark
+- The Last Argument of Kings - Joe Abercrombie
 
 **Read in 2023**
 
@@ -23,6 +23,9 @@ draft: false
 8. City of Stairs - Robert Jackson Bennett
 9. Bindle Punk Bruja - Desideria Mesa
 10. Tempests and Slaughter - Tamora Pierce
+11. A Dead Djinn in Cairo - P. Djeli Clark
+12. Battle Magic - Tamora Pierce
+13. The Tyrant Baru Cormorant - Seth Dickinson
 
 **Read in 2022**
 
