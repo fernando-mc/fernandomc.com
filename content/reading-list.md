@@ -26,6 +26,7 @@ draft: false
 11. A Dead Djinn in Cairo - P. Djeli Clark
 12. Battle Magic - Tamora Pierce
 13. The Tyrant Baru Cormorant - Seth Dickinson
+14. The Blacktongue Thief - Christopher Buehlman
 
 **Read in 2022**
 
