@@ -8,8 +8,9 @@ draft: false
 **Currently Reading:**
 
 - The Mists of Avalon - Marion Zimmer Bradley
-- City of Blades - Robert Jackson Bennett
-- The Last Argument of Kings - Joe Abercrombie
+- The Jasmine Throne - Tasha Suri
+- The City of Blades - Robert Jackson Bennett
+- The Unbroken - C. L. Clark
 
 **Read in 2023**
 
@@ -27,6 +28,16 @@ draft: false
 12. Battle Magic - Tamora Pierce
 13. The Tyrant Baru Cormorant - Seth Dickinson
 14. The Blacktongue Thief - Christopher Buehlman
+15. Revenant Gun - Yoon Ha Lee
+16. The Last Argument of Kings - Joe Abercrombie
+17. City of Blades - Robert Jackson Bennett
+18. Assata: An Autobiography - Assata Shakur
+19. Dragon Pearl - Yoon Ha Lee
+20. When Women Were Dragons - Kelly Barnhill
+21. Poverty by America - Matthew Desmond
+22. The Sunlit Man - Brandon Sanderson
+23. Nona The Ninth - Tamsyn Muir
+24. The Black Witch - Laurie Forest
 
 **Read in 2022**
 
