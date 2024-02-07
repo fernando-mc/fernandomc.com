@@ -11,6 +11,12 @@ draft: false
 - The Jasmine Throne - Tasha Suri
 - The City of Blades - Robert Jackson Bennett
 - The Unbroken - C. L. Clark
+- Of Silver and Shadow - Jennifer Gruenke
+- Book of Night - Holly Black
+
+**Read in 2024**
+
+1. When Women Were Dragons - Kelly Barnhill
 
 **Read in 2023**
 
