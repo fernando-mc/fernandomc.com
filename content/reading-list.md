@@ -12,11 +12,13 @@ draft: false
 - The City of Blades - Robert Jackson Bennett
 - The Unbroken - C. L. Clark
 - Of Silver and Shadow - Jennifer Gruenke
-- Book of Night - Holly Black
+- Red Rising - Pierce Brown
 
 **Read in 2024**
 
 1. When Women Were Dragons - Kelly Barnhill
+2. Dawnshard - Brandon Sanderson
+3. Book of Night - Holly Black
 
 **Read in 2023**
 
