@@ -8,17 +8,20 @@ draft: false
 **Currently Reading:**
 
 - The Mists of Avalon - Marion Zimmer Bradley
-- The Jasmine Throne - Tasha Suri
-- The City of Blades - Robert Jackson Bennett
-- The Unbroken - C. L. Clark
-- Of Silver and Shadow - Jennifer Gruenke
-- Red Rising - Pierce Brown
+- Iron Gold - Pierce Brown
 
 **Read in 2024**
 
 1. When Women Were Dragons - Kelly Barnhill
 2. Dawnshard - Brandon Sanderson
 3. Book of Night - Holly Black
+4. Red Rising - Pierce Brown
+5. Golden Son - Pierce Brown
+6. Morning Star - Pierce Brown
+7. Of Silver and Shadow - Jennifer Gruenke
+8. The City of Blades - Robert Jackson Bennett
+9. The Jasmine Throne - Tasha Suri
+10. The Unbroken - C. L. Clark
 
 **Read in 2023**
 
