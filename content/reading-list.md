@@ -9,6 +9,8 @@ draft: false
 
 - The Mists of Avalon - Marion Zimmer Bradley
 - Iron Gold - Pierce Brown
+- His Majesty's Dragon - Naomi Novik
+- The Bear and the Nightingale - Katherine Arden
 
 **Read in 2024**
 
@@ -22,6 +24,7 @@ draft: false
 8. The City of Blades - Robert Jackson Bennett
 9. The Jasmine Throne - Tasha Suri
 10. The Unbroken - C. L. Clark
+11. The Power - Naomi Alderman
 
 **Read in 2023**
 
