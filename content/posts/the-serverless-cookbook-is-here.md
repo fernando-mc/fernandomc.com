@@ -34,4 +34,4 @@ Not only does this book have a written component with all the projects and examp
 
 This way you can see step by step exactly what I'm doing to deploy and test my applications.
 
-If you're interested in the book, please take a look at the [website](https://www.theserverlesscookbook.com/) and let me know what you think! And to everyone and anyone who paitently waited for this book to come out, thank you so much for your support - it turns out while scaling up serverless is fast, writing a book about it is not!
+If you're interested in the book, please take a look at the [website](https://www.theserverlesscookbook.com/) and let me know what you think! And to everyone and anyone who patiently waited for this book to come out, thank you so much for your support - it turns out while scaling up serverless is fast, writing a book about it is not!
