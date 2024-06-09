@@ -20,7 +20,7 @@ type = "blog"
 sponsor_message = "Then you might like my book! This post is an excerpt from The Serverless Cookbook."
 sponsor_link = "https://theserverlesscookbook.com/"
 [image]
-    feature = "/images/theserverlesscookbook/theserverlesscookbook-is-here.png"
+    feature = "/images/secrets-in-parameter-store/secrets-in-parameter-store.png"
     postheader = "/images/abstract-6-short.png"
 +++
 
