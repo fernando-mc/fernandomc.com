@@ -1,5 +1,5 @@
 +++
-Description = ""
+Description = "A look at using the AWS parameter store to handle secrets securely."
 Tags = [
   "Architecture",
   "AWS",
